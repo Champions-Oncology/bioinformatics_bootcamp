@@ -1,0 +1,3562 @@
+,model_name,agent,TGI,tumor_type
+0,CTG-0009,5-Fluorouracil,15,Adenoid cystic carcinoma
+1,CTG-0009,Bortezomib,9,Adenoid cystic carcinoma
+2,CTG-0009,Dasatinib,38,Adenoid cystic carcinoma
+3,CTG-0009,Imatinib,6,Adenoid cystic carcinoma
+4,CTG-0009,Irinotecan,47,Adenoid cystic carcinoma
+5,CTG-0009,Lapatinib,16,Adenoid cystic carcinoma
+6,CTG-0009,Liposomal doxorubicin,42,Adenoid cystic carcinoma
+7,CTG-0009,Nab-paclitaxel,76,Adenoid cystic carcinoma
+8,CTG-0009,Oxaliplatin,26,Adenoid cystic carcinoma
+9,CTG-0009,Sorafenib,47,Adenoid cystic carcinoma
+10,CTG-0009,Sunitinib,28,Adenoid cystic carcinoma
+11,CTG-0009,Temozolomide,98,Adenoid cystic carcinoma
+12,CTG-0009,Temsirolimus,64,Adenoid cystic carcinoma
+13,CTG-0009,Topotecan,39,Adenoid cystic carcinoma
+14,CTG-0009,Trastuzumab,19,Adenoid cystic carcinoma
+15,CTG-0009,Vorinostat,37,Adenoid cystic carcinoma
+16,CTG-0011,Capecitabine,79,Cholangiocarcinoma
+17,CTG-0011,Cisplatin,74,Cholangiocarcinoma
+18,CTG-0011,Cisplatin,58,Cholangiocarcinoma
+19,CTG-0011,Gemcitabine,58,Cholangiocarcinoma
+20,CTG-0011,Erlotinib,52,Cholangiocarcinoma
+21,CTG-0011,Gemcitabine,61,Cholangiocarcinoma
+22,CTG-0011,Oxaliplatin,42,Cholangiocarcinoma
+23,CTG-0012,Carboplatin,137,Breast
+24,CTG-0012,Carboplatin,118,Breast
+25,CTG-0012,Paclitaxel,118,Breast
+26,CTG-0012,Cetuximab,23,Breast
+27,CTG-0012,Cisplatin,93,Breast
+28,CTG-0012,Cisplatin,124,Breast
+29,CTG-0012,Cisplatin,100,Breast
+30,CTG-0012,Irinotecan,100,Breast
+31,CTG-0012,Dasatinib,38,Breast
+32,CTG-0012,Docetaxel,60,Breast
+33,CTG-0012,Docetaxel,79,Breast
+34,CTG-0012,Doxorubicin,82,Breast
+35,CTG-0012,Docetaxel,76,Breast
+36,CTG-0012,Erlotinib,76,Breast
+37,CTG-0012,Docetaxel,138,Breast
+38,CTG-0012,Everolimus,138,Breast
+39,CTG-0012,Liposomal doxorubicin,84,Breast
+40,CTG-0012,Olaparib,32,Breast
+41,CTG-0012,Olaparib,37,Breast
+42,CTG-0012,Olaparib,57,Breast
+43,CTG-0012,Paclitaxel,33,Breast
+44,CTG-0012,Paclitaxel,37,Breast
+45,CTG-0012,Paclitaxel,46,Breast
+46,CTG-0012,Palbociclib,29,Breast
+47,CTG-0012,Temozolomide,17,Breast
+48,CTG-0012,Temsirolimus,48,Breast
+49,CTG-0017,Carboplatin,115,Breast
+50,CTG-0017,Carboplatin,104,Breast
+51,CTG-0017,Paclitaxel,104,Breast
+52,CTG-0017,Cetuximab,-82,Breast
+53,CTG-0017,Cetuximab,-5,Breast
+54,CTG-0017,Cisplatin,62,Breast
+55,CTG-0017,Cisplatin,113,Breast
+56,CTG-0017,Cisplatin,148,Breast
+57,CTG-0017,Docetaxel,79,Breast
+58,CTG-0017,Eribulin,197,Breast
+59,CTG-0017,Docetaxel,84,Breast
+60,CTG-0017,Erlotinib,84,Breast
+61,CTG-0017,Gemcitabine,0,Breast
+62,CTG-0017,Liposomal doxorubicin,-108,Breast
+63,CTG-0017,Liposomal doxorubicin,83,Breast
+64,CTG-0017,Paclitaxel,94,Breast
+65,CTG-0017,Paclitaxel,111,Breast
+66,CTG-0017,Paclitaxel,242,Breast
+67,CTG-0018,Carboplatin,-46,Breast
+68,CTG-0018,Paclitaxel,-46,Breast
+69,CTG-0018,Cetuximab,24,Breast
+70,CTG-0018,Cisplatin,10,Breast
+71,CTG-0018,Cisplatin,45,Breast
+72,CTG-0018,Docetaxel,60,Breast
+73,CTG-0018,Docetaxel,100,Breast
+74,CTG-0018,Erlotinib,100,Breast
+75,CTG-0018,Gemcitabine,42,Breast
+76,CTG-0018,Liposomal doxorubicin,40,Breast
+77,CTG-0018,Paclitaxel,52,Breast
+78,CTG-0018,Trastuzumab emtansine,60,Breast
+79,CTG-0019,Trastuzumab,-76,Breast
+80,CTG-0019,Trastuzumab,-43,Breast
+81,CTG-0033,Docetaxel,90,Breast
+82,CTG-0033,Docetaxel,193,Breast
+83,CTG-0033,Trastuzumab,46,Breast
+84,CTG-0033,Trastuzumab,49,Breast
+85,CTG-0033,Trastuzumab,75,Breast
+86,CTG-0033,Trastuzumab emtansine,177,Breast
+87,CTG-0052,Carboplatin,87,Breast
+88,CTG-0052,Paclitaxel,87,Breast
+89,CTG-0052,Cetuximab,43,Breast
+90,CTG-0052,Cisplatin,102,Breast
+91,CTG-0052,Cisplatin,123,Breast
+92,CTG-0052,Docetaxel,78,Breast
+93,CTG-0052,Docetaxel,47,Breast
+94,CTG-0052,Erlotinib,47,Breast
+95,CTG-0052,Liposomal doxorubicin,111,Breast
+96,CTG-0052,Olaparib,97,Breast
+97,CTG-0052,Paclitaxel,-3,Breast
+98,CTG-0061,5-Fluorouracil,48,Colorectal
+99,CTG-0061,Bevacizumab,97,Colorectal
+100,CTG-0061,Cetuximab,11,Colorectal
+101,CTG-0061,Irinotecan,47,Colorectal
+102,CTG-0061,Oxaliplatin,31,Colorectal
+103,CTG-0062,5-Fluorouracil,0,Colorectal
+104,CTG-0062,Cetuximab,26,Colorectal
+105,CTG-0062,Irinotecan,100,Colorectal
+106,CTG-0062,Irinotecan,86,Colorectal
+107,CTG-0062,Oxaliplatin,86,Colorectal
+108,CTG-0062,Oxaliplatin,25,Colorectal
+109,CTG-0063,5-Fluorouracil,36,Colorectal
+110,CTG-0063,Cetuximab,65,Colorectal
+111,CTG-0063,Irinotecan,29,Colorectal
+112,CTG-0063,Oxaliplatin,0,Colorectal
+113,CTG-0064,5-Fluorouracil,68,Colorectal
+114,CTG-0064,Cetuximab,56,Colorectal
+115,CTG-0064,Irinotecan,55,Colorectal
+116,CTG-0064,Oxaliplatin,50,Colorectal
+117,CTG-0064,Panitumumab,33,Colorectal
+118,CTG-0065,Cetuximab,91,Colorectal
+119,CTG-0065,Irinotecan,100,Colorectal
+120,CTG-0065,Oxaliplatin,75,Colorectal
+121,CTG-0065,Paclitaxel,15,Colorectal
+122,CTG-0066,5-Fluorouracil,88,Colorectal
+123,CTG-0066,Cetuximab,98,Colorectal
+124,CTG-0066,Irinotecan,100,Colorectal
+125,CTG-0066,Oxaliplatin,100,Colorectal
+126,CTG-0066,Paclitaxel,96,Colorectal
+127,CTG-0067,5-Fluorouracil,45,Colorectal
+128,CTG-0067,Cetuximab,-56,Colorectal
+129,CTG-0067,Irinotecan,119,Colorectal
+130,CTG-0067,Oxaliplatin,95,Colorectal
+131,CTG-0068,5-Fluorouracil,-8,Colorectal
+132,CTG-0068,Irinotecan,34,Colorectal
+133,CTG-0068,Oxaliplatin,61,Colorectal
+134,CTG-0069,Capecitabine,93,Colorectal
+135,CTG-0069,Sorafenib,93,Colorectal
+136,CTG-0069,Cetuximab,-28,Colorectal
+137,CTG-0069,Everolimus,86,Colorectal
+138,CTG-0069,Lapatinib,86,Colorectal
+139,CTG-0069,Irinotecan,123,Colorectal
+140,CTG-0069,Irinotecan,100,Colorectal
+141,CTG-0069,Lapatinib,100,Colorectal
+142,CTG-0069,Irinotecan,100,Colorectal
+143,CTG-0069,Temsirolimus,100,Colorectal
+144,CTG-0069,Lapatinib,58,Colorectal
+145,CTG-0069,Pemetrexed,58,Colorectal
+146,CTG-0069,Lapatinib,37,Colorectal
+147,CTG-0069,Mitomycin C,37,Colorectal
+148,CTG-0069,Trastuzumab,37,Colorectal
+149,CTG-0069,Oxaliplatin,-28,Colorectal
+150,CTG-0069,Oxaliplatin,39,Colorectal
+151,CTG-0069,Oxaliplatin,48,Colorectal
+152,CTG-0069,Oxaliplatin,64,Colorectal
+153,CTG-0069,Pemetrexed,58,Colorectal
+154,CTG-0075,Cetuximab,113,Colorectal
+155,CTG-0075,Irinotecan,113,Colorectal
+156,CTG-0079,Cetuximab,-124,Colorectal
+157,CTG-0079,Irinotecan,31,Colorectal
+158,CTG-0079,Irinotecan,92,Colorectal
+159,CTG-0079,Oxaliplatin,42,Colorectal
+160,CTG-0079,Oxaliplatin,58,Colorectal
+161,CTG-0082,Irinotecan,137,Colorectal
+162,CTG-0082,Oxaliplatin,137,Colorectal
+163,CTG-0083,5-Fluorouracil,0,Colorectal
+164,CTG-0083,Cetuximab,0,Colorectal
+165,CTG-0083,Irinotecan,62,Colorectal
+166,CTG-0083,Oxaliplatin,0,Colorectal
+167,CTG-0083,Paclitaxel,27,Colorectal
+168,CTG-0084,Irinotecan,90,Colorectal
+169,CTG-0084,Oxaliplatin,51,Colorectal
+170,CTG-0084,Oxaliplatin,73,Colorectal
+171,CTG-0088,Cetuximab,166,Colorectal
+172,CTG-0088,Irinotecan,81,Colorectal
+173,CTG-0088,Paclitaxel,25,Colorectal
+174,CTG-0102,Cisplatin,57,NSCLC
+175,CTG-0102,Erlotinib,14,NSCLC
+176,CTG-0102,Paclitaxel,79,NSCLC
+177,CTG-0103,5-Fluorouracil,67,Colorectal
+178,CTG-0103,5-Fluorouracil,190,Colorectal
+179,CTG-0103,Irinotecan,66,Colorectal
+180,CTG-0103,Irinotecan,228,Colorectal
+181,CTG-0103,Oxaliplatin,-18,Colorectal
+182,CTG-0103,Oxaliplatin,248,Colorectal
+183,CTG-0117,Irinotecan,33,Colorectal
+184,CTG-0117,Oxaliplatin,33,Colorectal
+185,CTG-0121,Trastuzumab,111,Colorectal
+186,CTG-0136,Cisplatin,71,Esophageal
+187,CTG-0136,Erlotinib,62,Esophageal
+188,CTG-0136,Paclitaxel,96,Esophageal
+189,CTG-0137,5-Fluorouracil,68,Esophageal
+190,CTG-0137,Oxaliplatin,68,Esophageal
+191,CTG-0137,Arsenic trioxide,0,Esophageal
+192,CTG-0137,Bevacizumab,86,Esophageal
+193,CTG-0137,Cetuximab,0,Esophageal
+194,CTG-0137,Epirubicin,88,Esophageal
+195,CTG-0137,Erlotinib,0,Esophageal
+196,CTG-0137,Bevacizumab,78,Esophageal
+197,CTG-0137,Erlotinib,78,Esophageal
+198,CTG-0137,Gemcitabine,71,Esophageal
+199,CTG-0137,Bevacizumab,100,Esophageal
+200,CTG-0137,Gemcitabine,100,Esophageal
+201,CTG-0137,Irinotecan,100,Esophageal
+202,CTG-0137,Bevacizumab,100,Esophageal
+203,CTG-0137,Cetuximab,100,Esophageal
+204,CTG-0137,Irinotecan,100,Esophageal
+205,CTG-0137,Ixabepilone,100,Esophageal
+206,CTG-0137,Arsenic trioxide,100,Esophageal
+207,CTG-0137,Ixabepilone,100,Esophageal
+208,CTG-0137,Lapatinib,47,Esophageal
+209,CTG-0137,Bevacizumab,82,Esophageal
+210,CTG-0137,Lapatinib,82,Esophageal
+211,CTG-0137,Mitomycin C,100,Esophageal
+212,CTG-0137,Bevacizumab,100,Esophageal
+213,CTG-0137,Mitomycin C,100,Esophageal
+214,CTG-0137,Sorafenib,100,Esophageal
+215,CTG-0137,Bevacizumab,100,Esophageal
+216,CTG-0137,Sorafenib,100,Esophageal
+217,CTG-0137,Sunitinib,85,Esophageal
+218,CTG-0137,Bevacizumab,91,Esophageal
+219,CTG-0137,Sunitinib,91,Esophageal
+220,CTG-0137,Trastuzumab,2,Esophageal
+221,CTG-0137,Trastuzumab,65,Esophageal
+222,CTG-0137,Trastuzumab,82,Esophageal
+223,CTG-0137,Trastuzumab,82,Esophageal
+224,CTG-0137,Trastuzumab,94,Esophageal
+225,CTG-0138,Trastuzumab,39,Esophageal
+226,CTG-0142,Cisplatin,100,Sarcoma
+227,CTG-0142,Cyclophosphamide,93,Sarcoma
+228,CTG-0142,Cyclophosphamide,141,Sarcoma
+229,CTG-0142,Doxorubicin,-17,Sarcoma
+230,CTG-0142,Doxorubicin,90,Sarcoma
+231,CTG-0142,Doxorubicin,92,Sarcoma
+232,CTG-0142,Evofosfamide,50,Sarcoma
+233,CTG-0142,Evofosfamide,109,Sarcoma
+234,CTG-0142,Ifosfamide,109,Sarcoma
+235,CTG-0142,Gemcitabine,77,Sarcoma
+236,CTG-0142,Ifosfamide,90,Sarcoma
+237,CTG-0142,Ifosfamide,144,Sarcoma
+238,CTG-0142,Irinotecan,102,Sarcoma
+239,CTG-0142,Irinotecan,103,Sarcoma
+240,CTG-0142,Irinotecan,128,Sarcoma
+241,CTG-0142,Temozolomide,128,Sarcoma
+242,CTG-0142,Methotrexate,34,Sarcoma
+243,CTG-0142,Paclitaxel,100,Sarcoma
+244,CTG-0142,Temozolomide,56,Sarcoma
+245,CTG-0142,Temozolomide,163,Sarcoma
+246,CTG-0143,Cisplatin,100,Sarcoma
+247,CTG-0143,Cyclophosphamide,144,Sarcoma
+248,CTG-0143,Doxorubicin,-3,Sarcoma
+249,CTG-0143,Gemcitabine,25,Sarcoma
+250,CTG-0143,Ifosfamide,93,Sarcoma
+251,CTG-0143,Irinotecan,2,Sarcoma
+252,CTG-0143,Irinotecan,125,Sarcoma
+253,CTG-0143,Temozolomide,125,Sarcoma
+254,CTG-0143,Methotrexate,22,Sarcoma
+255,CTG-0143,Paclitaxel,0,Sarcoma
+256,CTG-0143,Temozolomide,28,Sarcoma
+257,CTG-0146,5-Fluorouracil,37,Gastric
+258,CTG-0146,Bevacizumab,63,Gastric
+259,CTG-0146,Cetuximab,68,Gastric
+260,CTG-0146,Irinotecan,20,Gastric
+261,CTG-0146,Irinotecan,53,Gastric
+262,CTG-0146,Oxaliplatin,57,Gastric
+263,CTG-0147,Irinotecan,82,Gastric
+264,CTG-0149,Cetuximab,-16,Head and neck
+265,CTG-0149,Cetuximab,86,Head and neck
+266,CTG-0149,Cetuximab,100,Head and neck
+267,CTG-0149,Cetuximab,102,Head and neck
+268,CTG-0149,Cisplatin,-12,Head and neck
+269,CTG-0149,Cisplatin,33,Head and neck
+270,CTG-0149,Cetuximab,27,Head and neck
+271,CTG-0149,Cisplatin,27,Head and neck
+272,CTG-0149,Dacarbazine,0,Head and neck
+273,CTG-0149,Paclitaxel,4,Head and neck
+274,CTG-0149,Temozolomide,0,Head and neck
+275,CTG-0152,5-Fluorouracil,1,Head and neck
+276,CTG-0152,Cetuximab,58,Head and neck
+277,CTG-0152,Cetuximab,85,Head and neck
+278,CTG-0152,Cetuximab,100,Head and neck
+279,CTG-0152,Cetuximab,109,Head and neck
+280,CTG-0152,Cetuximab,146,Head and neck
+281,CTG-0152,Cisplatin,49,Head and neck
+282,CTG-0152,Cisplatin,50,Head and neck
+283,CTG-0152,Cetuximab,107,Head and neck
+284,CTG-0152,Cisplatin,107,Head and neck
+285,CTG-0152,Paclitaxel,-17,Head and neck
+286,CTG-0152,Paclitaxel,40,Head and neck
+287,CTG-0152,Paclitaxel,71,Head and neck
+288,CTG-0158,Carboplatin,40,NSCLC
+289,CTG-0158,Carboplatin,69,NSCLC
+290,CTG-0158,Paclitaxel,40,NSCLC
+291,CTG-0158,Paclitaxel,69,NSCLC
+292,CTG-0158,Cisplatin,70,NSCLC
+293,CTG-0158,Erlotinib,-41,NSCLC
+294,CTG-0158,Erlotinib,0,NSCLC
+295,CTG-0158,Paclitaxel,34,NSCLC
+296,CTG-0158,Paclitaxel,93,NSCLC
+297,CTG-0159,Carboplatin,18,NSCLC
+298,CTG-0159,Paclitaxel,18,NSCLC
+299,CTG-0159,Bevacizumab,100,NSCLC
+300,CTG-0159,Carboplatin,100,NSCLC
+301,CTG-0159,Paclitaxel,100,NSCLC
+302,CTG-0159,Cetuximab,0,NSCLC
+303,CTG-0159,Cisplatin,-29,NSCLC
+304,CTG-0159,Cisplatin,100,NSCLC
+305,CTG-0159,Gemcitabine,100,NSCLC
+306,CTG-0159,Docetaxel,0,NSCLC
+307,CTG-0159,Erlotinib,-35,NSCLC
+308,CTG-0159,Erlotinib,8,NSCLC
+309,CTG-0159,Erlotinib,31,NSCLC
+310,CTG-0159,Erlotinib,35,NSCLC
+311,CTG-0159,Erlotinib,44,NSCLC
+312,CTG-0159,Paclitaxel,6,NSCLC
+313,CTG-0159,Paclitaxel,49,NSCLC
+314,CTG-0159,Paclitaxel,85,NSCLC
+315,CTG-0159,Pemetrexed,38,NSCLC
+316,CTG-0160,Carboplatin,-18,NSCLC
+317,CTG-0160,Paclitaxel,-18,NSCLC
+318,CTG-0160,Bevacizumab,98,NSCLC
+319,CTG-0160,Carboplatin,98,NSCLC
+320,CTG-0160,Paclitaxel,98,NSCLC
+321,CTG-0160,Cisplatin,40,NSCLC
+322,CTG-0160,Cisplatin,56,NSCLC
+323,CTG-0160,Cisplatin,0,NSCLC
+324,CTG-0160,Cisplatin,43,NSCLC
+325,CTG-0160,Gemcitabine,0,NSCLC
+326,CTG-0160,Gemcitabine,43,NSCLC
+327,CTG-0160,Docetaxel,71,NSCLC
+328,CTG-0160,Erlotinib,64,NSCLC
+329,CTG-0160,Paclitaxel,67,NSCLC
+330,CTG-0160,Paclitaxel,103,NSCLC
+331,CTG-0160,Pemetrexed,5,NSCLC
+332,CTG-0162,Carboplatin,43,NSCLC
+333,CTG-0162,Paclitaxel,43,NSCLC
+334,CTG-0162,Bevacizumab,79,NSCLC
+335,CTG-0162,Carboplatin,79,NSCLC
+336,CTG-0162,Paclitaxel,79,NSCLC
+337,CTG-0162,Cisplatin,32,NSCLC
+338,CTG-0162,Cisplatin,68,NSCLC
+339,CTG-0162,Cisplatin,79,NSCLC
+340,CTG-0162,Gemcitabine,68,NSCLC
+341,CTG-0162,Gemcitabine,79,NSCLC
+342,CTG-0162,Docetaxel,59,NSCLC
+343,CTG-0162,Docetaxel,78,NSCLC
+344,CTG-0162,Erlotinib,54,NSCLC
+345,CTG-0162,Erlotinib,123,NSCLC
+346,CTG-0162,Paclitaxel,-49,NSCLC
+347,CTG-0162,Paclitaxel,-6,NSCLC
+348,CTG-0162,Pemetrexed,-29,NSCLC
+349,CTG-0162,Pemetrexed,29,NSCLC
+350,CTG-0163,Carboplatin,47,NSCLC
+351,CTG-0163,Paclitaxel,47,NSCLC
+352,CTG-0163,Bevacizumab,72,NSCLC
+353,CTG-0163,Carboplatin,72,NSCLC
+354,CTG-0163,Paclitaxel,72,NSCLC
+355,CTG-0163,Cisplatin,176,NSCLC
+356,CTG-0163,Cisplatin,21,NSCLC
+357,CTG-0163,Gemcitabine,21,NSCLC
+358,CTG-0163,Docetaxel,0,NSCLC
+359,CTG-0163,Erlotinib,-13,NSCLC
+360,CTG-0163,Erlotinib,38,NSCLC
+361,CTG-0163,Erlotinib,95,NSCLC
+362,CTG-0163,Gemcitabine,38,NSCLC
+363,CTG-0163,Paclitaxel,-18,NSCLC
+364,CTG-0163,Paclitaxel,71,NSCLC
+365,CTG-0163,Paclitaxel,101,NSCLC
+366,CTG-0163,Pemetrexed,0,NSCLC
+367,CTG-0165,Bevacizumab,24,NSCLC
+368,CTG-0165,Bevacizumab,44,NSCLC
+369,CTG-0165,Cetuximab,17,NSCLC
+370,CTG-0165,Cisplatin,7,NSCLC
+371,CTG-0165,Cisplatin,29,NSCLC
+372,CTG-0165,Cisplatin,83,NSCLC
+373,CTG-0165,Erlotinib,-5,NSCLC
+374,CTG-0165,Erlotinib,3,NSCLC
+375,CTG-0165,Erlotinib,25,NSCLC
+376,CTG-0165,Erlotinib,35,NSCLC
+377,CTG-0165,Erlotinib,55,NSCLC
+378,CTG-0165,Paclitaxel,4,NSCLC
+379,CTG-0165,Paclitaxel,9,NSCLC
+380,CTG-0165,Paclitaxel,33,NSCLC
+381,CTG-0166,Bevacizumab,70,NSCLC
+382,CTG-0166,Cetuximab,32,NSCLC
+383,CTG-0166,Cisplatin,-57,NSCLC
+384,CTG-0166,Cisplatin,69,NSCLC
+385,CTG-0166,Paclitaxel,72,NSCLC
+386,CTG-0166,Paclitaxel,135,NSCLC
+387,CTG-0166,Topotecan,157,NSCLC
+388,CTG-0167,Anti-PD1,10,
+389,CTG-0167,Ipilimumab,10,
+390,CTG-0167,Carboplatin,44,
+391,CTG-0167,Pemetrexed,44,
+392,CTG-0167,Cisplatin,55,
+393,CTG-0167,Cisplatin,33,
+394,CTG-0167,Gemcitabine,33,
+395,CTG-0167,Erlotinib,-39,
+396,CTG-0167,Erlotinib,4,
+397,CTG-0167,Everolimus,75,
+398,CTG-0167,Osimertinib,55,
+399,CTG-0167,Trametinib,1,
+400,CTG-0178,Cisplatin,51,NSCLC
+401,CTG-0178,Erlotinib,2,NSCLC
+402,CTG-0178,Paclitaxel,-16,NSCLC
+403,CTG-0184,Cisplatin,31,NSCLC
+404,CTG-0184,Erlotinib,68,NSCLC
+405,CTG-0184,Paclitaxel,62,NSCLC
+406,CTG-0184,Paclitaxel,88,NSCLC
+407,CTG-0192,Cisplatin,60,NSCLC
+408,CTG-0192,Erlotinib,106,NSCLC
+409,CTG-0192,Paclitaxel,28,NSCLC
+410,CTG-0192,Paclitaxel,78,NSCLC
+411,CTG-0198,Bendamustine,142,SCLC
+412,CTG-0198,Bevacizumab,45,SCLC
+413,CTG-0198,Cetuximab,0,SCLC
+414,CTG-0198,Cisplatin,15,SCLC
+415,CTG-0198,Cisplatin,39,SCLC
+416,CTG-0198,Etoposide,40,SCLC
+417,CTG-0198,Paclitaxel,47,SCLC
+418,CTG-0198,Topotecan,92,SCLC
+419,CTG-0199,Cetuximab,0,SCLC
+420,CTG-0199,Cisplatin,21,SCLC
+421,CTG-0199,Erlotinib,11,SCLC
+422,CTG-0199,Temozolomide,31,SCLC
+423,CTG-0201,Dacarbazine,10,Melanoma
+424,CTG-0201,Temozolomide,4,Melanoma
+425,CTG-0201,Vemurafenib,9,Melanoma
+426,CTG-0202,Anti-CTLA4,33,Melanoma
+427,CTG-0202,Anti-PD1,33,Melanoma
+428,CTG-0202,Dabrafenib,21,Melanoma
+429,CTG-0202,Dabrafenib,84,Melanoma
+430,CTG-0202,Dabrafenib,119,Melanoma
+431,CTG-0202,Dabrafenib,149,Melanoma
+432,CTG-0202,Trametinib,149,Melanoma
+433,CTG-0202,Dacarbazine,58,Melanoma
+434,CTG-0202,Erlotinib,67,Melanoma
+435,CTG-0202,Pembrolizumab,47,Melanoma
+436,CTG-0202,Temozolomide,93,Melanoma
+437,CTG-0202,Trametinib,102,Melanoma
+438,CTG-0202,Trametinib,116,Melanoma
+439,CTG-0202,Vemurafenib,-36,Melanoma
+440,CTG-0202,Vemurafenib,16,Melanoma
+441,CTG-0203,Dacarbazine,78,
+442,CTG-0203,Temozolomide,79,
+443,CTG-0203,Vemurafenib,9,
+444,CTG-0203,Vemurafenib,16,
+445,CTG-0204,Pembrolizumab,14,Melanoma
+446,CTG-0204,Temozolomide,58,Melanoma
+447,CTG-0204,Vemurafenib,22,Melanoma
+448,CTG-0210,Carboplatin,26,Melanoma
+449,CTG-0210,Dacarbazine,28,Melanoma
+450,CTG-0210,Nivolumab,35,Melanoma
+451,CTG-0210,Oxaliplatin,43,Melanoma
+452,CTG-0210,Sunitinib,56,Melanoma
+453,CTG-0210,Nab-paclitaxel,79,Melanoma
+454,CTG-0210,Sunitinib,79,Melanoma
+455,CTG-0210,Temozolomide,2,Melanoma
+456,CTG-0210,Temozolomide,26,Melanoma
+457,CTG-0210,Temsirolimus,66,Melanoma
+458,CTG-0210,Vemurafenib,66,Melanoma
+459,CTG-0213,Temozolomide,97,Melanoma
+460,CTG-0213,Vemurafenib,35,Melanoma
+461,CTG-0234,Cisplatin,71,Mesothelioma
+462,CTG-0234,Pemetrexed,71,Mesothelioma
+463,CTG-0234,Doxorubicin,100,Mesothelioma
+464,CTG-0234,Sunitinib,60,Mesothelioma
+465,CTG-0234,Vinorelbine,59,Mesothelioma
+466,CTG-0237,Cisplatin,69,
+467,CTG-0237,Cisplatin,109,
+468,CTG-0237,Pemetrexed,69,
+469,CTG-0237,Pemetrexed,109,
+470,CTG-0237,Doxorubicin,37,
+471,CTG-0237,Sunitinib,37,
+472,CTG-0237,Sunitinib,0,
+473,CTG-0237,Vorinostat,0,
+474,CTG-0241,Cisplatin,61,Sarcoma
+475,CTG-0241,Cisplatin,155,Sarcoma
+476,CTG-0241,Doxorubicin,61,Sarcoma
+477,CTG-0241,Evofosfamide,32,Sarcoma
+478,CTG-0241,Evofosfamide,-1,Sarcoma
+479,CTG-0241,Ifosfamide,-1,Sarcoma
+480,CTG-0241,Gemcitabine,87,Sarcoma
+481,CTG-0241,Ifosfamide,-64,Sarcoma
+482,CTG-0241,Ifosfamide,0,Sarcoma
+483,CTG-0241,Methotrexate,38,Sarcoma
+484,CTG-0241,Paclitaxel,91,Sarcoma
+485,CTG-0242,Cisplatin,91,Sarcoma
+486,CTG-0242,Gemcitabine,49,Sarcoma
+487,CTG-0242,Ifosfamide,94,Sarcoma
+488,CTG-0242,Methotrexate,5,Sarcoma
+489,CTG-0242,Paclitaxel,73,Sarcoma
+490,CTG-0243,Cisplatin,20,Sarcoma
+491,CTG-0243,Doxorubicin,32,Sarcoma
+492,CTG-0243,Evofosfamide,37,Sarcoma
+493,CTG-0243,Evofosfamide,18,Sarcoma
+494,CTG-0243,Ifosfamide,18,Sarcoma
+495,CTG-0243,Gemcitabine,67,Sarcoma
+496,CTG-0243,Ifosfamide,-38,Sarcoma
+497,CTG-0243,Ifosfamide,44,Sarcoma
+498,CTG-0243,Methotrexate,7,Sarcoma
+499,CTG-0243,Paclitaxel,16,Sarcoma
+500,CTG-0243,Paclitaxel,37,Sarcoma
+501,CTG-0252,Carboplatin,61,Ovarian
+502,CTG-0252,Carboplatin,62,Ovarian
+503,CTG-0252,Carboplatin,87,Ovarian
+504,CTG-0252,Paclitaxel,87,Ovarian
+505,CTG-0252,Paclitaxel,-38,Ovarian
+506,CTG-0252,Paclitaxel,65,Ovarian
+507,CTG-0253,Bevacizumab,75,Ovarian
+508,CTG-0253,Carboplatin,-6,Ovarian
+509,CTG-0253,Carboplatin,13,Ovarian
+510,CTG-0253,Carboplatin,15,Ovarian
+511,CTG-0253,Carboplatin,30,Ovarian
+512,CTG-0253,Carboplatin,45,Ovarian
+513,CTG-0253,Carboplatin,59,Ovarian
+514,CTG-0253,Docetaxel,59,Ovarian
+515,CTG-0253,Carboplatin,42,Ovarian
+516,CTG-0253,Carboplatin,100,Ovarian
+517,CTG-0253,Paclitaxel,42,Ovarian
+518,CTG-0253,Paclitaxel,100,Ovarian
+519,CTG-0253,Paclitaxel,-181,Ovarian
+520,CTG-0253,Paclitaxel,19,Ovarian
+521,CTG-0253,Paclitaxel,71,Ovarian
+522,CTG-0253,Paclitaxel,79,Ovarian
+523,CTG-0253,Temozolomide,78,Ovarian
+524,CTG-0253,Topotecan,45,Ovarian
+525,CTG-0257,Bendamustine,138,Ovarian
+526,CTG-0257,Bendamustine,146,Ovarian
+527,CTG-0257,Carboplatin,-33,Ovarian
+528,CTG-0257,Carboplatin,71,Ovarian
+529,CTG-0257,Carboplatin,98,Ovarian
+530,CTG-0257,Carboplatin,108,Ovarian
+531,CTG-0257,Carboplatin,110,Ovarian
+532,CTG-0257,Carboplatin,33,Ovarian
+533,CTG-0257,Docetaxel,33,Ovarian
+534,CTG-0257,Carboplatin,144,Ovarian
+535,CTG-0257,Paclitaxel,144,Ovarian
+536,CTG-0257,Liposomal doxorubicin,24,Ovarian
+537,CTG-0257,Liposomal doxorubicin,73,Ovarian
+538,CTG-0257,Olaparib,-3,Ovarian
+539,CTG-0257,Olaparib,60,Ovarian
+540,CTG-0257,Paclitaxel,-48,Ovarian
+541,CTG-0258,Carboplatin,105,Ovarian
+542,CTG-0258,Carboplatin,122,Ovarian
+543,CTG-0258,Docetaxel,122,Ovarian
+544,CTG-0258,Carboplatin,28,Ovarian
+545,CTG-0258,Paclitaxel,28,Ovarian
+546,CTG-0258,Liposomal doxorubicin,26,Ovarian
+547,CTG-0258,Niraparib,59,Ovarian
+548,CTG-0258,Olaparib,-114,Ovarian
+549,CTG-0258,Olaparib,-7,Ovarian
+550,CTG-0258,Olaparib,50,Ovarian
+551,CTG-0258,Paclitaxel,5,Ovarian
+552,CTG-0259,Carboplatin,61,Ovarian
+553,CTG-0259,Carboplatin,118,Ovarian
+554,CTG-0259,Carboplatin,143,Ovarian
+555,CTG-0259,Paclitaxel,118,Ovarian
+556,CTG-0259,Paclitaxel,143,Ovarian
+557,CTG-0259,Liposomal doxorubicin,47,Ovarian
+558,CTG-0259,Olaparib,55,Ovarian
+559,CTG-0259,Olaparib,66,Ovarian
+560,CTG-0282,Docetaxel,26,Pancreatic
+561,CTG-0282,Erlotinib,0,Pancreatic
+562,CTG-0282,Gemcitabine,92,Pancreatic
+563,CTG-0282,Gemcitabine,97,Pancreatic
+564,CTG-0282,Gemcitabine,103,Pancreatic
+565,CTG-0282,Gemcitabine,173,Pancreatic
+566,CTG-0282,Nab-paclitaxel,173,Pancreatic
+567,CTG-0283,Erlotinib,47,Pancreatic
+568,CTG-0283,Gemcitabine,66,Pancreatic
+569,CTG-0284,Erlotinib,49,Pancreatic
+570,CTG-0284,Gemcitabine,100,Pancreatic
+571,CTG-0284,Gemcitabine,129,Pancreatic
+572,CTG-0284,Gemcitabine,154,Pancreatic
+573,CTG-0284,Nab-paclitaxel,154,Pancreatic
+574,CTG-0285,Erlotinib,0,Pancreatic
+575,CTG-0285,Gemcitabine,134,Pancreatic
+576,CTG-0286,Erlotinib,0,Pancreatic
+577,CTG-0286,Gemcitabine,71,Pancreatic
+578,CTG-0286,Gemcitabine,58,Pancreatic
+579,CTG-0286,Nab-paclitaxel,58,Pancreatic
+580,CTG-0287,Erlotinib,70,Pancreatic
+581,CTG-0287,Gemcitabine,111,Pancreatic
+582,CTG-0287,Gemcitabine,76,Pancreatic
+583,CTG-0287,Nab-paclitaxel,76,Pancreatic
+584,CTG-0288,Erlotinib,22,Pancreatic
+585,CTG-0288,Gemcitabine,70,Pancreatic
+586,CTG-0288,Gemcitabine,48,Pancreatic
+587,CTG-0288,Nab-paclitaxel,48,Pancreatic
+588,CTG-0289,Carboplatin,64,Pancreatic
+589,CTG-0289,Paclitaxel,64,Pancreatic
+590,CTG-0289,Docetaxel,84,Pancreatic
+591,CTG-0289,Erlotinib,27,Pancreatic
+592,CTG-0289,Erlotinib,43,Pancreatic
+593,CTG-0289,Gemcitabine,60,Pancreatic
+594,CTG-0289,Gemcitabine,74,Pancreatic
+595,CTG-0289,Gemcitabine,78,Pancreatic
+596,CTG-0289,Gemcitabine,58,Pancreatic
+597,CTG-0289,Nab-paclitaxel,58,Pancreatic
+598,CTG-0289,Itraconazole,19,Pancreatic
+599,CTG-0289,Itraconazole,33,Pancreatic
+600,CTG-0289,Paclitaxel,3,Pancreatic
+601,CTG-0289,Paclitaxel,75,Pancreatic
+602,CTG-0289,Paclitaxel,83,Pancreatic
+603,CTG-0289,Paclitaxel,87,Pancreatic
+604,CTG-0290,Erlotinib,32,Pancreatic
+605,CTG-0290,Erlotinib,41,Pancreatic
+606,CTG-0290,Gemcitabine,59,Pancreatic
+607,CTG-0290,Gemcitabine,172,Pancreatic
+608,CTG-0290,Nab-paclitaxel,172,Pancreatic
+609,CTG-0291,Erlotinib,29,Pancreatic
+610,CTG-0291,Gemcitabine,53,Pancreatic
+611,CTG-0291,Gemcitabine,-18,Pancreatic
+612,CTG-0291,Nab-paclitaxel,-18,Pancreatic
+613,CTG-0292,Erlotinib,44,Pancreatic
+614,CTG-0292,Gemcitabine,52,Pancreatic
+615,CTG-0292,Gemcitabine,13,Pancreatic
+616,CTG-0292,Nab-paclitaxel,13,Pancreatic
+617,CTG-0293,Erlotinib,0,Pancreatic
+618,CTG-0293,Gemcitabine,60,Pancreatic
+619,CTG-0293,Gemcitabine,77,Pancreatic
+620,CTG-0293,Gemcitabine,57,Pancreatic
+621,CTG-0293,Gemcitabine,78,Pancreatic
+622,CTG-0293,Nab-paclitaxel,57,Pancreatic
+623,CTG-0293,Nab-paclitaxel,78,Pancreatic
+624,CTG-0293,Paclitaxel,12,Pancreatic
+625,CTG-0293,Paclitaxel,67,Pancreatic
+626,CTG-0295,Erlotinib,88,Pancreatic
+627,CTG-0295,Gemcitabine,98,Pancreatic
+628,CTG-0295,Gemcitabine,72,Pancreatic
+629,CTG-0295,Nab-paclitaxel,72,Pancreatic
+630,CTG-0296,Gemcitabine,100,Pancreatic
+631,CTG-0296,Paclitaxel,51,Pancreatic
+632,CTG-0298,Gemcitabine,147,Pancreatic
+633,CTG-0298,Nab-paclitaxel,147,Pancreatic
+634,CTG-0298,Paclitaxel,63,Pancreatic
+635,CTG-0299,Erlotinib,18,Pancreatic
+636,CTG-0299,Erlotinib,180,Pancreatic
+637,CTG-0299,Gemcitabine,99,Pancreatic
+638,CTG-0299,Gemcitabine,227,Pancreatic
+639,CTG-0299,Gemcitabine,-33,Pancreatic
+640,CTG-0299,Nab-paclitaxel,-33,Pancreatic
+641,CTG-0300,Gemcitabine,100,Pancreatic
+642,CTG-0300,Gemcitabine,76,Pancreatic
+643,CTG-0300,Nab-paclitaxel,76,Pancreatic
+644,CTG-0301,Gemcitabine,89,Pancreatic
+645,CTG-0301,Gemcitabine,72,Pancreatic
+646,CTG-0301,Nab-paclitaxel,72,Pancreatic
+647,CTG-0302,Gemcitabine,81,Pancreatic
+648,CTG-0302,Gemcitabine,20,Pancreatic
+649,CTG-0302,Nab-paclitaxel,20,Pancreatic
+650,CTG-0303,Gemcitabine,40,Pancreatic
+651,CTG-0305,Erlotinib,24,Pancreatic
+652,CTG-0305,Gemcitabine,99,Pancreatic
+653,CTG-0306,Erlotinib,55,Pancreatic
+654,CTG-0306,Gemcitabine,84,Pancreatic
+655,CTG-0306,Gemcitabine,87,Pancreatic
+656,CTG-0307,Paclitaxel,103,Pancreatic
+657,CTG-0309,Erlotinib,103,Pancreatic
+658,CTG-0309,Gemcitabine,100,Pancreatic
+659,CTG-0309,Gemcitabine,119,Pancreatic
+660,CTG-0314,Docetaxel,48,Pancreatic
+661,CTG-0314,Erlotinib,29,Pancreatic
+662,CTG-0314,Gemcitabine,25,Pancreatic
+663,CTG-0314,Gemcitabine,56,Pancreatic
+664,CTG-0314,Gemcitabine,58,Pancreatic
+665,CTG-0314,Gemcitabine,-27,Pancreatic
+666,CTG-0314,Nab-paclitaxel,-27,Pancreatic
+667,CTG-0329,Cisplatin,18,Sarcoma
+668,CTG-0329,Cisplatin,24,Sarcoma
+669,CTG-0329,Vinorelbine,24,Sarcoma
+670,CTG-0329,Doxorubicin,47,Sarcoma
+671,CTG-0329,Gemcitabine,54,Sarcoma
+672,CTG-0329,Methotrexate,11,Sarcoma
+673,CTG-0329,Paclitaxel,11,Sarcoma
+674,CTG-0329,Sorafenib,54,Sarcoma
+675,CTG-0329,Sunitinib,97,Sarcoma
+676,CTG-0329,Vincristine,24,Sarcoma
+677,CTG-0331,Doxorubicin,88,Sarcoma
+678,CTG-0331,Doxorubicin,95,Sarcoma
+679,CTG-0331,Eribulin,176,Sarcoma
+680,CTG-0331,Evofosfamide,36,Sarcoma
+681,CTG-0331,Evofosfamide,158,Sarcoma
+682,CTG-0331,Ifosfamide,158,Sarcoma
+683,CTG-0331,Ifosfamide,11,Sarcoma
+684,CTG-0331,Ifosfamide,185,Sarcoma
+685,CTG-0331,Irinotecan,35,Sarcoma
+686,CTG-0331,Vincristine,74,Sarcoma
+687,CTG-0353,Erlotinib,59,Gastric
+688,CTG-0353,Sunitinib,93,Gastric
+689,CTG-0356,Cetuximab,98,Colorectal
+690,CTG-0356,Irinotecan,86,Colorectal
+691,CTG-0356,Paclitaxel,28,Colorectal
+692,CTG-0359,5-Fluorouracil,-10,Colorectal
+693,CTG-0359,Irinotecan,86,Colorectal
+694,CTG-0359,Oxaliplatin,28,Colorectal
+695,CTG-0360,5-Fluorouracil,-42,Colorectal
+696,CTG-0360,Cetuximab,-28,Colorectal
+697,CTG-0360,Irinotecan,30,Colorectal
+698,CTG-0360,Irinotecan,110,Colorectal
+699,CTG-0360,Irinotecan,33,Colorectal
+700,CTG-0360,Oxaliplatin,33,Colorectal
+701,CTG-0360,Oxaliplatin,7,Colorectal
+702,CTG-0370,Sorafenib,53,Hepatocellular carcinoma
+703,CTG-0374,Cetuximab,61,Colorectal
+704,CTG-0379,5-Fluorouracil,0,Colorectal
+705,CTG-0379,Irinotecan,105,Colorectal
+706,CTG-0379,Oxaliplatin,10,Colorectal
+707,CTG-0381,Erlotinib,32,Pancreatic
+708,CTG-0381,Gemcitabine,82,Pancreatic
+709,CTG-0381,Paclitaxel,-24,Pancreatic
+710,CTG-0399,Cisplatin,103,Cholangiocarcinoma
+711,CTG-0399,Gemcitabine,102,Cholangiocarcinoma
+712,CTG-0401,Cetuximab,-49,Colorectal
+713,CTG-0401,Irinotecan,35,Colorectal
+714,CTG-0401,Irinotecan,37,Colorectal
+715,CTG-0401,Oxaliplatin,49,Colorectal
+716,CTG-0406,Gemcitabine,69,Colorectal
+717,CTG-0410,Liposomal doxorubicin,19,Hepatocellular carcinoma
+718,CTG-0410,Liposomal doxorubicin,40,Hepatocellular carcinoma
+719,CTG-0410,Regorafenib,65,Hepatocellular carcinoma
+720,CTG-0410,Sorafenib,36,Hepatocellular carcinoma
+721,CTG-0411,Erlotinib,24,Pancreatic
+722,CTG-0411,Gemcitabine,114,Pancreatic
+723,CTG-0434,Cetuximab,149,Head and neck
+724,CTG-0434,Cisplatin,-62,Head and neck
+725,CTG-0434,Cetuximab,144,Head and neck
+726,CTG-0434,Cisplatin,144,Head and neck
+727,CTG-0435,Temozolomide,28,Melanoma
+728,CTG-0435,Vemurafenib,24,Melanoma
+729,CTG-0436,Temozolomide,140,Melanoma
+730,CTG-0436,Vemurafenib,-14,Melanoma
+731,CTG-0437,Carboplatin,51,Breast
+732,CTG-0437,Paclitaxel,51,Breast
+733,CTG-0437,Cetuximab,26,Breast
+734,CTG-0437,Cetuximab,54,Breast
+735,CTG-0437,Cisplatin,21,Breast
+736,CTG-0437,Cisplatin,38,Breast
+737,CTG-0437,Docetaxel,16,Breast
+738,CTG-0437,Docetaxel,13,Breast
+739,CTG-0437,Erlotinib,13,Breast
+740,CTG-0437,Gemcitabine,45,Breast
+741,CTG-0437,Paclitaxel,33,Breast
+742,CTG-0437,Palbociclib,11,Breast
+743,CTG-0440,Cetuximab,15,Colorectal
+744,CTG-0440,Irinotecan,32,Colorectal
+745,CTG-0440,Oxaliplatin,32,Colorectal
+746,CTG-0449,Temozolomide,89,Melanoma
+747,CTG-0449,Vemurafenib,-3,Melanoma
+748,CTG-0456,Temozolomide,40,Melanoma
+749,CTG-0456,Vemurafenib,75,Melanoma
+750,CTG-0462,Cetuximab,69,Head and neck
+751,CTG-0462,Cisplatin,36,Head and neck
+752,CTG-0462,Cisplatin,77,Head and neck
+753,CTG-0462,Cetuximab,-20,Head and neck
+754,CTG-0462,Cisplatin,-20,Head and neck
+755,CTG-0464,Trametinib,19,NSCLC
+756,CTG-0473,Paclitaxel,48,Breast
+757,CTG-0486,Carboplatin,28,Ovarian
+758,CTG-0486,Carboplatin,36,Ovarian
+759,CTG-0486,Carboplatin,44,Ovarian
+760,CTG-0486,Carboplatin,58,Ovarian
+761,CTG-0486,Docetaxel,58,Ovarian
+762,CTG-0486,Carboplatin,87,Ovarian
+763,CTG-0486,Carboplatin,92,Ovarian
+764,CTG-0486,Paclitaxel,87,Ovarian
+765,CTG-0486,Paclitaxel,92,Ovarian
+766,CTG-0486,Cisplatin,27,Ovarian
+767,CTG-0486,Liposomal doxorubicin,10,Ovarian
+768,CTG-0486,Liposomal doxorubicin,12,Ovarian
+769,CTG-0486,Olaparib,43,Ovarian
+770,CTG-0486,Olaparib,46,Ovarian
+771,CTG-0486,Olaparib,56,Ovarian
+772,CTG-0486,Paclitaxel,34,Ovarian
+773,CTG-0492,Docetaxel,134,Pancreatic
+774,CTG-0492,Erlotinib,2,Pancreatic
+775,CTG-0492,Gemcitabine,55,Pancreatic
+776,CTG-0492,Gemcitabine,65,Pancreatic
+777,CTG-0492,Gemcitabine,114,Pancreatic
+778,CTG-0492,Gemcitabine,81,Pancreatic
+779,CTG-0492,Nab-paclitaxel,81,Pancreatic
+780,CTG-0493,Capecitabine,84,Esophageal
+781,CTG-0493,Oxaliplatin,84,Esophageal
+782,CTG-0493,Bevacizumab,86,Esophageal
+783,CTG-0493,Gemcitabine,86,Esophageal
+784,CTG-0493,Sorafenib,86,Esophageal
+785,CTG-0493,Gemcitabine,55,Esophageal
+786,CTG-0493,Sunitinib,55,Esophageal
+787,CTG-0493,Bevacizumab,100,Esophageal
+788,CTG-0493,Cetuximab,100,Esophageal
+789,CTG-0493,Irinotecan,100,Esophageal
+790,CTG-0493,Lapatinib,26,Esophageal
+791,CTG-0493,Bevacizumab,93,Esophageal
+792,CTG-0493,Mitomycin C,93,Esophageal
+793,CTG-0493,Bevacizumab,86,Esophageal
+794,CTG-0493,Sorafenib,86,Esophageal
+795,CTG-0493,Sunitinib,59,Esophageal
+796,CTG-0493,Nab-paclitaxel,0,Esophageal
+797,CTG-0493,Sunitinib,0,Esophageal
+798,CTG-0496,Bevacizumab,12,Duodenal
+799,CTG-0496,Capecitabine,96,Duodenal
+800,CTG-0496,Lapatinib,96,Duodenal
+801,CTG-0496,Cetuximab,11,Duodenal
+802,CTG-0496,Irinotecan,68,Duodenal
+803,CTG-0496,Bevacizumab,72,Duodenal
+804,CTG-0496,Irinotecan,72,Duodenal
+805,CTG-0496,Cetuximab,71,Duodenal
+806,CTG-0496,Irinotecan,71,Duodenal
+807,CTG-0496,Ixabepilone,12,Duodenal
+808,CTG-0496,Mitomycin C,79,Duodenal
+809,CTG-0496,Nab-paclitaxel,100,Duodenal
+810,CTG-0496,Regorafenib,67,Duodenal
+811,CTG-0496,Sorafenib,38,Duodenal
+812,CTG-0496,Sorafenib,62,Duodenal
+813,CTG-0496,Temsirolimus,62,Duodenal
+814,CTG-0496,Sunitinib,68,Duodenal
+815,CTG-0496,Temsirolimus,50,Duodenal
+816,CTG-0496,Vorinostat,12,Duodenal
+817,CTG-0496,Bevacizumab,12,Duodenal
+818,CTG-0496,Bevacizumab,65,Duodenal
+819,CTG-0496,Bevacizumab,69,Duodenal
+820,CTG-0496,Ixabepilone,12,Duodenal
+821,CTG-0496,Ixabepilone,65,Duodenal
+822,CTG-0496,Ixabepilone,69,Duodenal
+823,CTG-0496,Vorinostat,12,Duodenal
+824,CTG-0496,Vorinostat,65,Duodenal
+825,CTG-0496,Vorinostat,69,Duodenal
+826,CTG-0500,Temozolomide,81,Melanoma
+827,CTG-0500,Vemurafenib,-23,Melanoma
+828,CTG-0500,Vemurafenib,0,Melanoma
+829,CTG-0500,Vemurafenib,9,Melanoma
+830,CTG-0500,Vemurafenib,55,Melanoma
+831,CTG-0500,Vemurafenib,86,Melanoma
+832,CTG-0502,Bevacizumab,26,NSCLC
+833,CTG-0502,Paclitaxel,32,NSCLC
+834,CTG-0502,Paclitaxel,54,NSCLC
+835,CTG-0502,Paclitaxel,119,NSCLC
+836,CTG-0505,Cetuximab,-124,Head and neck
+837,CTG-0505,Cetuximab,-67,Head and neck
+838,CTG-0505,Cisplatin,-24,Head and neck
+839,CTG-0505,Cisplatin,-22,Head and neck
+840,CTG-0505,Cisplatin,24,Head and neck
+841,CTG-0505,Cisplatin,78,Head and neck
+842,CTG-0505,Cetuximab,85,Head and neck
+843,CTG-0505,Cisplatin,85,Head and neck
+844,CTG-0505,Paclitaxel,41,Head and neck
+845,CTG-0566,5-Fluorouracil,13,Head and neck
+846,CTG-0566,5-Fluorouracil,24,Head and neck
+847,CTG-0566,Carboplatin,13,Head and neck
+848,CTG-0566,Carboplatin,24,Head and neck
+849,CTG-0566,Cetuximab,13,Head and neck
+850,CTG-0566,Cetuximab,24,Head and neck
+851,CTG-0566,Carboplatin,125,Head and neck
+852,CTG-0566,Everolimus,125,Head and neck
+853,CTG-0566,Bevacizumab,-51,Head and neck
+854,CTG-0566,Cetuximab,-51,Head and neck
+855,CTG-0566,Cetuximab,68,Head and neck
+856,CTG-0566,Docetaxel,68,Head and neck
+857,CTG-0566,Cetuximab,28,Head and neck
+858,CTG-0566,Nab-paclitaxel,28,Head and neck
+859,CTG-0566,Bevacizumab,107,Head and neck
+860,CTG-0566,Bevacizumab,123,Head and neck
+861,CTG-0566,Cetuximab,107,Head and neck
+862,CTG-0566,Cetuximab,123,Head and neck
+863,CTG-0566,Pemetrexed,107,Head and neck
+864,CTG-0566,Pemetrexed,123,Head and neck
+865,CTG-0566,Erlotinib,-75,Head and neck
+866,CTG-0566,Gemcitabine,44,Head and neck
+867,CTG-0566,Bevacizumab,75,Head and neck
+868,CTG-0566,Gemcitabine,75,Head and neck
+869,CTG-0566,Lapatinib,-65,Head and neck
+870,CTG-0566,Pemetrexed,-65,Head and neck
+871,CTG-0566,Lapatinib,-62,Head and neck
+872,CTG-0566,Sunitinib,-62,Head and neck
+873,CTG-0566,Pazopanib,166,Head and neck
+874,CTG-0566,Trabectedin,166,Head and neck
+875,CTG-0652,Irinotecan,28,Colorectal
+876,CTG-0652,Oxaliplatin,28,Colorectal
+877,CTG-0656,Amrubicin,34,SCLC
+878,CTG-0656,Bendamustine,14,SCLC
+879,CTG-0656,Bendamustine,81,SCLC
+880,CTG-0656,Everolimus,59,SCLC
+881,CTG-0656,Ifosfamide,60,SCLC
+882,CTG-0656,Irinotecan,44,SCLC
+883,CTG-0656,Itraconazole,31,SCLC
+884,CTG-0656,Methotrexate,42,SCLC
+885,CTG-0656,Mitomycin C,100,SCLC
+886,CTG-0656,Nab-paclitaxel,30,SCLC
+887,CTG-0656,Pemetrexed,22,SCLC
+888,CTG-0656,Sunitinib,3,SCLC
+889,CTG-0656,Temozolomide,42,SCLC
+890,CTG-0656,Temsirolimus,35,SCLC
+891,CTG-0656,Vorinostat,23,SCLC
+892,CTG-0660,Cisplatin,52,Mesothelioma
+893,CTG-0660,Pemetrexed,52,Mesothelioma
+894,CTG-0660,Gemcitabine,86,Mesothelioma
+895,CTG-0664,Cetuximab,23,Head and neck
+896,CTG-0664,Cisplatin,37,Head and neck
+897,CTG-0664,Cetuximab,24,Head and neck
+898,CTG-0664,Cisplatin,24,Head and neck
+899,CTG-0667,Bevacizumab,77,Glioblastoma multiforme (GBM)
+900,CTG-0667,Cisplatin,-7,Glioblastoma multiforme (GBM)
+901,CTG-0667,Temozolomide,131,Glioblastoma multiforme (GBM)
+902,CTG-0670,Bendamustine,137,Breast
+903,CTG-0670,Bevacizumab,70,Breast
+904,CTG-0670,Capecitabine,115,Breast
+905,CTG-0670,Docetaxel,115,Breast
+906,CTG-0670,Carboplatin,126,Breast
+907,CTG-0670,Carboplatin,174,Breast
+908,CTG-0670,Paclitaxel,174,Breast
+909,CTG-0670,Cetuximab,-6,Breast
+910,CTG-0670,Cisplatin,142,Breast
+911,CTG-0670,Cisplatin,157,Breast
+912,CTG-0670,Cisplatin,118,Breast
+913,CTG-0670,Gemcitabine,118,Breast
+914,CTG-0670,Docetaxel,106,Breast
+915,CTG-0670,Eribulin,126,Breast
+916,CTG-0670,Docetaxel,107,Breast
+917,CTG-0670,Erlotinib,107,Breast
+918,CTG-0670,Lapatinib,57,Breast
+919,CTG-0670,Liposomal doxorubicin,132,Breast
+920,CTG-0670,Nab-paclitaxel,116,Breast
+921,CTG-0670,Carboplatin,124,Breast
+922,CTG-0670,Olaparib,124,Breast
+923,CTG-0670,Paclitaxel,81,Breast
+924,CTG-0670,Paclitaxel,120,Breast
+925,CTG-0670,Bevacizumab,118,Breast
+926,CTG-0670,Paclitaxel,118,Breast
+927,CTG-0670,Vinorelbine,21,Breast
+928,CTG-0674,Cetuximab,30,Head and neck
+929,CTG-0674,Cetuximab,53,Head and neck
+930,CTG-0674,Cetuximab,68,Head and neck
+931,CTG-0674,Cetuximab,24,Head and neck
+932,CTG-0674,Pemetrexed,24,Head and neck
+933,CTG-0674,Cisplatin,2,Head and neck
+934,CTG-0674,Cetuximab,56,Head and neck
+935,CTG-0674,Cisplatin,56,Head and neck
+936,CTG-0674,Cetuximab,33,Head and neck
+937,CTG-0674,Irinotecan,33,Head and neck
+938,CTG-0674,Irinotecan,63,Head and neck
+939,CTG-0674,Pemetrexed,63,Head and neck
+940,CTG-0674,Lapatinib,42,Head and neck
+941,CTG-0674,Sunitinib,42,Head and neck
+942,CTG-0674,Paclitaxel,57,Head and neck
+943,CTG-0674,Temsirolimus,13,Head and neck
+944,CTG-0676,Gemcitabine,100,
+945,CTG-0676,Mitomycin C,81,
+946,CTG-0676,Paclitaxel,53,
+947,CTG-0676,Sorafenib,100,
+948,CTG-0676,Nab-paclitaxel,100,
+949,CTG-0676,Sunitinib,100,
+950,CTG-0677,Docetaxel,124,Sarcoma
+951,CTG-0677,Gemcitabine,124,Sarcoma
+952,CTG-0677,Ifosfamide,196,Sarcoma
+953,CTG-0677,Temsirolimus,111,Sarcoma
+954,CTG-0687,Gemcitabine,32,Pancreatic
+955,CTG-0687,Gemcitabine,48,Pancreatic
+956,CTG-0687,Gemcitabine,63,Pancreatic
+957,CTG-0688,Methotrexate,58,Colorectal
+958,CTG-0701,Cetuximab,-6,Head and neck
+959,CTG-0701,Cetuximab,76,Head and neck
+960,CTG-0701,Cetuximab,89,Head and neck
+961,CTG-0701,Cisplatin,-136,Head and neck
+962,CTG-0701,Cisplatin,35,Head and neck
+963,CTG-0701,Cetuximab,91,Head and neck
+964,CTG-0701,Cetuximab,100,Head and neck
+965,CTG-0701,Cisplatin,91,Head and neck
+966,CTG-0701,Cisplatin,100,Head and neck
+967,CTG-0703,Bevacizumab,96,Ovarian
+968,CTG-0703,Carboplatin,91,Ovarian
+969,CTG-0703,Carboplatin,101,Ovarian
+970,CTG-0703,Carboplatin,102,Ovarian
+971,CTG-0703,Carboplatin,105,Ovarian
+972,CTG-0703,Docetaxel,105,Ovarian
+973,CTG-0703,Carboplatin,73,Ovarian
+974,CTG-0703,Paclitaxel,73,Ovarian
+975,CTG-0703,Exemestane,86,Ovarian
+976,CTG-0703,Liposomal doxorubicin,-52,Ovarian
+977,CTG-0703,Liposomal doxorubicin,46,Ovarian
+978,CTG-0703,Olaparib,-61,Ovarian
+979,CTG-0703,Olaparib,30,Ovarian
+980,CTG-0703,Olaparib,38,Ovarian
+981,CTG-0703,Olaparib,39,Ovarian
+982,CTG-0703,Olaparib,46,Ovarian
+983,CTG-0703,Olaparib,97,Ovarian
+984,CTG-0703,Sunitinib,39,Ovarian
+985,CTG-0703,Tamoxifen,-8,Ovarian
+986,CTG-0703,Exemestane,59,Ovarian
+987,CTG-0703,Tamoxifen,59,Ovarian
+988,CTG-0703,Temozolomide,-23,Ovarian
+989,CTG-0708,Capecitabine,107,Breast
+990,CTG-0708,Lapatinib,107,Breast
+991,CTG-0708,Nab-paclitaxel,122,Breast
+992,CTG-0708,Pertuzumab,55,Breast
+993,CTG-0708,Trastuzumab,39,Breast
+994,CTG-0708,Trastuzumab,42,Breast
+995,CTG-0708,Trastuzumab emtansine,22,Breast
+996,CTG-0708,Trastuzumab emtansine,24,Breast
+997,CTG-0708,Trastuzumab emtansine,84,Breast
+998,CTG-0711,Carboplatin,139,Ovarian
+999,CTG-0711,Carboplatin,50,Ovarian
+1000,CTG-0711,Carboplatin,106,Ovarian
+1001,CTG-0711,Paclitaxel,50,Ovarian
+1002,CTG-0711,Paclitaxel,106,Ovarian
+1003,CTG-0711,Liposomal doxorubicin,87,Ovarian
+1004,CTG-0711,Olaparib,-60,Ovarian
+1005,CTG-0711,Olaparib,-44,Ovarian
+1006,CTG-0711,Olaparib,29,Ovarian
+1007,CTG-0711,Olaparib,53,Ovarian
+1008,CTG-0711,Olaparib,54,Ovarian
+1009,CTG-0712,Carboplatin,18,Ovarian
+1010,CTG-0712,Carboplatin,90,Ovarian
+1011,CTG-0712,Carboplatin,46,Ovarian
+1012,CTG-0712,Carboplatin,142,Ovarian
+1013,CTG-0712,Paclitaxel,46,Ovarian
+1014,CTG-0712,Paclitaxel,142,Ovarian
+1015,CTG-0712,Liposomal doxorubicin,74,Ovarian
+1016,CTG-0712,Olaparib,23,Ovarian
+1017,CTG-0712,Olaparib,47,Ovarian
+1018,CTG-0717,Pertuzumab,-16,Breast
+1019,CTG-0717,Trastuzumab,14,Breast
+1020,CTG-0717,Trastuzumab,69,Breast
+1021,CTG-0717,Trastuzumab emtansine,60,Breast
+1022,CTG-0717,Trastuzumab emtansine,65,Breast
+1023,CTG-0719,Cetuximab,48,Head and neck
+1024,CTG-0719,Cetuximab,73,Head and neck
+1025,CTG-0719,Cetuximab,151,Head and neck
+1026,CTG-0719,Cisplatin,42,Head and neck
+1027,CTG-0719,Cetuximab,49,Head and neck
+1028,CTG-0719,Cetuximab,97,Head and neck
+1029,CTG-0719,Cisplatin,49,Head and neck
+1030,CTG-0719,Cisplatin,97,Head and neck
+1031,CTG-0722,5-Fluorouracil,125,Colorectal
+1032,CTG-0722,Bevacizumab,125,Colorectal
+1033,CTG-0722,Irinotecan,125,Colorectal
+1034,CTG-0722,Docetaxel,49,Colorectal
+1035,CTG-0722,Docetaxel,78,Colorectal
+1036,CTG-0722,Temsirolimus,78,Colorectal
+1037,CTG-0723,Gemcitabine,122,Pancreatic
+1038,CTG-0723,Nab-paclitaxel,122,Pancreatic
+1039,CTG-0727,Paclitaxel,31,Pancreatic
+1040,CTG-0743,Carboplatin,15,NSCLC
+1041,CTG-0743,Carboplatin,40,NSCLC
+1042,CTG-0743,Paclitaxel,15,NSCLC
+1043,CTG-0743,Paclitaxel,40,NSCLC
+1044,CTG-0743,Docetaxel,108,NSCLC
+1045,CTG-0743,Erlotinib,59,NSCLC
+1046,CTG-0743,Gemcitabine,109,NSCLC
+1047,CTG-0743,Erlotinib,92,NSCLC
+1048,CTG-0743,Gemcitabine,92,NSCLC
+1049,CTG-0743,Paclitaxel,70,NSCLC
+1050,CTG-0743,Pembrolizumab,-45,NSCLC
+1051,CTG-0743,Pembrolizumab,-5,NSCLC
+1052,CTG-0743,Pembrolizumab,67,NSCLC
+1053,CTG-0743,Pembrolizumab,80,NSCLC
+1054,CTG-0743,Docetaxel,118,NSCLC
+1055,CTG-0743,Temsirolimus,118,NSCLC
+1056,CTG-0755,Regorafenib,98,Hepatocellular carcinoma
+1057,CTG-0755,Regorafenib,99,Hepatocellular carcinoma
+1058,CTG-0755,Regorafenib,132,Hepatocellular carcinoma
+1059,CTG-0755,Sorafenib,79,Hepatocellular carcinoma
+1060,CTG-0755,Sorafenib,88,Hepatocellular carcinoma
+1061,CTG-0755,Sorafenib,92,Hepatocellular carcinoma
+1062,CTG-0759,5-Fluorouracil,-9,Colorectal
+1063,CTG-0759,Irinotecan,12,Colorectal
+1064,CTG-0759,Oxaliplatin,-48,Colorectal
+1065,CTG-0765,Carboplatin,66,NSCLC
+1066,CTG-0765,Carboplatin,74,NSCLC
+1067,CTG-0765,Carboplatin,83,NSCLC
+1068,CTG-0765,Paclitaxel,66,NSCLC
+1069,CTG-0765,Paclitaxel,74,NSCLC
+1070,CTG-0765,Paclitaxel,83,NSCLC
+1071,CTG-0765,Cisplatin,116,NSCLC
+1072,CTG-0765,Erlotinib,40,NSCLC
+1073,CTG-0765,Erlotinib,82,NSCLC
+1074,CTG-0765,Paclitaxel,61,NSCLC
+1075,CTG-0768,5-Fluorouracil,83,Colorectal
+1076,CTG-0768,5-Fluorouracil,96,Colorectal
+1077,CTG-0768,Bevacizumab,83,Colorectal
+1078,CTG-0768,Bevacizumab,96,Colorectal
+1079,CTG-0768,5-Fluorouracil,80,Colorectal
+1080,CTG-0768,Oxaliplatin,80,Colorectal
+1081,CTG-0768,Aflibercept,85,Colorectal
+1082,CTG-0768,Docetaxel,63,Colorectal
+1083,CTG-0768,Gemcitabine,27,Colorectal
+1084,CTG-0768,Nab-paclitaxel,119,Colorectal
+1085,CTG-0768,Docetaxel,120,Colorectal
+1086,CTG-0768,Temsirolimus,120,Colorectal
+1087,CTG-0771,Doxorubicin,44,Sarcoma
+1088,CTG-0771,Eribulin,128,Sarcoma
+1089,CTG-0771,Docetaxel,90,Sarcoma
+1090,CTG-0771,Gemcitabine,90,Sarcoma
+1091,CTG-0771,Ifosfamide,95,Sarcoma
+1092,CTG-0771,Paclitaxel,96,Sarcoma
+1093,CTG-0772,Gemcitabine,6,Colorectal
+1094,CTG-0772,Irinotecan,8,Colorectal
+1095,CTG-0772,Oxaliplatin,8,Colorectal
+1096,CTG-0775,5-Fluorouracil,100,Gastric
+1097,CTG-0775,Cisplatin,100,Gastric
+1098,CTG-0775,Docetaxel,100,Gastric
+1099,CTG-0775,Carboplatin,100,Gastric
+1100,CTG-0775,Gemcitabine,100,Gastric
+1101,CTG-0775,Irinotecan,96,Gastric
+1102,CTG-0775,Mitomycin C,53,Gastric
+1103,CTG-0775,Nab-paclitaxel,92,Gastric
+1104,CTG-0775,Sunitinib,92,Gastric
+1105,CTG-0776,Cetuximab,27,Head and neck
+1106,CTG-0776,Cetuximab,56,Head and neck
+1107,CTG-0776,Cetuximab,86,Head and neck
+1108,CTG-0776,Cisplatin,78,Head and neck
+1109,CTG-0776,Cetuximab,110,Head and neck
+1110,CTG-0776,Cisplatin,110,Head and neck
+1111,CTG-0780,Erlotinib,51,Pancreatic
+1112,CTG-0780,Everolimus,90,Pancreatic
+1113,CTG-0780,Sunitinib,90,Pancreatic
+1114,CTG-0780,Gemcitabine,73,Pancreatic
+1115,CTG-0780,Gemcitabine,114,Pancreatic
+1116,CTG-0780,Gemcitabine,124,Pancreatic
+1117,CTG-0780,Nab-paclitaxel,124,Pancreatic
+1118,CTG-0780,Irinotecan,100,Pancreatic
+1119,CTG-0780,Paclitaxel,123,Pancreatic
+1120,CTG-0781,Carboplatin,117,Ovarian
+1121,CTG-0781,Carboplatin,139,Ovarian
+1122,CTG-0781,Carboplatin,161,Ovarian
+1123,CTG-0781,Paclitaxel,117,Ovarian
+1124,CTG-0781,Paclitaxel,139,Ovarian
+1125,CTG-0781,Paclitaxel,161,Ovarian
+1126,CTG-0781,Cyclophosphamide,53,Ovarian
+1127,CTG-0781,Cyclophosphamide,75,Ovarian
+1128,CTG-0781,Doxorubicin,38,Ovarian
+1129,CTG-0781,Doxorubicin,46,Ovarian
+1130,CTG-0781,Doxorubicin,95,Ovarian
+1131,CTG-0781,Gemcitabine,44,Ovarian
+1132,CTG-0781,Gemcitabine,66,Ovarian
+1133,CTG-0781,Gemcitabine,118,Ovarian
+1134,CTG-0781,Lapatinib,-193,Ovarian
+1135,CTG-0781,Lapatinib,29,Ovarian
+1136,CTG-0784,Trastuzumab,51,Colorectal
+1137,CTG-0785,Cyclophosphamide,102,Sarcoma
+1138,CTG-0785,Cyclophosphamide,100,Sarcoma
+1139,CTG-0785,Topotecan,100,Sarcoma
+1140,CTG-0785,Bevacizumab,100,Sarcoma
+1141,CTG-0785,Cyclophosphamide,100,Sarcoma
+1142,CTG-0785,Topotecan,100,Sarcoma
+1143,CTG-0785,Doxorubicin,-9,Sarcoma
+1144,CTG-0785,Doxorubicin,35,Sarcoma
+1145,CTG-0785,Evofosfamide,-166,Sarcoma
+1146,CTG-0785,Evofosfamide,11,Sarcoma
+1147,CTG-0785,Evofosfamide,25,Sarcoma
+1148,CTG-0785,Evofosfamide,1,Sarcoma
+1149,CTG-0785,Evofosfamide,89,Sarcoma
+1150,CTG-0785,Evofosfamide,125,Sarcoma
+1151,CTG-0785,Ifosfamide,1,Sarcoma
+1152,CTG-0785,Ifosfamide,89,Sarcoma
+1153,CTG-0785,Ifosfamide,125,Sarcoma
+1154,CTG-0785,Ifosfamide,-8,Sarcoma
+1155,CTG-0785,Ifosfamide,120,Sarcoma
+1156,CTG-0785,Ifosfamide,132,Sarcoma
+1157,CTG-0785,Irinotecan,65,Sarcoma
+1158,CTG-0785,Temozolomide,65,Sarcoma
+1159,CTG-0785,Paclitaxel,113,Sarcoma
+1160,CTG-0786,Cetuximab,92,Head and neck
+1161,CTG-0786,Cetuximab,118,Head and neck
+1162,CTG-0786,Cisplatin,3,Head and neck
+1163,CTG-0786,Cisplatin,62,Head and neck
+1164,CTG-0786,Cetuximab,93,Head and neck
+1165,CTG-0786,Cetuximab,135,Head and neck
+1166,CTG-0786,Cisplatin,93,Head and neck
+1167,CTG-0786,Cisplatin,135,Head and neck
+1168,CTG-0787,Cetuximab,86,Head and neck
+1169,CTG-0787,Cetuximab,146,Head and neck
+1170,CTG-0787,Cisplatin,63,Head and neck
+1171,CTG-0787,Cisplatin,73,Head and neck
+1172,CTG-0787,Cisplatin,78,Head and neck
+1173,CTG-0787,Cetuximab,99,Head and neck
+1174,CTG-0787,Cetuximab,146,Head and neck
+1175,CTG-0787,Cisplatin,99,Head and neck
+1176,CTG-0787,Cisplatin,146,Head and neck
+1177,CTG-0788,Carboplatin,145,Ovarian
+1178,CTG-0788,Paclitaxel,145,Ovarian
+1179,CTG-0788,Liposomal doxorubicin,162,Ovarian
+1180,CTG-0790,Cetuximab,0,Head and neck
+1181,CTG-0790,Cetuximab,94,Head and neck
+1182,CTG-0790,Cisplatin,31,Head and neck
+1183,CTG-0790,Cisplatin,33,Head and neck
+1184,CTG-0790,Cisplatin,49,Head and neck
+1185,CTG-0790,Cetuximab,52,Head and neck
+1186,CTG-0790,Cetuximab,80,Head and neck
+1187,CTG-0790,Cisplatin,52,Head and neck
+1188,CTG-0790,Cisplatin,80,Head and neck
+1189,CTG-0791,Bevacizumab,36,Ovarian
+1190,CTG-0791,Carboplatin,17,Ovarian
+1191,CTG-0791,Carboplatin,18,Ovarian
+1192,CTG-0791,Carboplatin,18,Ovarian
+1193,CTG-0791,Carboplatin,33,Ovarian
+1194,CTG-0791,Carboplatin,61,Ovarian
+1195,CTG-0791,Carboplatin,98,Ovarian
+1196,CTG-0791,Docetaxel,98,Ovarian
+1197,CTG-0791,Carboplatin,17,Ovarian
+1198,CTG-0791,Carboplatin,21,Ovarian
+1199,CTG-0791,Carboplatin,52,Ovarian
+1200,CTG-0791,Carboplatin,66,Ovarian
+1201,CTG-0791,Carboplatin,73,Ovarian
+1202,CTG-0791,Carboplatin,81,Ovarian
+1203,CTG-0791,Paclitaxel,17,Ovarian
+1204,CTG-0791,Paclitaxel,21,Ovarian
+1205,CTG-0791,Paclitaxel,52,Ovarian
+1206,CTG-0791,Paclitaxel,66,Ovarian
+1207,CTG-0791,Paclitaxel,73,Ovarian
+1208,CTG-0791,Paclitaxel,81,Ovarian
+1209,CTG-0791,Docetaxel,85,Ovarian
+1210,CTG-0791,Etoposide,41,Ovarian
+1211,CTG-0791,Everolimus,78,Ovarian
+1212,CTG-0791,Exemestane,46,Ovarian
+1213,CTG-0791,Gemcitabine,39,Ovarian
+1214,CTG-0791,Gemcitabine,71,Ovarian
+1215,CTG-0791,Liposomal doxorubicin,12,Ovarian
+1216,CTG-0791,Liposomal doxorubicin,13,Ovarian
+1217,CTG-0791,Mitomycin C,31,Ovarian
+1218,CTG-0791,Olaparib,-11,Ovarian
+1219,CTG-0791,Olaparib,27,Ovarian
+1220,CTG-0791,Olaparib,52,Ovarian
+1221,CTG-0791,Paclitaxel,25,Ovarian
+1222,CTG-0791,Paclitaxel,31,Ovarian
+1223,CTG-0791,Paclitaxel,68,Ovarian
+1224,CTG-0791,Paclitaxel,108,Ovarian
+1225,CTG-0791,Sunitinib,79,Ovarian
+1226,CTG-0791,Temozolomide,2,Ovarian
+1227,CTG-0791,Topotecan,100,Ovarian
+1228,CTG-0792,Everolimus,108,Pancreatic
+1229,CTG-0792,Sunitinib,108,Pancreatic
+1230,CTG-0792,Gemcitabine,74,Pancreatic
+1231,CTG-0798,Capecitabine,101,Head and neck
+1232,CTG-0798,Capecitabine,176,Head and neck
+1233,CTG-0798,Lapatinib,101,Head and neck
+1234,CTG-0798,Lapatinib,176,Head and neck
+1235,CTG-0798,Metformin,101,Head and neck
+1236,CTG-0798,Metformin,176,Head and neck
+1237,CTG-0798,Cisplatin,-7,Head and neck
+1238,CTG-0798,Cisplatin,124,Head and neck
+1239,CTG-0798,Gemcitabine,-7,Head and neck
+1240,CTG-0798,Gemcitabine,124,Head and neck
+1241,CTG-0798,Cyclophosphamide,184,Head and neck
+1242,CTG-0798,Docetaxel,184,Head and neck
+1243,CTG-0798,Cyclophosphamide,140,Head and neck
+1244,CTG-0798,Doxorubicin,140,Head and neck
+1245,CTG-0798,Eribulin,207,Head and neck
+1246,CTG-0798,Eribulin,242,Head and neck
+1247,CTG-0798,Docetaxel,-17,Head and neck
+1248,CTG-0798,Gemcitabine,-17,Head and neck
+1249,CTG-0798,Bevacizumab,108,Head and neck
+1250,CTG-0798,Gemcitabine,108,Head and neck
+1251,CTG-0798,Nab-paclitaxel,108,Head and neck
+1252,CTG-0798,Sirolimus,20,Head and neck
+1253,CTG-0798,Sirolimus,47,Head and neck
+1254,CTG-0798,Vorinostat,20,Head and neck
+1255,CTG-0798,Vorinostat,47,Head and neck
+1256,CTG-0798,Sorafenib,83,Head and neck
+1257,CTG-0798,Sunitinib,65,Head and neck
+1258,CTG-0798,Temsirolimus,117,Head and neck
+1259,CTG-0798,Docetaxel,103,Head and neck
+1260,CTG-0798,Vinorelbine,103,Head and neck
+1261,CTG-0798,Everolimus,135,Head and neck
+1262,CTG-0798,Everolimus,140,Head and neck
+1263,CTG-0798,Trastuzumab,135,Head and neck
+1264,CTG-0798,Trastuzumab,140,Head and neck
+1265,CTG-0798,Vinorelbine,135,Head and neck
+1266,CTG-0798,Vinorelbine,140,Head and neck
+1267,CTG-0800,Vincristine,-10,Sarcoma
+1268,CTG-0800,Cyclophosphamide,104,Sarcoma
+1269,CTG-0800,Doxorubicin,104,Sarcoma
+1270,CTG-0800,Vincristine,104,Sarcoma
+1271,CTG-0804,Axitinib,22,Renal cell carcinoma
+1272,CTG-0804,Bevacizumab,92,Renal cell carcinoma
+1273,CTG-0804,Dasatinib,-13,Renal cell carcinoma
+1274,CTG-0804,Doxorubicin,56,Renal cell carcinoma
+1275,CTG-0804,Gemcitabine,56,Renal cell carcinoma
+1276,CTG-0804,Imatinib,-1,Renal cell carcinoma
+1277,CTG-0804,Pazopanib,40,Renal cell carcinoma
+1278,CTG-0804,Sorafenib,91,Renal cell carcinoma
+1279,CTG-0804,Sorafenib,40,Renal cell carcinoma
+1280,CTG-0804,Sunitinib,40,Renal cell carcinoma
+1281,CTG-0804,Sunitinib,64,Renal cell carcinoma
+1282,CTG-0804,Temsirolimus,19,Renal cell carcinoma
+1283,CTG-0804,Temsirolimus,111,Renal cell carcinoma
+1284,CTG-0807,Gemcitabine,58,Breast
+1285,CTG-0807,Lapatinib,91,Breast
+1286,CTG-0807,Paclitaxel,153,Breast
+1287,CTG-0807,Pertuzumab,2,Breast
+1288,CTG-0807,Trastuzumab,31,Breast
+1289,CTG-0807,Trastuzumab,47,Breast
+1290,CTG-0807,Trastuzumab emtansine,22,Breast
+1291,CTG-0807,Trastuzumab emtansine,82,Breast
+1292,CTG-0816,Cyclophosphamide,92,Sarcoma
+1293,CTG-0816,Doxorubicin,55,Sarcoma
+1294,CTG-0816,Gemcitabine,0,Sarcoma
+1295,CTG-0816,Bevacizumab,162,Sarcoma
+1296,CTG-0816,Docetaxel,162,Sarcoma
+1297,CTG-0816,Gemcitabine,162,Sarcoma
+1298,CTG-0816,Docetaxel,62,Sarcoma
+1299,CTG-0816,Gemcitabine,62,Sarcoma
+1300,CTG-0816,Pazopanib,62,Sarcoma
+1301,CTG-0816,Bevacizumab,122,Sarcoma
+1302,CTG-0816,Docetaxel,122,Sarcoma
+1303,CTG-0816,Gemcitabine,122,Sarcoma
+1304,CTG-0816,Temsirolimus,122,Sarcoma
+1305,CTG-0816,Irinotecan,88,Sarcoma
+1306,CTG-0816,Irinotecan,98,Sarcoma
+1307,CTG-0816,Irinotecan,115,Sarcoma
+1308,CTG-0816,Temozolomide,115,Sarcoma
+1309,CTG-0816,Paclitaxel,206,Sarcoma
+1310,CTG-0816,Pazopanib,47,Sarcoma
+1311,CTG-0816,Temozolomide,51,Sarcoma
+1312,CTG-0816,Temozolomide,54,Sarcoma
+1313,CTG-0816,Temozolomide,163,Sarcoma
+1314,CTG-0818,Bleomycin,109,Testicular
+1315,CTG-0818,Cisplatin,109,Testicular
+1316,CTG-0818,Vincristine,109,Testicular
+1317,CTG-0818,Cisplatin,115,Testicular
+1318,CTG-0818,Cisplatin,138,Testicular
+1319,CTG-0818,Epirubicin,115,Testicular
+1320,CTG-0818,Epirubicin,138,Testicular
+1321,CTG-0818,Gemcitabine,74,Testicular
+1322,CTG-0818,Paclitaxel,74,Testicular
+1323,CTG-0818,Ifosfamide,48,Testicular
+1324,CTG-0818,Paclitaxel,110,Testicular
+1325,CTG-0818,Sunitinib,50,Testicular
+1326,CTG-0820,Cetuximab,95,Head and neck
+1327,CTG-0820,Cetuximab,118,Head and neck
+1328,CTG-0820,Cisplatin,17,Head and neck
+1329,CTG-0820,Cisplatin,38,Head and neck
+1330,CTG-0820,Cisplatin,46,Head and neck
+1331,CTG-0820,Cisplatin,56,Head and neck
+1332,CTG-0820,Cetuximab,95,Head and neck
+1333,CTG-0820,Cisplatin,95,Head and neck
+1334,CTG-0820,Paclitaxel,37,Head and neck
+1335,CTG-0824,Bevacizumab,90,Renal cell carcinoma
+1336,CTG-0824,Cabozantinib,104,Renal cell carcinoma
+1337,CTG-0824,Cabozantinib,104,Renal cell carcinoma
+1338,CTG-0824,Sorafenib,85,Renal cell carcinoma
+1339,CTG-0824,Sorafenib,116,Renal cell carcinoma
+1340,CTG-0824,Sunitinib,42,Renal cell carcinoma
+1341,CTG-0824,Sunitinib,48,Renal cell carcinoma
+1342,CTG-0824,Sunitinib,57,Renal cell carcinoma
+1343,CTG-0824,Temsirolimus,77,Renal cell carcinoma
+1344,CTG-0826,5-Fluorouracil,93,Colorectal
+1345,CTG-0826,Cetuximab,93,Colorectal
+1346,CTG-0826,Irinotecan,93,Colorectal
+1347,CTG-0826,Capecitabine,59,Colorectal
+1348,CTG-0826,Lapatinib,59,Colorectal
+1349,CTG-0826,Cisplatin,79,Colorectal
+1350,CTG-0826,Gemcitabine,79,Colorectal
+1351,CTG-0826,Eribulin,116,Colorectal
+1352,CTG-0826,Everolimus,82,Colorectal
+1353,CTG-0826,Sunitinib,82,Colorectal
+1354,CTG-0826,Erlotinib,78,Colorectal
+1355,CTG-0826,Gemcitabine,78,Colorectal
+1356,CTG-0826,Gemcitabine,114,Colorectal
+1357,CTG-0826,Irinotecan,114,Colorectal
+1358,CTG-0826,Mitomycin C,35,Colorectal
+1359,CTG-0826,Paclitaxel,94,Colorectal
+1360,CTG-0826,Pazopanib,63,Colorectal
+1361,CTG-0826,Regorafenib,77,Colorectal
+1362,CTG-0826,Temsirolimus,97,Colorectal
+1363,CTG-0826,Docetaxel,134,Colorectal
+1364,CTG-0826,Temsirolimus,134,Colorectal
+1365,CTG-0827,Ifosfamide,139,ETANTR
+1366,CTG-0827,Temsirolimus,40,ETANTR
+1367,CTG-0828,Bendamustine,136,NSCLC
+1368,CTG-0828,Carboplatin,28,NSCLC
+1369,CTG-0828,Paclitaxel,28,NSCLC
+1370,CTG-0828,Cisplatin,68,NSCLC
+1371,CTG-0835,5-Fluorouracil,62,Colorectal
+1372,CTG-0835,5-Fluorouracil,71,Colorectal
+1373,CTG-0835,5-Fluorouracil,103,Colorectal
+1374,CTG-0835,5-Fluorouracil,92,Colorectal
+1375,CTG-0835,Irinotecan,92,Colorectal
+1376,CTG-0835,Oxaliplatin,92,Colorectal
+1377,CTG-0835,5-Fluorouracil,100,Colorectal
+1378,CTG-0835,Bevacizumab,100,Colorectal
+1379,CTG-0835,Irinotecan,100,Colorectal
+1380,CTG-0835,Oxaliplatin,100,Colorectal
+1381,CTG-0835,5-Fluorouracil,106,Colorectal
+1382,CTG-0835,Cetuximab,106,Colorectal
+1383,CTG-0835,Irinotecan,106,Colorectal
+1384,CTG-0835,Oxaliplatin,106,Colorectal
+1385,CTG-0835,Aflibercept,128,Colorectal
+1386,CTG-0835,Aflibercept,138,Colorectal
+1387,CTG-0835,Cetuximab,71,Colorectal
+1388,CTG-0835,Cetuximab,107,Colorectal
+1389,CTG-0835,Cetuximab,111,Colorectal
+1390,CTG-0835,Floxuridine,94,Colorectal
+1391,CTG-0835,Floxuridine,98,Colorectal
+1392,CTG-0835,Gemcitabine,31,Colorectal
+1393,CTG-0835,Mitomycin C,66,Colorectal
+1394,CTG-0835,Mitomycin C,102,Colorectal
+1395,CTG-0835,Floxuridine,74,Colorectal
+1396,CTG-0835,Floxuridine,75,Colorectal
+1397,CTG-0835,Floxuridine,93,Colorectal
+1398,CTG-0835,Mitomycin C,74,Colorectal
+1399,CTG-0835,Mitomycin C,75,Colorectal
+1400,CTG-0835,Mitomycin C,93,Colorectal
+1401,CTG-0835,Regorafenib,70,Colorectal
+1402,CTG-0835,Regorafenib,122,Colorectal
+1403,CTG-0835,Temsirolimus,92,Colorectal
+1404,CTG-0838,Alectinib,130,NSCLC
+1405,CTG-0838,Alectinib,155,NSCLC
+1406,CTG-0838,Bortezomib,-7,NSCLC
+1407,CTG-0838,Nelfinavir,-7,NSCLC
+1408,CTG-0838,Carboplatin,50,NSCLC
+1409,CTG-0838,Etoposide,50,NSCLC
+1410,CTG-0838,Carboplatin,11,NSCLC
+1411,CTG-0838,Carboplatin,55,NSCLC
+1412,CTG-0838,Paclitaxel,11,NSCLC
+1413,CTG-0838,Paclitaxel,55,NSCLC
+1414,CTG-0838,Cisplatin,35,NSCLC
+1415,CTG-0838,Cisplatin,38,NSCLC
+1416,CTG-0838,Dasatinib,103,NSCLC
+1417,CTG-0838,Docetaxel,103,NSCLC
+1418,CTG-0838,Eribulin,125,NSCLC
+1419,CTG-0838,Erlotinib,44,NSCLC
+1420,CTG-0838,Ifosfamide,63,NSCLC
+1421,CTG-0838,Mitomycin C,66,NSCLC
+1422,CTG-0838,Paclitaxel,76,NSCLC
+1423,CTG-0838,Paclitaxel,145,NSCLC
+1424,CTG-0838,Paclitaxel,168,NSCLC
+1425,CTG-0838,Sorafenib,55,NSCLC
+1426,CTG-0838,Temsirolimus,55,NSCLC
+1427,CTG-0838,Sunitinib,94,NSCLC
+1428,CTG-0838,Celecoxib,60,NSCLC
+1429,CTG-0838,Celecoxib,65,NSCLC
+1430,CTG-0838,Sunitinib,60,NSCLC
+1431,CTG-0838,Sunitinib,65,NSCLC
+1432,CTG-0838,Crizotinib,114,NSCLC
+1433,CTG-0838,Sunitinib,114,NSCLC
+1434,CTG-0838,Docetaxel,127,NSCLC
+1435,CTG-0838,Temsirolimus,127,NSCLC
+1436,CTG-0838,Trabectedin,58,NSCLC
+1437,CTG-0838,Trametinib,57,NSCLC
+1438,CTG-0838,Paclitaxel,24,NSCLC
+1439,CTG-0838,Vorinostat,24,NSCLC
+1440,CTG-0839,Dacarbazine,134,Melanoma
+1441,CTG-0840,5-Fluorouracil,134,Head and neck
+1442,CTG-0840,Carboplatin,134,Head and neck
+1443,CTG-0840,Cetuximab,134,Head and neck
+1444,CTG-0840,Cetuximab,68,Head and neck
+1445,CTG-0840,Cetuximab,109,Head and neck
+1446,CTG-0840,Cetuximab,128,Head and neck
+1447,CTG-0840,Cisplatin,-28,Head and neck
+1448,CTG-0840,Cisplatin,13,Head and neck
+1449,CTG-0840,Cisplatin,16,Head and neck
+1450,CTG-0840,Cisplatin,27,Head and neck
+1451,CTG-0840,Cetuximab,100,Head and neck
+1452,CTG-0840,Cetuximab,108,Head and neck
+1453,CTG-0840,Cisplatin,100,Head and neck
+1454,CTG-0840,Cisplatin,108,Head and neck
+1455,CTG-0840,Cisplatin,120,Head and neck
+1456,CTG-0840,Gemcitabine,120,Head and neck
+1457,CTG-0840,Docetaxel,125,Head and neck
+1458,CTG-0840,Methotrexate,30,Head and neck
+1459,CTG-0840,Paclitaxel,110,Head and neck
+1460,CTG-0840,Sunitinib,101,Head and neck
+1461,CTG-0840,Sunitinib,115,Head and neck
+1462,CTG-0840,Temsirolimus,72,Head and neck
+1463,CTG-0842,5-Fluorouracil,67,Pancreatic
+1464,CTG-0842,Oxaliplatin,67,Pancreatic
+1465,CTG-0848,Carboplatin,65,NSCLC
+1466,CTG-0848,Carboplatin,80,NSCLC
+1467,CTG-0848,Paclitaxel,65,NSCLC
+1468,CTG-0848,Paclitaxel,80,NSCLC
+1469,CTG-0849,5-Fluorouracil,9,Pancreatic
+1470,CTG-0849,5-Fluorouracil,127,Pancreatic
+1471,CTG-0849,Cabazitaxel,168,Pancreatic
+1472,CTG-0849,Disulfiram,53,Pancreatic
+1473,CTG-0849,Gemcitabine,75,Pancreatic
+1474,CTG-0849,Gemcitabine,79,Pancreatic
+1475,CTG-0849,Gemcitabine,89,Pancreatic
+1476,CTG-0849,Gemcitabine,116,Pancreatic
+1477,CTG-0849,Nab-paclitaxel,116,Pancreatic
+1478,CTG-0849,Irinotecan,115,Pancreatic
+1479,CTG-0849,Oxaliplatin,150,Pancreatic
+1480,CTG-0849,Paclitaxel,122,Pancreatic
+1481,CTG-0849,Romidepsin,83,Pancreatic
+1482,CTG-0851,5-Fluorouracil,64,Pancreatic
+1483,CTG-0851,Irinotecan,64,Pancreatic
+1484,CTG-0851,Oxaliplatin,64,Pancreatic
+1485,CTG-0851,Cisplatin,91,Pancreatic
+1486,CTG-0851,Irinotecan,91,Pancreatic
+1487,CTG-0851,Erlotinib,56,Pancreatic
+1488,CTG-0851,Gemcitabine,59,Pancreatic
+1489,CTG-0851,Gemcitabine,65,Pancreatic
+1490,CTG-0851,Gemcitabine,68,Pancreatic
+1491,CTG-0851,Gemcitabine,70,Pancreatic
+1492,CTG-0851,Gemcitabine,83,Pancreatic
+1493,CTG-0851,Gemcitabine,100,Pancreatic
+1494,CTG-0851,Nab-paclitaxel,83,Pancreatic
+1495,CTG-0851,Nab-paclitaxel,100,Pancreatic
+1496,CTG-0851,Mitomycin C,84,Pancreatic
+1497,CTG-0851,Paclitaxel,63,Pancreatic
+1498,CTG-0851,Paclitaxel,64,Pancreatic
+1499,CTG-0851,Paclitaxel,101,Pancreatic
+1500,CTG-0851,Metformin,52,Pancreatic
+1501,CTG-0851,Temsirolimus,52,Pancreatic
+1502,CTG-0852,Alectinib,225,NSCLC
+1503,CTG-0852,Carboplatin,53,NSCLC
+1504,CTG-0852,Carboplatin,120,NSCLC
+1505,CTG-0852,Paclitaxel,53,NSCLC
+1506,CTG-0852,Paclitaxel,120,NSCLC
+1507,CTG-0852,Crizotinib,70,NSCLC
+1508,CTG-0852,Crizotinib,163,NSCLC
+1509,CTG-0852,Crizotinib,224,NSCLC
+1510,CTG-0855,Etoposide,179,Sarcoma
+1511,CTG-0855,Ifosfamide,179,Sarcoma
+1512,CTG-0855,Irinotecan,166,Sarcoma
+1513,CTG-0855,Temozolomide,166,Sarcoma
+1514,CTG-0855,Vorinostat,53,Sarcoma
+1515,CTG-0860,Carboplatin,67,NSCLC
+1516,CTG-0860,Carboplatin,72,NSCLC
+1517,CTG-0860,Paclitaxel,67,NSCLC
+1518,CTG-0860,Paclitaxel,72,NSCLC
+1519,CTG-0860,Cisplatin,76,NSCLC
+1520,CTG-0860,Cisplatin,88,NSCLC
+1521,CTG-0860,Gemcitabine,76,NSCLC
+1522,CTG-0860,Gemcitabine,88,NSCLC
+1523,CTG-0860,Erlotinib,7,NSCLC
+1524,CTG-0860,Erlotinib,38,NSCLC
+1525,CTG-0860,Erlotinib,81,NSCLC
+1526,CTG-0860,Everolimus,62,NSCLC
+1527,CTG-0860,Osimertinib,1,NSCLC
+1528,CTG-0860,Paclitaxel,85,NSCLC
+1529,CTG-0860,Pembrolizumab,60,NSCLC
+1530,CTG-0860,Pembrolizumab,62,NSCLC
+1531,CTG-0860,Pembrolizumab,62,NSCLC
+1532,CTG-0860,Trametinib,-40,NSCLC
+1533,CTG-0864,5-Fluorouracil,69,Colorectal
+1534,CTG-0864,5-Fluorouracil,90,Colorectal
+1535,CTG-0864,5-Fluorouracil,121,Colorectal
+1536,CTG-0864,Bevacizumab,69,Colorectal
+1537,CTG-0864,Bevacizumab,90,Colorectal
+1538,CTG-0864,Bevacizumab,121,Colorectal
+1539,CTG-0864,Oxaliplatin,69,Colorectal
+1540,CTG-0864,Oxaliplatin,90,Colorectal
+1541,CTG-0864,Oxaliplatin,121,Colorectal
+1542,CTG-0864,Cetuximab,21,Colorectal
+1543,CTG-0864,Erlotinib,85,Colorectal
+1544,CTG-0864,Imatinib,-3,Colorectal
+1545,CTG-0864,Imatinib,12,Colorectal
+1546,CTG-0864,Irinotecan,138,Colorectal
+1547,CTG-0864,Panitumumab,138,Colorectal
+1548,CTG-0864,Methotrexate,46,Colorectal
+1549,CTG-0864,Panitumumab,19,Colorectal
+1550,CTG-0864,Panitumumab,124,Colorectal
+1551,CTG-0864,Regorafenib,120,Colorectal
+1552,CTG-0864,Sorafenib,108,Colorectal
+1553,CTG-0864,Temsirolimus,119,Colorectal
+1554,CTG-0864,Bevacizumab,75,Colorectal
+1555,CTG-0864,Temsirolimus,75,Colorectal
+1556,CTG-0866,Doxorubicin,4,Sarcoma
+1557,CTG-0866,Doxorubicin,4,Sarcoma
+1558,CTG-0866,Eribulin,-25,Sarcoma
+1559,CTG-0866,Docetaxel,42,Sarcoma
+1560,CTG-0866,Gemcitabine,42,Sarcoma
+1561,CTG-0866,Pioglitazone,24,Sarcoma
+1562,CTG-0868,5-Fluorouracil,55,Ovarian
+1563,CTG-0868,Bevacizumab,55,Ovarian
+1564,CTG-0868,Carboplatin,55,Ovarian
+1565,CTG-0868,Cyclophosphamide,55,Ovarian
+1566,CTG-0868,Gemcitabine,55,Ovarian
+1567,CTG-0868,Irinotecan,55,Ovarian
+1568,CTG-0868,Carboplatin,-23,Ovarian
+1569,CTG-0868,Carboplatin,102,Ovarian
+1570,CTG-0868,Decitabine,102,Ovarian
+1571,CTG-0868,Carboplatin,39,Ovarian
+1572,CTG-0868,Carboplatin,79,Ovarian
+1573,CTG-0868,Carboplatin,121,Ovarian
+1574,CTG-0868,Paclitaxel,39,Ovarian
+1575,CTG-0868,Paclitaxel,79,Ovarian
+1576,CTG-0868,Paclitaxel,121,Ovarian
+1577,CTG-0868,Doxorubicin,-82,Ovarian
+1578,CTG-0868,Exemestane,43,Ovarian
+1579,CTG-0868,Liposomal doxorubicin,40,Ovarian
+1580,CTG-0868,Nab-Paclitaxel,129,Ovarian
+1581,CTG-0868,Olaparib,-18,Ovarian
+1582,CTG-0868,Tamoxifen,27,Ovarian
+1583,CTG-0868,Temsirolimus,74,Ovarian
+1584,CTG-0868,Topotecan,80,Ovarian
+1585,CTG-0869,Carboplatin,41,Breast
+1586,CTG-0869,Gemcitabine,41,Breast
+1587,CTG-0869,Carboplatin,35,Breast
+1588,CTG-0869,Paclitaxel,35,Breast
+1589,CTG-0869,Docetaxel,33,Breast
+1590,CTG-0869,Docetaxel,84,Breast
+1591,CTG-0869,Everolimus,36,Breast
+1592,CTG-0869,Docetaxel,121,Breast
+1593,CTG-0869,Everolimus,121,Breast
+1594,CTG-0869,Gemcitabine,19,Breast
+1595,CTG-0869,Mitomycin C,66,Breast
+1596,CTG-0869,Olaparib,6,Breast
+1597,CTG-0871,Cetuximab,90,Head and neck
+1598,CTG-0871,Cetuximab,102,Head and neck
+1599,CTG-0871,Cisplatin,-51,Head and neck
+1600,CTG-0871,Cisplatin,13,Head and neck
+1601,CTG-0871,Cetuximab,103,Head and neck
+1602,CTG-0871,Cetuximab,107,Head and neck
+1603,CTG-0871,Cisplatin,103,Head and neck
+1604,CTG-0871,Cisplatin,107,Head and neck
+1605,CTG-0881,5-Fluorouracil,74,Pancreatic
+1606,CTG-0881,5-Fluorouracil,104,Pancreatic
+1607,CTG-0881,Irinotecan,74,Pancreatic
+1608,CTG-0881,Irinotecan,104,Pancreatic
+1609,CTG-0881,Capecitabine,61,Pancreatic
+1610,CTG-0881,Oxaliplatin,61,Pancreatic
+1611,CTG-0881,Gemcitabine,83,Pancreatic
+1612,CTG-0881,Gemcitabine,105,Pancreatic
+1613,CTG-0881,Nab-paclitaxel,83,Pancreatic
+1614,CTG-0881,Nab-paclitaxel,105,Pancreatic
+1615,CTG-0881,Mitomycin C,100,Pancreatic
+1616,CTG-0881,Mitomycin C,159,Pancreatic
+1617,CTG-0881,Temsirolimus,45,Pancreatic
+1618,CTG-0881,Temsirolimus,101,Pancreatic
+1619,CTG-0886,Etoposide,222,Sarcoma
+1620,CTG-0886,Ifosfamide,222,Sarcoma
+1621,CTG-0886,Irinotecan,211,Sarcoma
+1622,CTG-0886,Temozolomide,211,Sarcoma
+1623,CTG-0886,Trametinib,30,Sarcoma
+1624,CTG-0886,Vorinostat,133,Sarcoma
+1625,CTG-0887,Cetuximab,111,Colorectal
+1626,CTG-0888,Bevacizumab,102,Breast
+1627,CTG-0888,Bevacizumab,95,Breast
+1628,CTG-0888,Capecitabine,95,Breast
+1629,CTG-0888,Capecitabine,50,Breast
+1630,CTG-0888,Capecitabine,74,Breast
+1631,CTG-0888,Vinorelbine,50,Breast
+1632,CTG-0888,Vinorelbine,74,Breast
+1633,CTG-0888,Carboplatin,115,Breast
+1634,CTG-0888,Gemcitabine,115,Breast
+1635,CTG-0888,Carboplatin,-29,Breast
+1636,CTG-0888,Paclitaxel,-29,Breast
+1637,CTG-0888,Cisplatin,104,Breast
+1638,CTG-0888,Cisplatin,103,Breast
+1639,CTG-0888,Cisplatin,106,Breast
+1640,CTG-0888,Cyclophosphamide,103,Breast
+1641,CTG-0888,Cyclophosphamide,106,Breast
+1642,CTG-0888,Eribulin,120,Breast
+1643,CTG-0888,Ixabepilone,-13,Breast
+1644,CTG-0888,Bevacizumab,90,Breast
+1645,CTG-0888,Nab-paclitaxel,90,Breast
+1646,CTG-0888,Olaparib,61,Breast
+1647,CTG-0888,Olaparib,82,Breast
+1648,CTG-0888,Paclitaxel,52,Breast
+1649,CTG-0891,Cetuximab,86,Head and neck
+1650,CTG-0891,Cetuximab,92,Head and neck
+1651,CTG-0891,Cetuximab,98,Head and neck
+1652,CTG-0891,Cisplatin,69,Head and neck
+1653,CTG-0891,Cetuximab,85,Head and neck
+1654,CTG-0891,Cisplatin,85,Head and neck
+1655,CTG-0896,5-Fluorouracil,108,Esophageal
+1656,CTG-0896,Cisplatin,108,Esophageal
+1657,CTG-0896,Etoposide,108,Esophageal
+1658,CTG-0896,Cetuximab,132,Esophageal
+1659,CTG-0896,Mitomycin C,-2,Esophageal
+1660,CTG-0896,Paclitaxel,98,Esophageal
+1661,CTG-0897,Carboplatin,53,Ovarian
+1662,CTG-0897,Carboplatin,-73,Ovarian
+1663,CTG-0897,Paclitaxel,-73,Ovarian
+1664,CTG-0897,Liposomal doxorubicin,-27,Ovarian
+1665,CTG-0897,Olaparib,82,Ovarian
+1666,CTG-0897,Paclitaxel,-13,Ovarian
+1667,CTG-0897,Temsirolimus,97,Ovarian
+1668,CTG-0898,Doxorubicin,-39,Sarcoma
+1669,CTG-0898,Doxorubicin,-20,Sarcoma
+1670,CTG-0898,Doxorubicin,14,Sarcoma
+1671,CTG-0898,Doxorubicin,24,Sarcoma
+1672,CTG-0898,Eribulin,152,Sarcoma
+1673,CTG-0898,Docetaxel,108,Sarcoma
+1674,CTG-0898,Gemcitabine,108,Sarcoma
+1675,CTG-0898,Pazopanib,-8,Sarcoma
+1676,CTG-0898,Pazopanib,15,Sarcoma
+1677,CTG-0901,5-Fluorouracil,33,Head and neck
+1678,CTG-0901,Cisplatin,33,Head and neck
+1679,CTG-0901,Docetaxel,33,Head and neck
+1680,CTG-0901,Carboplatin,118,Head and neck
+1681,CTG-0901,Paclitaxel,118,Head and neck
+1682,CTG-0901,Cetuximab,20,Head and neck
+1683,CTG-0910,Docetaxel,70,Sarcoma
+1684,CTG-0910,Doxorubicin,-12,Sarcoma
+1685,CTG-0910,Doxorubicin,13,Sarcoma
+1686,CTG-0910,Doxorubicin,34,Sarcoma
+1687,CTG-0910,Doxorubicin,66,Sarcoma
+1688,CTG-0910,Doxorubicin,74,Sarcoma
+1689,CTG-0910,Eribulin,-24,Sarcoma
+1690,CTG-0910,Eribulin,89,Sarcoma
+1691,CTG-0910,Eribulin,122,Sarcoma
+1692,CTG-0910,Gemcitabine,94,Sarcoma
+1693,CTG-0910,Gemcitabine,98,Sarcoma
+1694,CTG-0910,Docetaxel,33,Sarcoma
+1695,CTG-0910,Docetaxel,90,Sarcoma
+1696,CTG-0910,Gemcitabine,33,Sarcoma
+1697,CTG-0910,Gemcitabine,90,Sarcoma
+1698,CTG-0910,Pazopanib,41,Sarcoma
+1699,CTG-0910,Sunitinib,86,Sarcoma
+1700,CTG-0910,Temozolomide,65,Sarcoma
+1701,CTG-0910,Temozolomide,122,Sarcoma
+1702,CTG-0910,Temsirolimus,52,Sarcoma
+1703,CTG-0910,Temsirolimus,91,Sarcoma
+1704,CTG-0923,5-Fluorouracil,57,Colorectal
+1705,CTG-0923,Oxaliplatin,57,Colorectal
+1706,CTG-0923,5-Fluorouracil,91,Colorectal
+1707,CTG-0923,Bevacizumab,91,Colorectal
+1708,CTG-0923,Oxaliplatin,91,Colorectal
+1709,CTG-0923,5-Fluorouracil,51,Colorectal
+1710,CTG-0923,Cetuximab,51,Colorectal
+1711,CTG-0923,Oxaliplatin,51,Colorectal
+1712,CTG-0923,Regorafenib,65,Colorectal
+1713,CTG-0923,Regorafenib,78,Colorectal
+1714,CTG-0924,Carboplatin,67,NSCLC
+1715,CTG-0924,Paclitaxel,67,NSCLC
+1716,CTG-0924,Cisplatin,97,NSCLC
+1717,CTG-0926,Doxorubicin,-50,Sarcoma
+1718,CTG-0927,Docetaxel,68,Cholangiocarcinoma
+1719,CTG-0927,Doxorubicin,53,Cholangiocarcinoma
+1720,CTG-0927,Lapatinib,44,Cholangiocarcinoma
+1721,CTG-0927,Oxaliplatin,37,Cholangiocarcinoma
+1722,CTG-0927,Trastuzumab,61,Cholangiocarcinoma
+1723,CTG-0930,Cyclophosphamide,111,
+1724,CTG-0930,Cyclophosphamide,136,
+1725,CTG-0930,Gemcitabine,63,
+1726,CTG-0930,Bevacizumab,159,
+1727,CTG-0930,Bevacizumab,184,
+1728,CTG-0930,Docetaxel,159,
+1729,CTG-0930,Docetaxel,184,
+1730,CTG-0930,Gemcitabine,159,
+1731,CTG-0930,Gemcitabine,184,
+1732,CTG-0930,Paclitaxel,44,
+1733,CTG-0930,Pazopanib,79,
+1734,CTG-0930,Sorafenib,2,
+1735,CTG-0930,Sorafenib,45,
+1736,CTG-0930,Sunitinib,6,
+1737,CTG-0930,Sunitinib,40,
+1738,CTG-0930,Temsirolimus,78,
+1739,CTG-0930,Temsirolimus,125,
+1740,CTG-0930,Trabectedin,135,
+1741,CTG-0930,Vincristine,22,
+1742,CTG-0933,5-Fluorouracil,194,Sarcoma
+1743,CTG-0933,Bevacizumab,194,Sarcoma
+1744,CTG-0933,Bevacizumab,88,Sarcoma
+1745,CTG-0933,Bevacizumab,94,Sarcoma
+1746,CTG-0933,Cyclophosphamide,88,Sarcoma
+1747,CTG-0933,Cyclophosphamide,94,Sarcoma
+1748,CTG-0933,Vinorelbine,88,Sarcoma
+1749,CTG-0933,Vinorelbine,94,Sarcoma
+1750,CTG-0933,Evofosfamide,55,Sarcoma
+1751,CTG-0933,Evofosfamide,94,Sarcoma
+1752,CTG-0933,Evofosfamide,20,Sarcoma
+1753,CTG-0933,Evofosfamide,83,Sarcoma
+1754,CTG-0933,Ifosfamide,20,Sarcoma
+1755,CTG-0933,Ifosfamide,83,Sarcoma
+1756,CTG-0933,Docetaxel,96,Sarcoma
+1757,CTG-0933,Docetaxel,106,Sarcoma
+1758,CTG-0933,Gemcitabine,96,Sarcoma
+1759,CTG-0933,Gemcitabine,106,Sarcoma
+1760,CTG-0933,Ifosfamide,19,Sarcoma
+1761,CTG-0933,Ifosfamide,68,Sarcoma
+1762,CTG-0933,Irinotecan,116,Sarcoma
+1763,CTG-0933,Temozolomide,116,Sarcoma
+1764,CTG-0933,Temsirolimus,116,Sarcoma
+1765,CTG-0933,Pazopanib,68,Sarcoma
+1766,CTG-0933,Sorafenib,-110,Sarcoma
+1767,CTG-0933,Sorafenib,-95,Sarcoma
+1768,CTG-0933,Trabectedin,2,Sarcoma
+1769,CTG-0933,Vincristine,96,Sarcoma
+1770,CTG-0933,Vincristine,98,Sarcoma
+1771,CTG-0933,Vincristine,98,Sarcoma
+1772,CTG-0933,Etoposide,-56,Sarcoma
+1773,CTG-0933,Vorinostat,-56,Sarcoma
+1774,CTG-0934,Cetuximab,25,Colorectal
+1775,CTG-0934,Irinotecan,25,Colorectal
+1776,CTG-0934,Oxaliplatin,30,Colorectal
+1777,CTG-0936,Lapatinib,62,Gastric
+1778,CTG-0936,Paclitaxel,-42,Gastric
+1779,CTG-0936,Paclitaxel,120,Gastric
+1780,CTG-0941,Cisplatin,55,Cholangiocarcinoma
+1781,CTG-0941,Gemcitabine,55,Cholangiocarcinoma
+1782,CTG-0941,Cyclophosphamide,93,Cholangiocarcinoma
+1783,CTG-0941,Epirubicin,93,Cholangiocarcinoma
+1784,CTG-0941,Eribulin,147,Cholangiocarcinoma
+1785,CTG-0941,Eribulin,205,Cholangiocarcinoma
+1786,CTG-0941,Gemcitabine,33,Cholangiocarcinoma
+1787,CTG-0941,Pazopanib,87,Cholangiocarcinoma
+1788,CTG-0943,Bortezomib,72,Pancreatic
+1789,CTG-0943,Gemcitabine,83,Pancreatic
+1790,CTG-0943,Nab-paclitaxel,83,Pancreatic
+1791,CTG-0943,Idarubicin,-69,Pancreatic
+1792,CTG-0943,Bortezomib,24,Pancreatic
+1793,CTG-0943,Idarubicin,24,Pancreatic
+1794,CTG-0943,Irinotecan,130,Pancreatic
+1795,CTG-0945,5-Fluorouracil,107,
+1796,CTG-0945,Irinotecan,107,
+1797,CTG-0945,Bleomycin,144,
+1798,CTG-0945,Cisplatin,144,
+1799,CTG-0945,Etoposide,144,
+1800,CTG-0945,Pazopanib,95,
+1801,CTG-0945,Pazopanib,110,
+1802,CTG-0947,Carboplatin,-83,Ovarian
+1803,CTG-0947,Carboplatin,113,Ovarian
+1804,CTG-0947,Carboplatin,121,Ovarian
+1805,CTG-0947,Paclitaxel,113,Ovarian
+1806,CTG-0947,Paclitaxel,121,Ovarian
+1807,CTG-0947,Docetaxel,130,Ovarian
+1808,CTG-0947,Liposomal doxorubicin,56,Ovarian
+1809,CTG-0947,Paclitaxel,178,Ovarian
+1810,CTG-0947,Topotecan,64,Ovarian
+1811,CTG-0951,5-Fluorouracil,98,Colorectal
+1812,CTG-0951,Oxaliplatin,98,Colorectal
+1813,CTG-0951,Panitumumab,98,Colorectal
+1814,CTG-0951,Cetuximab,80,Colorectal
+1815,CTG-0951,Everolimus,39,Colorectal
+1816,CTG-0951,Irinotecan,94,Colorectal
+1817,CTG-0951,Mitomycin C,101,Colorectal
+1818,CTG-0951,Oxaliplatin,63,Colorectal
+1819,CTG-0951,Oxaliplatin,80,Colorectal
+1820,CTG-0951,Pemetrexed,80,Colorectal
+1821,CTG-0951,Regorafenib,100,Colorectal
+1822,CTG-0951,Temozolomide,31,Colorectal
+1823,CTG-0952,5-Fluorouracil,45,
+1824,CTG-0952,Cisplatin,1,
+1825,CTG-0952,Erlotinib,-35,
+1826,CTG-0952,Erlotinib,76,
+1827,CTG-0952,Gemcitabine,73,
+1828,CTG-0952,Gemcitabine,80,
+1829,CTG-0952,Irinotecan,135,
+1830,CTG-0952,Mitomycin C,23,
+1831,CTG-0952,Sunitinib,51,
+1832,CTG-0952,Sunitinib,69,
+1833,CTG-0952,Temsirolimus,44,
+1834,CTG-0952,Temsirolimus,79,
+1835,CTG-0953,Cetuximab,6,Head and neck
+1836,CTG-0953,Cetuximab,40,Head and neck
+1837,CTG-0953,Cetuximab,63,Head and neck
+1838,CTG-0953,Cisplatin,62,Head and neck
+1839,CTG-0953,Cisplatin,64,Head and neck
+1840,CTG-0953,Cetuximab,-77,Head and neck
+1841,CTG-0953,Cetuximab,87,Head and neck
+1842,CTG-0953,Cisplatin,-77,Head and neck
+1843,CTG-0953,Cisplatin,87,Head and neck
+1844,CTG-0955,Erlotinib,148,Pancreatic
+1845,CTG-0955,Gemcitabine,60,Pancreatic
+1846,CTG-0955,Gemcitabine,159,Pancreatic
+1847,CTG-0956,Carboplatin,183,Ovarian
+1848,CTG-0956,Docetaxel,183,Ovarian
+1849,CTG-0956,Carboplatin,50,Ovarian
+1850,CTG-0956,Paclitaxel,50,Ovarian
+1851,CTG-0956,Liposomal doxorubicin,49,Ovarian
+1852,CTG-0956,Olaparib,1,Ovarian
+1853,CTG-0958,Carboplatin,88,Ovarian
+1854,CTG-0958,Carboplatin,133,Ovarian
+1855,CTG-0958,Docetaxel,133,Ovarian
+1856,CTG-0958,Carboplatin,38,Ovarian
+1857,CTG-0958,Carboplatin,74,Ovarian
+1858,CTG-0958,Carboplatin,80,Ovarian
+1859,CTG-0958,Paclitaxel,38,Ovarian
+1860,CTG-0958,Paclitaxel,74,Ovarian
+1861,CTG-0958,Paclitaxel,80,Ovarian
+1862,CTG-0958,Gemcitabine,3,Ovarian
+1863,CTG-0958,Gemcitabine,25,Ovarian
+1864,CTG-0958,Liposomal doxorubicin,56,Ovarian
+1865,CTG-0958,Olaparib,44,Ovarian
+1866,CTG-0958,Olaparib,107,Ovarian
+1867,CTG-0958,Temozolomide,60,Ovarian
+1868,CTG-0963,5-Fluorouracil,150,Colorectal
+1869,CTG-0963,Irinotecan,150,Colorectal
+1870,CTG-0963,5-Fluorouracil,212,Colorectal
+1871,CTG-0963,Cetuximab,212,Colorectal
+1872,CTG-0963,Irinotecan,212,Colorectal
+1873,CTG-0963,5-Fluorouracil,121,Colorectal
+1874,CTG-0963,Irinotecan,121,Colorectal
+1875,CTG-0963,Oxaliplatin,121,Colorectal
+1876,CTG-0963,Capecitabine,101,Colorectal
+1877,CTG-0963,Capecitabine,-32,Colorectal
+1878,CTG-0963,Lapatinib,-32,Colorectal
+1879,CTG-0963,Mitomycin C,187,Colorectal
+1880,CTG-0963,Regorafenib,162,Colorectal
+1881,CTG-0963,Regorafenib,209,Colorectal
+1882,CTG-0963,Trastuzumab,106,Colorectal
+1883,CTG-0964,Carboplatin,29,Ovarian
+1884,CTG-0964,Carboplatin,62,Ovarian
+1885,CTG-0964,Carboplatin,29,Ovarian
+1886,CTG-0964,Paclitaxel,29,Ovarian
+1887,CTG-0964,Docetaxel,129,Ovarian
+1888,CTG-0964,Gemcitabine,33,Ovarian
+1889,CTG-0964,Irinotecan,81,Ovarian
+1890,CTG-0964,Irinotecan,103,Ovarian
+1891,CTG-0964,Liposomal doxorubicin,58,Ovarian
+1892,CTG-0964,Liposomal doxorubicin,86,Ovarian
+1893,CTG-0964,Olaparib,-32,Ovarian
+1894,CTG-0964,Paclitaxel,-6,Ovarian
+1895,CTG-0966,5-Fluorouracil,99,Colorectal
+1896,CTG-0966,Irinotecan,99,Colorectal
+1897,CTG-0966,Panitumumab,99,Colorectal
+1898,CTG-0966,5-Fluorouracil,102,Colorectal
+1899,CTG-0966,Bevacizumab,102,Colorectal
+1900,CTG-0966,Oxaliplatin,102,Colorectal
+1901,CTG-0966,5-Fluorouracil,102,Colorectal
+1902,CTG-0966,Cetuximab,102,Colorectal
+1903,CTG-0966,Oxaliplatin,102,Colorectal
+1904,CTG-0967,Doxorubicin,-145,Mesothelioma
+1905,CTG-0967,Vinorelbine,-162,Mesothelioma
+1906,CTG-0969,Doxorubicin,-8,Sarcoma
+1907,CTG-0969,Doxorubicin,24,Sarcoma
+1908,CTG-0969,Docetaxel,-25,Sarcoma
+1909,CTG-0969,Docetaxel,66,Sarcoma
+1910,CTG-0969,Gemcitabine,-25,Sarcoma
+1911,CTG-0969,Gemcitabine,66,Sarcoma
+1912,CTG-0970,Lapatinib,19,
+1913,CTG-0970,Temsirolimus,82,
+1914,CTG-0977,Cetuximab,83,Head and neck
+1915,CTG-0977,Cetuximab,123,Head and neck
+1916,CTG-0977,Cisplatin,116,Head and neck
+1917,CTG-0977,Cisplatin,126,Head and neck
+1918,CTG-0977,Cetuximab,121,Head and neck
+1919,CTG-0977,Cisplatin,121,Head and neck
+1920,CTG-0977,Paclitaxel,91,Head and neck
+1921,CTG-0980,Docetaxel,101,Sarcoma
+1922,CTG-0980,Gemcitabine,101,Sarcoma
+1923,CTG-0980,Doxorubicin,2,Sarcoma
+1924,CTG-0980,Doxorubicin,65,Sarcoma
+1925,CTG-0980,Ifosfamide,2,Sarcoma
+1926,CTG-0980,Ifosfamide,65,Sarcoma
+1927,CTG-0980,Pazopanib,78,Sarcoma
+1928,CTG-0980,Trabectedin,8,Sarcoma
+1929,CTG-0983,5-Fluorouracil,77,Colorectal
+1930,CTG-0983,5-Fluorouracil,165,Colorectal
+1931,CTG-0983,Irinotecan,77,Colorectal
+1932,CTG-0983,Irinotecan,165,Colorectal
+1933,CTG-0983,5-Fluorouracil,44,Colorectal
+1934,CTG-0983,5-Fluorouracil,75,Colorectal
+1935,CTG-0983,Oxaliplatin,44,Colorectal
+1936,CTG-0983,Oxaliplatin,75,Colorectal
+1937,CTG-0983,Irinotecan,78,Colorectal
+1938,CTG-0983,Irinotecan,150,Colorectal
+1939,CTG-0983,Cetuximab,70,Colorectal
+1940,CTG-0983,Cetuximab,75,Colorectal
+1941,CTG-0983,Irinotecan,70,Colorectal
+1942,CTG-0983,Irinotecan,75,Colorectal
+1943,CTG-0983,Mitomycin C,43,Colorectal
+1944,CTG-0983,Mitomycin C,83,Colorectal
+1945,CTG-0983,Oxaliplatin,55,Colorectal
+1946,CTG-0983,Oxaliplatin,114,Colorectal
+1947,CTG-0983,Regorafenib,103,Colorectal
+1948,CTG-0985,Cisplatin,-1,Colorectal
+1949,CTG-0992,Bevacizumab,36,Ovarian
+1950,CTG-0992,Bevacizumab,68,Ovarian
+1951,CTG-0992,Bevacizumab,97,Ovarian
+1952,CTG-0992,Carboplatin,45,Ovarian
+1953,CTG-0992,Carboplatin,41,Ovarian
+1954,CTG-0992,Carboplatin,51,Ovarian
+1955,CTG-0992,Carboplatin,71,Ovarian
+1956,CTG-0992,Carboplatin,151,Ovarian
+1957,CTG-0992,Paclitaxel,41,Ovarian
+1958,CTG-0992,Paclitaxel,51,Ovarian
+1959,CTG-0992,Paclitaxel,71,Ovarian
+1960,CTG-0992,Paclitaxel,151,Ovarian
+1961,CTG-0992,Gemcitabine,112,Ovarian
+1962,CTG-0992,Liposomal doxorubicin,84,Ovarian
+1963,CTG-0992,Olaparib,-42,Ovarian
+1964,CTG-0992,Olaparib,-26,Ovarian
+1965,CTG-0992,Olaparib,70,Ovarian
+1966,CTG-0992,Pazopanib,76,Ovarian
+1967,CTG-0993,Doxorubicin,149,Sarcoma
+1968,CTG-0994,Bevacizumab,73,Sarcoma
+1969,CTG-0994,Cyclophosphamide,75,Sarcoma
+1970,CTG-0994,Cyclophosphamide,148,Sarcoma
+1971,CTG-0994,Temsirolimus,148,Sarcoma
+1972,CTG-0994,Vinorelbine,148,Sarcoma
+1973,CTG-0994,Doxorubicin,-78,Sarcoma
+1974,CTG-0994,Doxorubicin,44,Sarcoma
+1975,CTG-0994,Docetaxel,81,Sarcoma
+1976,CTG-0994,Gemcitabine,81,Sarcoma
+1977,CTG-0994,Bevacizumab,160,Sarcoma
+1978,CTG-0994,Docetaxel,160,Sarcoma
+1979,CTG-0994,Gemcitabine,160,Sarcoma
+1980,CTG-0994,Ifosfamide,27,Sarcoma
+1981,CTG-0994,Ifosfamide,31,Sarcoma
+1982,CTG-0994,Irinotecan,135,Sarcoma
+1983,CTG-0994,Temozolomide,135,Sarcoma
+1984,CTG-0994,Bevacizumab,115,Sarcoma
+1985,CTG-0994,Irinotecan,115,Sarcoma
+1986,CTG-0994,Temozolomide,115,Sarcoma
+1987,CTG-0994,Pazopanib,97,Sarcoma
+1988,CTG-0994,Temsirolimus,76,Sarcoma
+1989,CTG-0994,Temsirolimus,94,Sarcoma
+1990,CTG-0994,Topotecan,-8,Sarcoma
+1991,CTG-0994,Topotecan,68,Sarcoma
+1992,CTG-0996,Trastuzumab,98,Vulvar
+1993,CTG-0997,Gemcitabine,126,Cholangiocarcinoma
+1994,CTG-0997,Imatinib,59,Cholangiocarcinoma
+1995,CTG-0997,Pazopanib,160,Cholangiocarcinoma
+1996,CTG-0997,Trastuzumab,-12,Cholangiocarcinoma
+1997,CTG-1006,5-Fluorouracil,61,Sarcoma
+1998,CTG-1006,5-Fluorouracil,125,Sarcoma
+1999,CTG-1006,Cyclophosphamide,41,Sarcoma
+2000,CTG-1006,Cyclophosphamide,88,Sarcoma
+2001,CTG-1006,Doxorubicin,41,Sarcoma
+2002,CTG-1006,Doxorubicin,49,Sarcoma
+2003,CTG-1006,Docetaxel,143,Sarcoma
+2004,CTG-1006,Gemcitabine,143,Sarcoma
+2005,CTG-1008,Vincristine,89,Sarcoma
+2006,CTG-1009,Cetuximab,31,Colorectal
+2007,CTG-1009,Gemcitabine,75,Colorectal
+2008,CTG-1009,Oxaliplatin,75,Colorectal
+2009,CTG-1009,Cetuximab,63,Colorectal
+2010,CTG-1009,Cetuximab,90,Colorectal
+2011,CTG-1009,Irinotecan,63,Colorectal
+2012,CTG-1009,Irinotecan,90,Colorectal
+2013,CTG-1009,Regorafenib,184,Colorectal
+2014,CTG-1009,Temsirolimus,184,Colorectal
+2015,CTG-1010,Docetaxel,237,Gastric
+2016,CTG-1012,Carboplatin,106,NSCLC
+2017,CTG-1012,Carboplatin,139,NSCLC
+2018,CTG-1012,Paclitaxel,106,NSCLC
+2019,CTG-1012,Paclitaxel,139,NSCLC
+2020,CTG-1012,Cisplatin,152,NSCLC
+2021,CTG-1012,Pemetrexed,152,NSCLC
+2022,CTG-1012,Docetaxel,26,NSCLC
+2023,CTG-1012,Docetaxel,40,NSCLC
+2024,CTG-1012,Docetaxel,68,NSCLC
+2025,CTG-1012,Docetaxel,93,NSCLC
+2026,CTG-1012,Everolimus,86,NSCLC
+2027,CTG-1012,Sunitinib,82,NSCLC
+2028,CTG-1012,Temozolomide,134,NSCLC
+2029,CTG-1014,Carboplatin,-9,NSCLC
+2030,CTG-1014,Paclitaxel,-9,NSCLC
+2031,CTG-1015,Cisplatin,5,Glioblastoma multiforme (GBM)
+2032,CTG-1015,Everolimus,173,Glioblastoma multiforme (GBM)
+2033,CTG-1015,Lapatinib,-14,Glioblastoma multiforme (GBM)
+2034,CTG-1017,Cisplatin,107,Breast
+2035,CTG-1017,Gemcitabine,107,Breast
+2036,CTG-1017,Doxorubicin,61,Breast
+2037,CTG-1017,Eribulin,120,Breast
+2038,CTG-1017,Paclitaxel,82,Breast
+2039,CTG-1017,Bevacizumab,118,Breast
+2040,CTG-1017,Paclitaxel,118,Breast
+2041,CTG-1017,Temsirolimus,83,Breast
+2042,CTG-1018,Capecitabine,61,Breast
+2043,CTG-1018,Carboplatin,18,Breast
+2044,CTG-1018,Carboplatin,79,Breast
+2045,CTG-1018,Gemcitabine,18,Breast
+2046,CTG-1018,Gemcitabine,79,Breast
+2047,CTG-1018,Carboplatin,7,Breast
+2048,CTG-1018,Cyclophosphamide,7,Breast
+2049,CTG-1018,Doxorubicin,7,Breast
+2050,CTG-1018,Paclitaxel,7,Breast
+2051,CTG-1018,Docetaxel,103,Breast
+2052,CTG-1018,Cyclophosphamide,77,Breast
+2053,CTG-1018,Doxorubicin,77,Breast
+2054,CTG-1018,Tamoxifen,-48,Breast
+2055,CTG-1019,Carboplatin,47,Breast
+2056,CTG-1019,Carboplatin,-14,Breast
+2057,CTG-1019,Paclitaxel,-14,Breast
+2058,CTG-1019,Cisplatin,41,Breast
+2059,CTG-1019,Eribulin,123,Breast
+2060,CTG-1019,Olaparib,30,Breast
+2061,CTG-1019,Olaparib,154,Breast
+2062,CTG-1019,Temozolomide,68,Breast
+2063,CTG-1019,Temozolomide,98,Breast
+2064,CTG-1020,Aflibercept,73,Colorectal
+2065,CTG-1020,Regorafenib,91,Colorectal
+2066,CTG-1021,5-Fluorouracil,100,Colorectal
+2067,CTG-1021,Irinotecan,100,Colorectal
+2068,CTG-1021,5-Fluorouracil,91,Colorectal
+2069,CTG-1021,Oxaliplatin,91,Colorectal
+2070,CTG-1021,Gemcitabine,69,Colorectal
+2071,CTG-1021,Oxaliplatin,69,Colorectal
+2072,CTG-1021,Regorafenib,63,Colorectal
+2073,CTG-1022,Dasatinib,57,Duodenal
+2074,CTG-1022,Gemcitabine,55,Duodenal
+2075,CTG-1022,Paclitaxel,106,Duodenal
+2076,CTG-1022,Regorafenib,105,Duodenal
+2077,CTG-1040,Doxorubicin,34,
+2078,CTG-1040,Docetaxel,156,
+2079,CTG-1040,Gemcitabine,156,
+2080,CTG-1040,Pazopanib,-2,
+2081,CTG-1053,Temsirolimus,49,Colorectal
+2082,CTG-1054,Irinotecan,20,Colorectal
+2083,CTG-1054,Temsirolimus,53,Colorectal
+2084,CTG-1055,Carboplatin,110,
+2085,CTG-1055,Paclitaxel,110,
+2086,CTG-1055,Cisplatin,152,
+2087,CTG-1055,Methotrexate,81,
+2088,CTG-1055,Trastuzumab,79,
+2089,CTG-1055,Trastuzumab,145,
+2090,CTG-1055,Vorinostat,28,
+2091,CTG-1056,Gemcitabine,11,Pancreatic
+2092,CTG-1056,Gemcitabine,60,Pancreatic
+2093,CTG-1059,Fulvestrant,-18,Breast
+2094,CTG-1059,Fulvestrant,46,Breast
+2095,CTG-1059,Palbociclib,46,Breast
+2096,CTG-1059,Palbociclib,54,Breast
+2097,CTG-1060,5-Fluorouracil,45,Colorectal
+2098,CTG-1060,5-Fluorouracil,71,Colorectal
+2099,CTG-1060,Carboplatin,45,Colorectal
+2100,CTG-1060,Carboplatin,71,Colorectal
+2101,CTG-1060,5-Fluorouracil,37,Colorectal
+2102,CTG-1060,Cisplatin,37,Colorectal
+2103,CTG-1060,5-Fluorouracil,188,Colorectal
+2104,CTG-1060,Irinotecan,188,Colorectal
+2105,CTG-1060,5-Fluorouracil,83,Colorectal
+2106,CTG-1060,Oxaliplatin,83,Colorectal
+2107,CTG-1060,Bleomycin,47,Colorectal
+2108,CTG-1060,Capecitabine,157,Colorectal
+2109,CTG-1060,Oxaliplatin,157,Colorectal
+2110,CTG-1060,Gemcitabine,63,Colorectal
+2111,CTG-1060,Paclitaxel,-26,Colorectal
+2112,CTG-1060,Regorafenib,152,Colorectal
+2113,CTG-1061,Cisplatin,55,Bladder
+2114,CTG-1064,Cabazitaxel,72,Sarcoma
+2115,CTG-1064,Docetaxel,53,Sarcoma
+2116,CTG-1064,Gemcitabine,53,Sarcoma
+2117,CTG-1064,Sirolimus,101,Sarcoma
+2118,CTG-1064,Sorafenib,83,Sarcoma
+2119,CTG-1064,Etoposide,65,Sarcoma
+2120,CTG-1064,Vorinostat,65,Sarcoma
+2121,CTG-1068,Everolimus,103,Pancreatic
+2122,CTG-1068,Sunitinib,103,Pancreatic
+2123,CTG-1068,Gemcitabine,64,Pancreatic
+2124,CTG-1068,Gemcitabine,75,Pancreatic
+2125,CTG-1069,Bevacizumab,67,Sarcoma
+2126,CTG-1069,Cisplatin,62,Sarcoma
+2127,CTG-1069,Etoposide,23,Sarcoma
+2128,CTG-1069,Gemcitabine,67,Sarcoma
+2129,CTG-1069,Vinorelbine,67,Sarcoma
+2130,CTG-1069,Irinotecan,244,Sarcoma
+2131,CTG-1069,Temozolomide,244,Sarcoma
+2132,CTG-1069,Liposomal doxorubicin,97,Sarcoma
+2133,CTG-1069,Pazopanib,102,Sarcoma
+2134,CTG-1069,Sunitinib,7,Sarcoma
+2135,CTG-1069,Temsirolimus,93,Sarcoma
+2136,CTG-1069,Trabectedin,131,Sarcoma
+2137,CTG-1072,Doxorubicin,-48,Hepatoblastoma
+2138,CTG-1073,Bevacizumab,88,Sarcoma
+2139,CTG-1073,Carboplatin,42,Sarcoma
+2140,CTG-1073,Carboplatin,113,Sarcoma
+2141,CTG-1073,Topotecan,42,Sarcoma
+2142,CTG-1073,Topotecan,113,Sarcoma
+2143,CTG-1073,Doxorubicin,125,Sarcoma
+2144,CTG-1073,Trabectedin,125,Sarcoma
+2145,CTG-1073,Ifosfamide,83,Sarcoma
+2146,CTG-1073,Liposomal doxorubicin,83,Sarcoma
+2147,CTG-1073,Sorafenib,108,Sarcoma
+2148,CTG-1073,Docetaxel,55,Sarcoma
+2149,CTG-1073,Docetaxel,84,Sarcoma
+2150,CTG-1073,Sorafenib,55,Sarcoma
+2151,CTG-1073,Sorafenib,84,Sarcoma
+2152,CTG-1073,Temozolomide,118,Sarcoma
+2153,CTG-1073,Trabectedin,39,Sarcoma
+2154,CTG-1076,Cisplatin,98,Bladder
+2155,CTG-1076,Cisplatin,171,Bladder
+2156,CTG-1076,Gemcitabine,98,Bladder
+2157,CTG-1076,Gemcitabine,171,Bladder
+2158,CTG-1076,Doxorubicin,6,Bladder
+2159,CTG-1076,Gemcitabine,25,Bladder
+2160,CTG-1076,Paclitaxel,-84,Bladder
+2161,CTG-1076,Paclitaxel,70,Bladder
+2162,CTG-1076,Pemetrexed,37,Bladder
+2163,CTG-1076,Temozolomide,74,Bladder
+2164,CTG-1078,Cetuximab,70,Head and neck
+2165,CTG-1078,Paclitaxel,70,Head and neck
+2166,CTG-1078,Cetuximab,64,Head and neck
+2167,CTG-1078,Gemcitabine,64,Head and neck
+2168,CTG-1078,Mitomycin C,26,Head and neck
+2169,CTG-1078,Pemetrexed,24,Head and neck
+2170,CTG-1078,Pemetrexed,50,Head and neck
+2171,CTG-1079,Doxorubicin,44,Sarcoma
+2172,CTG-1082,Carboplatin,55,
+2173,CTG-1082,Carboplatin,100,
+2174,CTG-1082,Paclitaxel,55,
+2175,CTG-1082,Paclitaxel,100,
+2176,CTG-1082,Osimertinib,107,
+2177,CTG-1082,Trametinib,42,
+2178,CTG-1084,Evofosfamide,96,Sarcoma
+2179,CTG-1084,Evofosfamide,111,Sarcoma
+2180,CTG-1084,Ifosfamide,111,Sarcoma
+2181,CTG-1084,Ifosfamide,133,Sarcoma
+2182,CTG-1086,Carboplatin,-24,Ovarian
+2183,CTG-1086,Carboplatin,29,Ovarian
+2184,CTG-1086,Carboplatin,-15,Ovarian
+2185,CTG-1086,Docetaxel,-15,Ovarian
+2186,CTG-1086,Carboplatin,48,Ovarian
+2187,CTG-1086,Carboplatin,67,Ovarian
+2188,CTG-1086,Carboplatin,75,Ovarian
+2189,CTG-1086,Carboplatin,100,Ovarian
+2190,CTG-1086,Paclitaxel,48,Ovarian
+2191,CTG-1086,Paclitaxel,67,Ovarian
+2192,CTG-1086,Paclitaxel,75,Ovarian
+2193,CTG-1086,Paclitaxel,100,Ovarian
+2194,CTG-1086,Liposomal doxorubicin,70,Ovarian
+2195,CTG-1086,Liposomal doxorubicin,96,Ovarian
+2196,CTG-1086,Olaparib,-15,Ovarian
+2197,CTG-1086,Olaparib,8,Ovarian
+2198,CTG-1086,Olaparib,18,Ovarian
+2199,CTG-1086,Olaparib,52,Ovarian
+2200,CTG-1086,Olaparib,53,Ovarian
+2201,CTG-1087,Capecitabine,33,Colorectal
+2202,CTG-1087,Temozolomide,33,Colorectal
+2203,CTG-1087,Cetuximab,54,Colorectal
+2204,CTG-1087,Lapatinib,54,Colorectal
+2205,CTG-1087,Cetuximab,113,Colorectal
+2206,CTG-1087,Irinotecan,113,Colorectal
+2207,CTG-1087,Cetuximab,135,Colorectal
+2208,CTG-1087,Irinotecan,135,Colorectal
+2209,CTG-1087,Trastuzumab,135,Colorectal
+2210,CTG-1087,Trastuzumab,1,Colorectal
+2211,CTG-1094,Celecoxib,-17,Sarcoma
+2212,CTG-1094,Cyclophosphamide,71,Sarcoma
+2213,CTG-1094,Topotecan,71,Sarcoma
+2214,CTG-1094,Erlotinib,70,Sarcoma
+2215,CTG-1094,Docetaxel,117,Sarcoma
+2216,CTG-1094,Gemcitabine,117,Sarcoma
+2217,CTG-1094,Ifosfamide,77,Sarcoma
+2218,CTG-1094,Irinotecan,82,Sarcoma
+2219,CTG-1094,Sunitinib,48,Sarcoma
+2220,CTG-1094,Temsirolimus,55,Sarcoma
+2221,CTG-1094,Bevacizumab,81,Sarcoma
+2222,CTG-1094,Valproic acid,81,Sarcoma
+2223,CTG-1094,Vorinostat,-18,Sarcoma
+2224,CTG-1095,Cisplatin,50,Sarcoma
+2225,CTG-1095,Doxorubicin,1,Sarcoma
+2226,CTG-1095,Doxorubicin,29,Sarcoma
+2227,CTG-1095,Gemcitabine,83,Sarcoma
+2228,CTG-1095,Gemcitabine,98,Sarcoma
+2229,CTG-1095,Gemcitabine,136,Sarcoma
+2230,CTG-1095,Nab-paclitaxel,136,Sarcoma
+2231,CTG-1095,Etoposide,26,Sarcoma
+2232,CTG-1095,Ifosfamide,26,Sarcoma
+2233,CTG-1095,Irinotecan,84,Sarcoma
+2234,CTG-1095,Temozolomide,84,Sarcoma
+2235,CTG-1095,Mitomycin C,65,Sarcoma
+2236,CTG-1095,Pazopanib,79,Sarcoma
+2237,CTG-1095,Sorafenib,157,Sarcoma
+2238,CTG-1095,Temsirolimus,157,Sarcoma
+2239,CTG-1095,Etoposide,16,Sarcoma
+2240,CTG-1095,Vorinostat,16,Sarcoma
+2241,CTG-1100,5-Fluorouracil,-14,Head and neck
+2242,CTG-1100,Cetuximab,29,Head and neck
+2243,CTG-1100,Cisplatin,96,Head and neck
+2244,CTG-1100,Cisplatin,105,Head and neck
+2245,CTG-1100,Cetuximab,109,Head and neck
+2246,CTG-1100,Cisplatin,109,Head and neck
+2247,CTG-1105,5-Fluorouracil,77,Unknown origin
+2248,CTG-1105,Mitomycin C,77,Unknown origin
+2249,CTG-1105,Cyclophosphamide,80,Unknown origin
+2250,CTG-1105,Doxorubicin,80,Unknown origin
+2251,CTG-1105,Everolimus,87,Unknown origin
+2252,CTG-1105,Pazopanib,87,Unknown origin
+2253,CTG-1105,Docetaxel,109,Unknown origin
+2254,CTG-1105,Gemcitabine,109,Unknown origin
+2255,CTG-1105,Temsirolimus,74,Unknown origin
+2256,CTG-1106,Carboplatin,28,Breast
+2257,CTG-1106,Paclitaxel,28,Breast
+2258,CTG-1106,Docetaxel,121,Breast
+2259,CTG-1112,5-Fluorouracil,113,Colorectal
+2260,CTG-1112,Oxaliplatin,113,Colorectal
+2261,CTG-1116,Cyclophosphamide,156,Sarcoma
+2262,CTG-1116,Cyclophosphamide,165,Sarcoma
+2263,CTG-1116,Temsirolimus,165,Sarcoma
+2264,CTG-1116,Vinorelbine,165,Sarcoma
+2265,CTG-1116,Doxorubicin,45,Sarcoma
+2266,CTG-1116,Evofosfamide,57,Sarcoma
+2267,CTG-1116,Evofosfamide,121,Sarcoma
+2268,CTG-1116,Ifosfamide,121,Sarcoma
+2269,CTG-1116,Ifosfamide,124,Sarcoma
+2270,CTG-1116,Pazopanib,73,Sarcoma
+2271,CTG-1116,Temsirolimus,21,Sarcoma
+2272,CTG-1116,Vincristine,107,Sarcoma
+2273,CTG-1116,Vinorelbine,141,Sarcoma
+2274,CTG-1118,Sunitinib,122,
+2275,CTG-1118,Temsirolimus,104,
+2276,CTG-1122,5-Fluorouracil,103,Pancreatic
+2277,CTG-1122,Irinotecan,103,Pancreatic
+2278,CTG-1122,Oxaliplatin,103,Pancreatic
+2279,CTG-1122,Cisplatin,99,Pancreatic
+2280,CTG-1122,Erlotinib,64,Pancreatic
+2281,CTG-1122,Gemcitabine,110,Pancreatic
+2282,CTG-1122,Nab-paclitaxel,110,Pancreatic
+2283,CTG-1122,Mitomycin C,125,Pancreatic
+2284,CTG-1126,Cyclophosphamide,156,Sarcoma
+2285,CTG-1126,Doxorubicin,136,Sarcoma
+2286,CTG-1126,Gemcitabine,81,Sarcoma
+2287,CTG-1126,Docetaxel,74,Sarcoma
+2288,CTG-1126,Gemcitabine,74,Sarcoma
+2289,CTG-1126,Irinotecan,116,Sarcoma
+2290,CTG-1126,Temozolomide,116,Sarcoma
+2291,CTG-1126,Liposomal doxorubicin,106,Sarcoma
+2292,CTG-1128,Gemcitabine,146,
+2293,CTG-1128,Gemcitabine,161,
+2294,CTG-1128,Nab-paclitaxel,161,
+2295,CTG-1130,5-Fluorouracil,95,Head and neck
+2296,CTG-1130,Cisplatin,95,Head and neck
+2297,CTG-1130,Docetaxel,95,Head and neck
+2298,CTG-1130,Cisplatin,43,Head and neck
+2299,CTG-1130,Gemcitabine,43,Head and neck
+2300,CTG-1130,Docetaxel,137,Head and neck
+2301,CTG-1130,Pemetrexed,-6,Head and neck
+2302,CTG-1131,Cisplatin,-29,Head and neck
+2303,CTG-1138,Dasatinib,40,
+2304,CTG-1138,Gemcitabine,34,
+2305,CTG-1138,Bevacizumab,99,
+2306,CTG-1138,Liposomal doxorubicin,99,
+2307,CTG-1138,Pazopanib,36,
+2308,CTG-1138,Temsirolimus,-41,
+2309,CTG-1138,Topotecan,-23,
+2310,CTG-1138,Paclitaxel,51,
+2311,CTG-1138,Topotecan,51,
+2312,CTG-1138,Everolimus,118,
+2313,CTG-1138,Vinorelbine,118,
+2314,CTG-1144,Sunitinib,117,Ampullary
+2315,CTG-1146,5-Fluorouracil,67,Colorectal
+2316,CTG-1146,Irinotecan,67,Colorectal
+2317,CTG-1146,5-Fluorouracil,77,Colorectal
+2318,CTG-1146,Bevacizumab,77,Colorectal
+2319,CTG-1146,Irinotecan,77,Colorectal
+2320,CTG-1146,5-Fluorouracil,87,Colorectal
+2321,CTG-1146,Cetuximab,87,Colorectal
+2322,CTG-1146,Irinotecan,87,Colorectal
+2323,CTG-1146,Regorafenib,88,Colorectal
+2324,CTG-1149,Cetuximab,104,Pancreatic
+2325,CTG-1149,Temsirolimus,104,Pancreatic
+2326,CTG-1149,Cisplatin,115,Pancreatic
+2327,CTG-1149,Cyclophosphamide,33,Pancreatic
+2328,CTG-1149,Gemcitabine,89,Pancreatic
+2329,CTG-1149,Nab-paclitaxel,89,Pancreatic
+2330,CTG-1149,Imatinib,55,Pancreatic
+2331,CTG-1149,Mitomycin C,114,Pancreatic
+2332,CTG-1149,Afatinib,108,Pancreatic
+2333,CTG-1149,Mitomycin C,108,Pancreatic
+2334,CTG-1149,Cisplatin,108,Pancreatic
+2335,CTG-1149,Mitomycin C,108,Pancreatic
+2336,CTG-1149,Sorafenib,94,Pancreatic
+2337,CTG-1149,Temsirolimus,99,Pancreatic
+2338,CTG-1151,Carboplatin,-76,Breast
+2339,CTG-1151,Paclitaxel,-76,Breast
+2340,CTG-1151,Eribulin,61,Breast
+2341,CTG-1151,Eribulin,122,Breast
+2342,CTG-1151,Palbociclib,-24,Breast
+2343,CTG-1151,Palbociclib,44,Breast
+2344,CTG-1151,Trastuzumab emtansine,72,Breast
+2345,CTG-1152,Eribulin,10,Small intestinal/Small bowel
+2346,CTG-1152,Gemcitabine,42,Small intestinal/Small bowel
+2347,CTG-1152,Imatinib,15,Small intestinal/Small bowel
+2348,CTG-1152,Mitomycin C,80,Small intestinal/Small bowel
+2349,CTG-1153,Carboplatin,66,Breast
+2350,CTG-1153,Carboplatin,9,Breast
+2351,CTG-1153,Paclitaxel,9,Breast
+2352,CTG-1157,5-Fluorouracil,119,Colorectal
+2353,CTG-1157,Cetuximab,119,Colorectal
+2354,CTG-1157,Irinotecan,119,Colorectal
+2355,CTG-1157,5-Fluorouracil,216,Colorectal
+2356,CTG-1157,Irinotecan,216,Colorectal
+2357,CTG-1157,Panitumumab,216,Colorectal
+2358,CTG-1157,Etoposide,-31,Colorectal
+2359,CTG-1157,Gemcitabine,-37,Colorectal
+2360,CTG-1157,Regorafenib,91,Colorectal
+2361,CTG-1166,Carboplatin,25,Ovarian
+2362,CTG-1166,Carboplatin,-195,Ovarian
+2363,CTG-1166,Docetaxel,-195,Ovarian
+2364,CTG-1166,Carboplatin,-27,Ovarian
+2365,CTG-1166,Carboplatin,33,Ovarian
+2366,CTG-1166,Paclitaxel,-27,Ovarian
+2367,CTG-1166,Paclitaxel,33,Ovarian
+2368,CTG-1166,Liposomal doxorubicin,-44,Ovarian
+2369,CTG-1166,Olaparib,-2,Ovarian
+2370,CTG-1166,Olaparib,46,Ovarian
+2371,CTG-1166,Olaparib,54,Ovarian
+2372,CTG-1166,Olaparib,55,Ovarian
+2373,CTG-1167,Carboplatin,5,Breast
+2374,CTG-1167,Paclitaxel,5,Breast
+2375,CTG-1167,Paclitaxel,12,Breast
+2376,CTG-1167,Paclitaxel,61,Breast
+2377,CTG-1170,5-Fluorouracil,82,Colorectal
+2378,CTG-1170,Irinotecan,82,Colorectal
+2379,CTG-1170,5-Fluorouracil,113,Colorectal
+2380,CTG-1170,Bevacizumab,113,Colorectal
+2381,CTG-1170,Irinotecan,113,Colorectal
+2382,CTG-1170,5-Fluorouracil,64,Colorectal
+2383,CTG-1170,5-Fluorouracil,69,Colorectal
+2384,CTG-1170,Oxaliplatin,64,Colorectal
+2385,CTG-1170,Oxaliplatin,69,Colorectal
+2386,CTG-1170,Regorafenib,104,Colorectal
+2387,CTG-1171,Capecitabine,91,Breast
+2388,CTG-1171,Lapatinib,91,Breast
+2389,CTG-1171,Docetaxel,186,Breast
+2390,CTG-1171,Eribulin,101,Breast
+2391,CTG-1171,Gemcitabine,65,Breast
+2392,CTG-1171,Nab-paclitaxel,65,Breast
+2393,CTG-1171,Paclitaxel,80,Breast
+2394,CTG-1171,Trastuzumab,55,Breast
+2395,CTG-1173,Eribulin,18,Sarcoma
+2396,CTG-1173,Docetaxel,69,Sarcoma
+2397,CTG-1173,Docetaxel,150,Sarcoma
+2398,CTG-1173,Gemcitabine,69,Sarcoma
+2399,CTG-1173,Gemcitabine,150,Sarcoma
+2400,CTG-1173,Ifosfamide,170,Sarcoma
+2401,CTG-1173,Doxorubicin,32,Sarcoma
+2402,CTG-1173,Ifosfamide,32,Sarcoma
+2403,CTG-1173,Pazopanib,103,Sarcoma
+2404,CTG-1173,Temsirolimus,59,Sarcoma
+2405,CTG-1173,Trabectedin,22,Sarcoma
+2406,CTG-1180,Carboplatin,49,Ovarian
+2407,CTG-1180,Carboplatin,53,Ovarian
+2408,CTG-1180,Carboplatin,78,Ovarian
+2409,CTG-1180,Carboplatin,102,Ovarian
+2410,CTG-1180,Docetaxel,102,Ovarian
+2411,CTG-1180,Carboplatin,96,Ovarian
+2412,CTG-1180,Carboplatin,102,Ovarian
+2413,CTG-1180,Paclitaxel,96,Ovarian
+2414,CTG-1180,Paclitaxel,102,Ovarian
+2415,CTG-1180,Everolimus,79,Ovarian
+2416,CTG-1180,Letrozole,79,Ovarian
+2417,CTG-1180,Metformin,79,Ovarian
+2418,CTG-1180,Gemcitabine,41,Ovarian
+2419,CTG-1180,Liposomal doxorubicin,54,Ovarian
+2420,CTG-1180,Olaparib,10,Ovarian
+2421,CTG-1180,Olaparib,16,Ovarian
+2422,CTG-1180,Olaparib,29,Ovarian
+2423,CTG-1180,Olaparib,38,Ovarian
+2424,CTG-1180,Vinorelbine,75,Ovarian
+2425,CTG-1181,Bevacizumab,139,Renal cell carcinoma
+2426,CTG-1181,Erlotinib,139,Renal cell carcinoma
+2427,CTG-1181,Bevacizumab,181,Renal cell carcinoma
+2428,CTG-1181,Everolimus,181,Renal cell carcinoma
+2429,CTG-1181,Temsirolimus,79,Renal cell carcinoma
+2430,CTG-1182,Cisplatin,40,Sarcoma
+2431,CTG-1182,Cisplatin,84,Sarcoma
+2432,CTG-1182,Etoposide,-13,Sarcoma
+2433,CTG-1182,Etoposide,17,Sarcoma
+2434,CTG-1182,Ifosfamide,61,Sarcoma
+2435,CTG-1182,Irinotecan,65,Sarcoma
+2436,CTG-1182,Irinotecan,124,Sarcoma
+2437,CTG-1182,Temozolomide,124,Sarcoma
+2438,CTG-1182,Pazopanib,24,Sarcoma
+2439,CTG-1182,Pazopanib,57,Sarcoma
+2440,CTG-1182,Temozolomide,104,Sarcoma
+2441,CTG-1182,Temozolomide,158,Sarcoma
+2442,CTG-1184,Tamoxifen,-56,Breast
+2443,CTG-1184,Trastuzumab,17,Breast
+2444,CTG-1184,Trastuzumab,27,Breast
+2445,CTG-1184,Trastuzumab emtansine,188,Breast
+2446,CTG-1184,Tamoxifen,-2,Breast
+2447,CTG-1184,Trastuzumab,-2,Breast
+2448,CTG-1194,Afatinib,38,NSCLC
+2449,CTG-1194,Carboplatin,-16,NSCLC
+2450,CTG-1194,Cisplatin,69,NSCLC
+2451,CTG-1194,Docetaxel,89,NSCLC
+2452,CTG-1194,Trametinib,-64,NSCLC
+2453,CTG-1194,Trametinib,109,NSCLC
+2454,CTG-1199,Capecitabine,37,Gallbladder
+2455,CTG-1199,Oxaliplatin,37,Gallbladder
+2456,CTG-1199,Docetaxel,2,Gallbladder
+2457,CTG-1211,Cisplatin,65,Breast
+2458,CTG-1211,Etoposide,65,Breast
+2459,CTG-1211,Everolimus,99,Breast
+2460,CTG-1211,Exemestane,99,Breast
+2461,CTG-1211,Fulvestrant,-113,Breast
+2462,CTG-1211,Fulvestrant,-1,Breast
+2463,CTG-1211,Fulvestrant,7,Breast
+2464,CTG-1211,Liposomal doxorubicin,83,Breast
+2465,CTG-1211,Pazopanib,83,Breast
+2466,CTG-1213,Cyclophosphamide,75,Sarcoma
+2467,CTG-1213,Cyclophosphamide,148,Sarcoma
+2468,CTG-1213,Cyclophosphamide,95,Sarcoma
+2469,CTG-1213,Docetaxel,95,Sarcoma
+2470,CTG-1213,Cyclophosphamide,140,Sarcoma
+2471,CTG-1213,Vinorelbine,140,Sarcoma
+2472,CTG-1213,Cyclophosphamide,131,Sarcoma
+2473,CTG-1213,Temsirolimus,131,Sarcoma
+2474,CTG-1213,Vinorelbine,131,Sarcoma
+2475,CTG-1213,Doxorubicin,14,Sarcoma
+2476,CTG-1213,Cyclophosphamide,105,Sarcoma
+2477,CTG-1213,Doxorubicin,105,Sarcoma
+2478,CTG-1213,Topotecan,0,Sarcoma
+2479,CTG-1213,Vincristine,101,Sarcoma
+2480,CTG-1226,5-Fluorouracil,101,Colorectal
+2481,CTG-1226,Irinotecan,101,Colorectal
+2482,CTG-1226,5-Fluorouracil,112,Colorectal
+2483,CTG-1226,Bevacizumab,112,Colorectal
+2484,CTG-1226,Oxaliplatin,112,Colorectal
+2485,CTG-1226,Regorafenib,107,Colorectal
+2486,CTG-1242,Carboplatin,116,Breast
+2487,CTG-1242,Carboplatin,102,Breast
+2488,CTG-1242,Gemcitabine,102,Breast
+2489,CTG-1242,Carboplatin,32,Breast
+2490,CTG-1242,Paclitaxel,32,Breast
+2491,CTG-1242,Doxorubicin,10,Breast
+2492,CTG-1242,Doxorubicin,105,Breast
+2493,CTG-1242,Eribulin,107,Breast
+2494,CTG-1242,Liposomal doxorubicin,76,Breast
+2495,CTG-1242,Olaparib,56,Breast
+2496,CTG-1242,Olaparib,77,Breast
+2497,CTG-1242,Temsirolimus,51,Breast
+2498,CTG-1251,5-Fluorouracil,76,Colorectal
+2499,CTG-1251,Oxaliplatin,76,Colorectal
+2500,CTG-1251,Irinotecan,94,Colorectal
+2501,CTG-1251,Panitumumab,94,Colorectal
+2502,CTG-1255,Pazopanib,66,Sarcoma
+2503,CTG-1255,Temsirolimus,95,Sarcoma
+2504,CTG-1256,Busulfan,7,Uterine
+2505,CTG-1256,Cyclophosphamide,208,Uterine
+2506,CTG-1260,Carboplatin,86,Breast
+2507,CTG-1260,Everolimus,-4,Breast
+2508,CTG-1260,Everolimus,52,Breast
+2509,CTG-1260,Fulvestrant,-34,Breast
+2510,CTG-1260,Fulvestrant,40,Breast
+2511,CTG-1260,Fulvestrant,40,Breast
+2512,CTG-1260,Fulvestrant,45,Breast
+2513,CTG-1260,Fulvestrant,116,Breast
+2514,CTG-1260,Fulvestrant,12,Breast
+2515,CTG-1260,Fulvestrant,90,Breast
+2516,CTG-1260,Palbociclib,12,Breast
+2517,CTG-1260,Palbociclib,90,Breast
+2518,CTG-1260,Olaparib,75,Breast
+2519,CTG-1260,Palbociclib,-31,Breast
+2520,CTG-1260,Palbociclib,55,Breast
+2521,CTG-1260,Tamoxifen,70,Breast
+2522,CTG-1265,Carboplatin,43,SCLC
+2523,CTG-1265,Carboplatin,112,SCLC
+2524,CTG-1265,Paclitaxel,43,SCLC
+2525,CTG-1265,Paclitaxel,112,SCLC
+2526,CTG-1265,Temozolomide,16,SCLC
+2527,CTG-1280,Fulvestrant,36,Endometrial
+2528,CTG-1282,Carboplatin,36,Endometrial
+2529,CTG-1282,Fulvestrant,94,Endometrial
+2530,CTG-1282,Olaparib,-41,Endometrial
+2531,CTG-1299,Carboplatin,33,Sarcoma
+2532,CTG-1299,Gemcitabine,33,Sarcoma
+2533,CTG-1299,Trabectedin,-226,Sarcoma
+2534,CTG-1299,Trabectedin,-40,Sarcoma
+2535,CTG-1301,Carboplatin,46,Ovarian
+2536,CTG-1301,Carboplatin,56,Ovarian
+2537,CTG-1301,Carboplatin,143,Ovarian
+2538,CTG-1301,Paclitaxel,46,Ovarian
+2539,CTG-1301,Paclitaxel,56,Ovarian
+2540,CTG-1301,Paclitaxel,143,Ovarian
+2541,CTG-1301,Liposomal doxorubicin,119,Ovarian
+2542,CTG-1303,5-Fluorouracil,71,Colorectal
+2543,CTG-1303,Irinotecan,71,Colorectal
+2544,CTG-1305,Carboplatin,94,Ovarian
+2545,CTG-1305,Paclitaxel,94,Ovarian
+2546,CTG-1305,Liposomal doxorubicin,86,Ovarian
+2547,CTG-1305,Olaparib,43,Ovarian
+2548,CTG-1313,Eribulin,95,Sarcoma
+2549,CTG-1313,Bevacizumab,127,Sarcoma
+2550,CTG-1313,Docetaxel,127,Sarcoma
+2551,CTG-1313,Gemcitabine,127,Sarcoma
+2552,CTG-1313,Pazopanib,48,Sarcoma
+2553,CTG-1319,Sunitinib,25,Colorectal
+2554,CTG-1319,Temsirolimus,25,Colorectal
+2555,CTG-1324,5-Fluorouracil,65,
+2556,CTG-1324,Cisplatin,65,
+2557,CTG-1324,Doxorubicin,65,
+2558,CTG-1324,Nab-paclitaxel,65,
+2559,CTG-1324,Carboplatin,28,
+2560,CTG-1324,Docetaxel,28,
+2561,CTG-1324,Cetuximab,-111,
+2562,CTG-1324,Cetuximab,46,
+2563,CTG-1324,Cisplatin,56,
+2564,CTG-1324,Nab-paclitaxel,56,
+2565,CTG-1324,Cyclophosphamide,38,
+2566,CTG-1324,Celecoxib,75,
+2567,CTG-1324,Cyclophosphamide,75,
+2568,CTG-1324,Celecoxib,81,
+2569,CTG-1324,Cyclophosphamide,81,
+2570,CTG-1324,Irinotecan,81,
+2571,CTG-1324,Celecoxib,59,
+2572,CTG-1324,Cyclophosphamide,59,
+2573,CTG-1324,Liposomal doxorubicin,59,
+2574,CTG-1324,Decitabine,41,
+2575,CTG-1324,Sunitinib,41,
+2576,CTG-1324,Doxorubicin,77,
+2577,CTG-1324,Celecoxib,140,
+2578,CTG-1324,Cyclophosphamide,140,
+2579,CTG-1324,Doxorubicin,140,
+2580,CTG-1324,Irinotecan,140,
+2581,CTG-1324,Etoposide,69,
+2582,CTG-1324,Gemcitabine,27,
+2583,CTG-1324,Irinotecan,61,
+2584,CTG-1324,Liposomal doxorubicin,40,
+2585,CTG-1324,Liposomal doxorubicin,73,
+2586,CTG-1324,Liposomal doxorubicin,89,
+2587,CTG-1324,Liposomal doxorubicin,90,
+2588,CTG-1324,Liposomal doxorubicin,91,
+2589,CTG-1324,Liposomal doxorubicin,92,
+2590,CTG-1324,Liposomal doxorubicin,94,
+2591,CTG-1324,Liposomal doxorubicin,112,
+2592,CTG-1324,Irinotecan,104,
+2593,CTG-1324,Liposomal doxorubicin,104,
+2594,CTG-1324,Mitoxantrone,44,
+2595,CTG-1324,Mitoxantrone,56,
+2596,CTG-1324,Paclitaxel,69,
+2597,CTG-1324,Temozolomide,44,
+2598,CTG-1324,Topotecan,77,
+2599,CTG-1324,Vinorelbine,43,
+2600,CTG-1329,Carboplatin,47,NSCLC
+2601,CTG-1329,Carboplatin,71,NSCLC
+2602,CTG-1329,Paclitaxel,47,NSCLC
+2603,CTG-1329,Paclitaxel,71,NSCLC
+2604,CTG-1331,5-Fluorouracil,47,Pancreatic
+2605,CTG-1331,Irinotecan,47,Pancreatic
+2606,CTG-1331,Oxaliplatin,47,Pancreatic
+2607,CTG-1331,Erlotinib,82,Pancreatic
+2608,CTG-1331,Gemcitabine,82,Pancreatic
+2609,CTG-1331,Mitomycin C,29,Pancreatic
+2610,CTG-1331,Mitomycin C,34,Pancreatic
+2611,CTG-1333,Doxorubicin,-10,Sarcoma
+2612,CTG-1333,Eribulin,94,Sarcoma
+2613,CTG-1333,Everolimus,103,Sarcoma
+2614,CTG-1333,Docetaxel,123,Sarcoma
+2615,CTG-1333,Gemcitabine,123,Sarcoma
+2616,CTG-1333,Trabectedin,-83,Sarcoma
+2617,CTG-1333,Trabectedin,38,Sarcoma
+2618,CTG-1334,5-Fluorouracil,83,Colorectal
+2619,CTG-1334,Irinotecan,83,Colorectal
+2620,CTG-1334,Gemcitabine,65,Colorectal
+2621,CTG-1334,Oxaliplatin,65,Colorectal
+2622,CTG-1339,Bevacizumab,57,Sarcoma
+2623,CTG-1339,Bevacizumab,78,Sarcoma
+2624,CTG-1339,Cisplatin,57,Sarcoma
+2625,CTG-1339,Cisplatin,78,Sarcoma
+2626,CTG-1339,Doxorubicin,57,Sarcoma
+2627,CTG-1339,Doxorubicin,78,Sarcoma
+2628,CTG-1339,Docetaxel,76,Sarcoma
+2629,CTG-1339,Gemcitabine,76,Sarcoma
+2630,CTG-1339,Etoposide,33,Sarcoma
+2631,CTG-1339,Ifosfamide,33,Sarcoma
+2632,CTG-1339,Pazopanib,42,Sarcoma
+2633,CTG-1340,Carboplatin,154,Breast
+2634,CTG-1340,Carboplatin,-27,Breast
+2635,CTG-1340,Paclitaxel,-27,Breast
+2636,CTG-1340,Eribulin,174,Breast
+2637,CTG-1340,Paclitaxel,24,Breast
+2638,CTG-1340,Paclitaxel,99,Breast
+2639,CTG-1341,Dasatinib,17,Sarcoma
+2640,CTG-1341,Imatinib,9,Sarcoma
+2641,CTG-1341,Nilotinib,14,Sarcoma
+2642,CTG-1341,Sorafenib,-7,Sarcoma
+2643,CTG-1342,Carboplatin,55,NSCLC
+2644,CTG-1342,Paclitaxel,55,NSCLC
+2645,CTG-1342,Bevacizumab,234,NSCLC
+2646,CTG-1342,Nab-paclitaxel,234,NSCLC
+2647,CTG-1347,Cetuximab,100,Pancreatic
+2648,CTG-1347,Irinotecan,100,Pancreatic
+2649,CTG-1347,Paclitaxel,87,Pancreatic
+2650,CTG-1350,Carboplatin,191,Breast
+2651,CTG-1350,Paclitaxel,191,Breast
+2652,CTG-1365,Trastuzumab emtansine,92,Breast
+2653,CTG-1395,Carboplatin,71,Ovarian
+2654,CTG-1395,Paclitaxel,71,Ovarian
+2655,CTG-1395,Liposomal doxorubicin,-40,Ovarian
+2656,CTG-1407,Gemcitabine,48,Colorectal
+2657,CTG-1407,Irinotecan,66,Colorectal
+2658,CTG-1407,Irinotecan,79,Colorectal
+2659,CTG-1407,Paclitaxel,26,Colorectal
+2660,CTG-1408,Carboplatin,68,Breast
+2661,CTG-1408,Carboplatin,171,Breast
+2662,CTG-1408,Paclitaxel,68,Breast
+2663,CTG-1408,Paclitaxel,171,Breast
+2664,CTG-1408,Eribulin,182,Breast
+2665,CTG-1408,Liposomal doxorubicin,98,Breast
+2666,CTG-1414,Sunitinib,20,
+2667,CTG-1423,Carboplatin,20,Ovarian
+2668,CTG-1423,Carboplatin,51,Ovarian
+2669,CTG-1423,Docetaxel,51,Ovarian
+2670,CTG-1423,Carboplatin,65,Ovarian
+2671,CTG-1423,Paclitaxel,65,Ovarian
+2672,CTG-1423,Cyclophosphamide,-7,Ovarian
+2673,CTG-1423,Liposomal doxorubicin,26,Ovarian
+2674,CTG-1423,Olaparib,1,Ovarian
+2675,CTG-1423,Olaparib,9,Ovarian
+2676,CTG-1423,Olaparib,20,Ovarian
+2677,CTG-1423,Olaparib,68,Ovarian
+2678,CTG-1423,Paclitaxel,155,Ovarian
+2679,CTG-1427,Carboplatin,110,
+2680,CTG-1427,Paclitaxel,110,
+2681,CTG-1427,Etoposide,13,
+2682,CTG-1427,Etoposide,47,
+2683,CTG-1427,Gemcitabine,101,
+2684,CTG-1427,Vinorelbine,101,
+2685,CTG-1427,Ixabepilone,20,
+2686,CTG-1427,Liposomal doxorubicin,52,
+2687,CTG-1427,Topotecan,-48,
+2688,CTG-1427,Topotecan,66,
+2689,CTG-1433,Carboplatin,14,Ovarian
+2690,CTG-1433,Carboplatin,-21,Ovarian
+2691,CTG-1433,Carboplatin,53,Ovarian
+2692,CTG-1433,Paclitaxel,-21,Ovarian
+2693,CTG-1433,Paclitaxel,53,Ovarian
+2694,CTG-1433,Doxorubicin,74,Ovarian
+2695,CTG-1433,Gemcitabine,85,Ovarian
+2696,CTG-1433,Nab-paclitaxel,85,Ovarian
+2697,CTG-1433,Liposomal doxorubicin,17,Ovarian
+2698,CTG-1437,5-Fluorouracil,22,Myoepithelioma
+2699,CTG-1437,Carboplatin,102,Myoepithelioma
+2700,CTG-1437,Paclitaxel,102,Myoepithelioma
+2701,CTG-1437,Mitomycin C,120,Myoepithelioma
+2702,CTG-1437,Sunitinib,87,Myoepithelioma
+2703,CTG-1438,Carboplatin,41,Germ cell
+2704,CTG-1438,Paclitaxel,41,Germ cell
+2705,CTG-1438,Doxorubicin,95,Germ cell
+2706,CTG-1438,Temozolomide,17,Germ cell
+2707,CTG-1438,Temsirolimus,76,Germ cell
+2708,CTG-1438,Temsirolimus,82,Germ cell
+2709,CTG-1441,Carboplatin,86,NSCLC
+2710,CTG-1441,Carboplatin,99,NSCLC
+2711,CTG-1441,Paclitaxel,86,NSCLC
+2712,CTG-1441,Paclitaxel,99,NSCLC
+2713,CTG-1442,Cetuximab,15,
+2714,CTG-1442,Everolimus,85,
+2715,CTG-1442,Sorafenib,53,
+2716,CTG-1442,Vinorelbine,70,
+2717,CTG-1443,5-Fluorouracil,68,Head and neck
+2718,CTG-1443,Oxaliplatin,68,Head and neck
+2719,CTG-1443,Capecitabine,75,Head and neck
+2720,CTG-1443,Docetaxel,75,Head and neck
+2721,CTG-1443,Irinotecan,32,Head and neck
+2722,CTG-1443,Cisplatin,96,Head and neck
+2723,CTG-1443,Mitomycin C,96,Head and neck
+2724,CTG-1443,Oxaliplatin,67,Head and neck
+2725,CTG-1443,Pemetrexed,67,Head and neck
+2726,CTG-1443,Everolimus,104,Head and neck
+2727,CTG-1443,Sorafenib,104,Head and neck
+2728,CTG-1443,Temsirolimus,166,Head and neck
+2729,CTG-1443,Topotecan,166,Head and neck
+2730,CTG-1443,Bortezomib,96,Head and neck
+2731,CTG-1443,Temsirolimus,96,Head and neck
+2732,CTG-1443,Topotecan,96,Head and neck
+2733,CTG-1443,Bortezomib,51,Head and neck
+2734,CTG-1443,Vorinostat,51,Head and neck
+2735,CTG-1448,Carboplatin,88,Ovarian
+2736,CTG-1448,Paclitaxel,88,Ovarian
+2737,CTG-1448,Liposomal doxorubicin,72,Ovarian
+2738,CTG-1450,Eribulin,53,Sarcoma
+2739,CTG-1450,Temozolomide,19,Sarcoma
+2740,CTG-1457,Carboplatin,27,Sarcoma
+2741,CTG-1457,Methotrexate,-24,Sarcoma
+2742,CTG-1458,Cyclophosphamide,27,Sarcoma
+2743,CTG-1458,Docetaxel,102,Sarcoma
+2744,CTG-1458,Gemcitabine,102,Sarcoma
+2745,CTG-1458,Pazopanib,53,Sarcoma
+2746,CTG-1458,Pazopanib,111,Sarcoma
+2747,CTG-1458,Trabectedin,-10,Sarcoma
+2748,CTG-1462,5-Fluorouracil,97,
+2749,CTG-1462,Irinotecan,97,
+2750,CTG-1462,5-Fluorouracil,109,
+2751,CTG-1462,Irinotecan,109,
+2752,CTG-1462,Oxaliplatin,109,
+2753,CTG-1462,Gemcitabine,41,
+2754,CTG-1462,Gemcitabine,60,
+2755,CTG-1462,Gemcitabine,74,
+2756,CTG-1462,Gemcitabine,57,
+2757,CTG-1462,Gemcitabine,89,
+2758,CTG-1462,Gemcitabine,102,
+2759,CTG-1462,Nab-paclitaxel,57,
+2760,CTG-1462,Nab-paclitaxel,89,
+2761,CTG-1462,Nab-paclitaxel,102,
+2762,CTG-1462,Paclitaxel,72,
+2763,CTG-1462,Paclitaxel,85,
+2764,CTG-1471,Carmustine,93,Melanoma
+2765,CTG-1471,Cisplatin,93,Melanoma
+2766,CTG-1471,Dacarbazine,93,Melanoma
+2767,CTG-1471,Mitomycin C,54,Melanoma
+2768,CTG-1471,Nivolumab,24,Melanoma
+2769,CTG-1471,Trametinib,24,Melanoma
+2770,CTG-1472,Mitomycin C,59,Colorectal
+2771,CTG-1472,Vorinostat,59,Colorectal
+2772,CTG-1475,Eribulin,196,Breast
+2773,CTG-1475,Everolimus,134,Breast
+2774,CTG-1475,Gemcitabine,120,Breast
+2775,CTG-1475,Ixabepilone,11,Breast
+2776,CTG-1475,Neratinib,126,Breast
+2777,CTG-1475,Trastuzumab,65,Breast
+2778,CTG-1475,Trastuzumab emtansine,137,Breast
+2779,CTG-1475,Neratinib,134,Breast
+2780,CTG-1475,Trastuzumab emtansine,134,Breast
+2781,CTG-1476,Eribulin,102,Peritoneal carcinoma
+2782,CTG-1476,Everolimus,90,Peritoneal carcinoma
+2783,CTG-1476,Topotecan,52,Peritoneal carcinoma
+2784,CTG-1477,Gemcitabine,103,Pancreatic
+2785,CTG-1477,Gemcitabine,94,Pancreatic
+2786,CTG-1477,Nab-paclitaxel,94,Pancreatic
+2787,CTG-1481,Docetaxel,73,Sarcoma
+2788,CTG-1481,Gemcitabine,73,Sarcoma
+2789,CTG-1481,Trabectedin,113,Sarcoma
+2790,CTG-1482,Everolimus,57,Sarcoma
+2791,CTG-1482,Docetaxel,99,Sarcoma
+2792,CTG-1482,Gemcitabine,99,Sarcoma
+2793,CTG-1482,Pazopanib,16,Sarcoma
+2794,CTG-1482,Pazopanib,29,Sarcoma
+2795,CTG-1482,Vincristine,66,Sarcoma
+2796,CTG-1482,Vincristine,83,Sarcoma
+2797,CTG-1484,Regorafenib,74,Colorectal
+2798,CTG-1485,Mitomycin C,24,Pancreatic
+2799,CTG-1485,Docetaxel,95,Pancreatic
+2800,CTG-1485,Temsirolimus,95,Pancreatic
+2801,CTG-1489,Aflibercept,72,Colorectal
+2802,CTG-1489,Regorafenib,87,Colorectal
+2803,CTG-1493,5-Fluorouracil,-58,Colorectal
+2804,CTG-1493,Irinotecan,-58,Colorectal
+2805,CTG-1496,Gemcitabine,33,Colorectal
+2806,CTG-1496,Nab-paclitaxel,33,Colorectal
+2807,CTG-1498,Carboplatin,137,Ovarian
+2808,CTG-1498,Carboplatin,115,Ovarian
+2809,CTG-1498,Paclitaxel,115,Ovarian
+2810,CTG-1498,Liposomal doxorubicin,79,Ovarian
+2811,CTG-1498,Olaparib,93,Ovarian
+2812,CTG-1498,Rucaparib,159,Ovarian
+2813,CTG-1502,Bevacizumab,89,NSCLC
+2814,CTG-1502,Carboplatin,89,NSCLC
+2815,CTG-1502,Gemcitabine,89,NSCLC
+2816,CTG-1502,Carboplatin,40,NSCLC
+2817,CTG-1502,Carboplatin,65,NSCLC
+2818,CTG-1502,Paclitaxel,40,NSCLC
+2819,CTG-1502,Paclitaxel,65,NSCLC
+2820,CTG-1502,Bevacizumab,55,NSCLC
+2821,CTG-1502,Carboplatin,55,NSCLC
+2822,CTG-1502,Pemetrexed,55,NSCLC
+2823,CTG-1502,Bevacizumab,111,NSCLC
+2824,CTG-1502,Carboplatin,111,NSCLC
+2825,CTG-1502,Vinorelbine,111,NSCLC
+2826,CTG-1502,Gemcitabine,95,NSCLC
+2827,CTG-1502,Nab-paclitaxel,95,NSCLC
+2828,CTG-1502,Irinotecan,61,NSCLC
+2829,CTG-1502,Paclitaxel,79,NSCLC
+2830,CTG-1502,Pemetrexed,16,NSCLC
+2831,CTG-1502,Vinorelbine,74,NSCLC
+2832,CTG-1509,5-Fluorouracil,28,Colorectal
+2833,CTG-1509,Mitomycin C,28,Colorectal
+2834,CTG-1509,Bevacizumab,43,Colorectal
+2835,CTG-1509,Gemcitabine,7,Colorectal
+2836,CTG-1509,Temsirolimus,74,Colorectal
+2837,CTG-1520,Carboplatin,27,Breast
+2838,CTG-1520,Paclitaxel,27,Breast
+2839,CTG-1520,Cetuximab,-33,Breast
+2840,CTG-1520,Eribulin,139,Breast
+2841,CTG-1520,Docetaxel,95,Breast
+2842,CTG-1520,Everolimus,95,Breast
+2843,CTG-1520,Paclitaxel,10,Breast
+2844,CTG-1522,Everolimus,93,Pancreatic
+2845,CTG-1522,Sunitinib,93,Pancreatic
+2846,CTG-1522,Gemcitabine,82,Pancreatic
+2847,CTG-1524,Everolimus,145,Sarcoma
+2848,CTG-1524,Bevacizumab,5,Sarcoma
+2849,CTG-1524,Paclitaxel,5,Sarcoma
+2850,CTG-1524,Pazopanib,67,Sarcoma
+2851,CTG-1535,Cisplatin,159,NSCLC
+2852,CTG-1535,Docetaxel,156,NSCLC
+2853,CTG-1542,Cyclophosphamide,15,Sarcoma
+2854,CTG-1542,Cyclophosphamide,8,Sarcoma
+2855,CTG-1542,Topotecan,8,Sarcoma
+2856,CTG-1542,Topotecan,21,Sarcoma
+2857,CTG-1543,Gemcitabine,-31,Testicular
+2858,CTG-1543,Oxaliplatin,-31,Testicular
+2859,CTG-1548,Cyclophosphamide,43,Sarcoma
+2860,CTG-1548,Doxorubicin,50,Sarcoma
+2861,CTG-1549,Docetaxel,9,Sarcoma
+2862,CTG-1549,Gemcitabine,9,Sarcoma
+2863,CTG-1549,Doxorubicin,45,Sarcoma
+2864,CTG-1549,Ifosfamide,45,Sarcoma
+2865,CTG-1551,Bevacizumab,52,Small intestinal/Small bowel
+2866,CTG-1551,Capecitabine,52,Small intestinal/Small bowel
+2867,CTG-1551,Capecitabine,80,Small intestinal/Small bowel
+2868,CTG-1551,Oxaliplatin,80,Small intestinal/Small bowel
+2869,CTG-1551,Eribulin,50,Small intestinal/Small bowel
+2870,CTG-1551,Gemcitabine,64,Small intestinal/Small bowel
+2871,CTG-1553,Sorafenib,73,Colorectal
+2872,CTG-1553,Sunitinib,46,Colorectal
+2873,CTG-1553,Temsirolimus,61,Colorectal
+2874,CTG-1554,Dacarbazine,106,Sarcoma
+2875,CTG-1554,Dacarbazine,90,Sarcoma
+2876,CTG-1554,Irinotecan,90,Sarcoma
+2877,CTG-1554,Doxorubicin,90,Sarcoma
+2878,CTG-1554,Doxorubicin,103,Sarcoma
+2879,CTG-1554,Dacarbazine,82,Sarcoma
+2880,CTG-1554,Pazopanib,82,Sarcoma
+2881,CTG-1554,Sunitinib,27,Sarcoma
+2882,CTG-1554,Trabectedin,-70,Sarcoma
+2883,CTG-1561,Niraparib,151,Uterine
+2884,CTG-1572,Carboplatin,-3,Sarcoma
+2885,CTG-1572,Gemcitabine,-3,Sarcoma
+2886,CTG-1577,Gemcitabine,24,Endometrial
+2887,CTG-1579,Mitomycin C,124,Colorectal
+2888,CTG-1579,Regorafenib,87,Colorectal
+2889,CTG-1587,Docetaxel,-42,Sarcoma
+2890,CTG-1587,Gemcitabine,-42,Sarcoma
+2891,CTG-1587,Doxorubicin,-16,Sarcoma
+2892,CTG-1587,Ifosfamide,-16,Sarcoma
+2893,CTG-1587,Pazopanib,-41,Sarcoma
+2894,CTG-1587,Trabectedin,21,Sarcoma
+2895,CTG-1602,Carboplatin,58,Ovarian
+2896,CTG-1602,Carboplatin,61,Ovarian
+2897,CTG-1602,Carboplatin,129,Ovarian
+2898,CTG-1602,Paclitaxel,129,Ovarian
+2899,CTG-1602,Liposomal doxorubicin,62,Ovarian
+2900,CTG-1602,Olaparib,-222,Ovarian
+2901,CTG-1602,Olaparib,64,Ovarian
+2902,CTG-1609,Sunitinib,65,Sarcoma
+2903,CTG-1609,Imatinib,40,Sarcoma
+2904,CTG-1609,Sunitinib,40,Sarcoma
+2905,CTG-1612,Carboplatin,154,NSCLC
+2906,CTG-1612,Pemetrexed,154,NSCLC
+2907,CTG-1612,Cetuximab,40,NSCLC
+2908,CTG-1612,Paclitaxel,48,NSCLC
+2909,CTG-1612,Ramucirumab,143,NSCLC
+2910,CTG-1612,Vinorelbine,100,NSCLC
+2911,CTG-1624,Carboplatin,139,Ovarian
+2912,CTG-1624,Paclitaxel,139,Ovarian
+2913,CTG-1624,Liposomal doxorubicin,82,Ovarian
+2914,CTG-1627,Carboplatin,35,Ovarian
+2915,CTG-1627,Carboplatin,101,Ovarian
+2916,CTG-1627,Paclitaxel,35,Ovarian
+2917,CTG-1627,Paclitaxel,101,Ovarian
+2918,CTG-1627,Liposomal doxorubicin,57,Ovarian
+2919,CTG-1628,Vincristine,114,
+2920,CTG-1646,Paclitaxel,-15,Breast
+2921,CTG-1647,Carboplatin,22,
+2922,CTG-1647,Paclitaxel,22,
+2923,CTG-1647,Trastuzumab emtansine,20,
+2924,CTG-1648,Carboplatin,56,Ovarian
+2925,CTG-1648,Paclitaxel,56,Ovarian
+2926,CTG-1648,Liposomal doxorubicin,154,Ovarian
+2927,CTG-1649,Carboplatin,110,Ovarian
+2928,CTG-1649,Paclitaxel,110,Ovarian
+2929,CTG-1649,Liposomal doxorubicin,77,Ovarian
+2930,CTG-1651,Cyclophosphamide,124,Sarcoma
+2931,CTG-1651,Cyclophosphamide,135,Sarcoma
+2932,CTG-1651,Doxorubicin,26,Sarcoma
+2933,CTG-1651,Doxorubicin,54,Sarcoma
+2934,CTG-1651,Irinotecan,150,Sarcoma
+2935,CTG-1651,Temozolomide,150,Sarcoma
+2936,CTG-1660,Docetaxel,134,Sarcoma
+2937,CTG-1660,Ifosfamide,139,Sarcoma
+2938,CTG-1663,Busulfan,102,Sarcoma
+2939,CTG-1663,Cyclophosphamide,94,Sarcoma
+2940,CTG-1663,Doxorubicin,51,Sarcoma
+2941,CTG-1663,Irinotecan,146,Sarcoma
+2942,CTG-1663,Temozolomide,146,Sarcoma
+2943,CTG-1663,Irinotecan,95,Sarcoma
+2944,CTG-1663,Pazopanib,95,Sarcoma
+2945,CTG-1663,Temozolomide,95,Sarcoma
+2946,CTG-1663,Melphalan,128,Sarcoma
+2947,CTG-1663,Pazopanib,61,Sarcoma
+2948,CTG-1664,Carboplatin,70,Sarcoma
+2949,CTG-1664,Carboplatin,124,Sarcoma
+2950,CTG-1664,Ifosfamide,157,Sarcoma
+2951,CTG-1664,Trabectedin,163,Sarcoma
+2952,CTG-1664,Vinorelbine,142,Sarcoma
+2953,CTG-1677,Carboplatin,96,Ovarian
+2954,CTG-1677,Paclitaxel,96,Ovarian
+2955,CTG-1677,Liposomal doxorubicin,38,Ovarian
+2956,CTG-1678,Carboplatin,100,Ovarian
+2957,CTG-1678,Paclitaxel,100,Ovarian
+2958,CTG-1678,Liposomal doxorubicin,96,Ovarian
+2959,CTG-1680,Doxorubicin,93,NSCLC
+2960,CTG-1680,Etoposide,22,NSCLC
+2961,CTG-1680,Paclitaxel,98,NSCLC
+2962,CTG-1680,Vinorelbine,131,NSCLC
+2963,CTG-1692,Carboplatin,131,Ovarian
+2964,CTG-1692,Carboplatin,141,Ovarian
+2965,CTG-1692,Paclitaxel,131,Ovarian
+2966,CTG-1692,Paclitaxel,141,Ovarian
+2967,CTG-1692,Gemcitabine,109,Ovarian
+2968,CTG-1692,Liposomal doxorubicin,91,Ovarian
+2969,CTG-1692,Liposomal doxorubicin,93,Ovarian
+2970,CTG-1695,Cyclophosphamide,210,Sarcoma
+2971,CTG-1695,Doxorubicin,71,Sarcoma
+2972,CTG-1695,Erlotinib,93,Sarcoma
+2973,CTG-1695,Ifosfamide,154,Sarcoma
+2974,CTG-1695,Irinotecan,170,Sarcoma
+2975,CTG-1695,Temozolomide,170,Sarcoma
+2976,CTG-1695,Lapatinib,-9,Sarcoma
+2977,CTG-1695,Paclitaxel,146,Sarcoma
+2978,CTG-1695,Trabectedin,53,Sarcoma
+2979,CTG-1701,Irinotecan,75,Colorectal
+2980,CTG-1701,Mitomycin C,58,Colorectal
+2981,CTG-1701,Regorafenib,70,Colorectal
+2982,CTG-1702,Carboplatin,-50,Sarcoma
+2983,CTG-1702,Carboplatin,38,Sarcoma
+2984,CTG-1702,Methotrexate,-50,Sarcoma
+2985,CTG-1702,Methotrexate,38,Sarcoma
+2986,CTG-1702,Vinblastine,-50,Sarcoma
+2987,CTG-1702,Vinblastine,38,Sarcoma
+2988,CTG-1702,Everolimus,109,Sarcoma
+2989,CTG-1702,Exemestane,109,Sarcoma
+2990,CTG-1702,Sorafenib,-34,Sarcoma
+2991,CTG-1703,Carboplatin,102,Ovarian
+2992,CTG-1703,Carboplatin,165,Ovarian
+2993,CTG-1703,Paclitaxel,102,Ovarian
+2994,CTG-1703,Paclitaxel,165,Ovarian
+2995,CTG-1703,Liposomal doxorubicin,75,Ovarian
+2996,CTG-1703,Liposomal doxorubicin,80,Ovarian
+2997,CTG-1703,Liposomal doxorubicin,84,Ovarian
+2998,CTG-1703,Olaparib,61,Ovarian
+2999,CTG-1709,Docetaxel,244,Esophageal
+3000,CTG-1709,Ramucirumab,244,Esophageal
+3001,CTG-1741,Everolimus,83,Esophageal
+3002,CTG-1766,5-Fluorouracil,107,Gastric
+3003,CTG-1766,Irinotecan,107,Gastric
+3004,CTG-1766,Oxaliplatin,107,Gastric
+3005,CTG-1766,Cisplatin,125,Gastric
+3006,CTG-1766,Gemcitabine,125,Gastric
+3007,CTG-1766,Paclitaxel,111,Gastric
+3008,CTG-1766,Ramucirumab,111,Gastric
+3009,CTG-1769,Carboplatin,6,Melanoma
+3010,CTG-1769,Carboplatin,29,Melanoma
+3011,CTG-1769,Nivolumab,23,Melanoma
+3012,CTG-1769,Temozolomide,122,Melanoma
+3013,CTG-1769,Temozolomide,137,Melanoma
+3014,CTG-1789,Carboplatin,124,Ovarian
+3015,CTG-1789,Paclitaxel,124,Ovarian
+3016,CTG-1789,Liposomal doxorubicin,116,Ovarian
+3017,CTG-1789,Liposomal doxorubicin,128,Ovarian
+3018,CTG-1789,Olaparib,79,Ovarian
+3019,CTG-1809,Carboplatin,100,Ovarian
+3020,CTG-1809,Paclitaxel,100,Ovarian
+3021,CTG-1809,Liposomal doxorubicin,78,Ovarian
+3022,CTG-1825,Aflibercept,101,Colorectal
+3023,CTG-1825,Mitomycin C,116,Colorectal
+3024,CTG-1825,Mitomycin C,142,Colorectal
+3025,CTG-1834,Bevacizumab,73,Ovarian
+3026,CTG-1834,Bevacizumab,137,Ovarian
+3027,CTG-1834,Everolimus,73,Ovarian
+3028,CTG-1834,Everolimus,137,Ovarian
+3029,CTG-1834,Gemcitabine,73,Ovarian
+3030,CTG-1834,Gemcitabine,137,Ovarian
+3031,CTG-1834,Everolimus,82,Ovarian
+3032,CTG-1834,Everolimus,130,Ovarian
+3033,CTG-1834,Letrozole,82,Ovarian
+3034,CTG-1834,Letrozole,130,Ovarian
+3035,CTG-1834,Metformin,82,Ovarian
+3036,CTG-1834,Metformin,130,Ovarian
+3037,CTG-1834,Bevacizumab,97,Ovarian
+3038,CTG-1834,Gemcitabine,97,Ovarian
+3039,CTG-1868,Carboplatin,31,Gastric
+3040,CTG-1868,Carboplatin,49,Gastric
+3041,CTG-1868,Etoposide,31,Gastric
+3042,CTG-1868,Etoposide,49,Gastric
+3043,CTG-1868,Cisplatin,85,Gastric
+3044,CTG-1868,Gemcitabine,57,Gastric
+3045,CTG-1868,Gemcitabine,72,Gastric
+3046,CTG-1868,Mitomycin C,138,Gastric
+3047,CTG-1868,Ramucirumab,82,Gastric
+3048,CTG-1876,Cetuximab,93,Esophageal
+3049,CTG-1876,Erlotinib,92,Esophageal
+3050,CTG-1876,Irinotecan,111,Esophageal
+3051,CTG-1877,Gemcitabine,105,Sarcoma
+3052,CTG-1877,Liposomal doxorubicin,100,Sarcoma
+3053,CTG-1877,Liposomal doxorubicin,207,Sarcoma
+3054,CTG-1877,Pazopanib,82,Sarcoma
+3055,CTG-1877,Temozolomide,80,Sarcoma
+3056,CTG-1882,5-Fluorouracil,89,Colorectal
+3057,CTG-1882,Bevacizumab,89,Colorectal
+3058,CTG-1882,Irinotecan,89,Colorectal
+3059,CTG-1882,Oxaliplatin,89,Colorectal
+3060,CTG-1882,5-Fluorouracil,85,Colorectal
+3061,CTG-1882,Oxaliplatin,85,Colorectal
+3062,CTG-1882,Regorafenib,64,Colorectal
+3063,CTG-1909,Paclitaxel,17,Breast
+3064,CTG-1932,Gemcitabine,139,NSCLC
+3065,CTG-1932,Ipilimumab,-2,NSCLC
+3066,CTG-1932,Ipilimumab,16,NSCLC
+3067,CTG-1932,Nivolumab,-2,NSCLC
+3068,CTG-1932,Nivolumab,16,NSCLC
+3069,CTG-1932,Nivolumab,-5,NSCLC
+3070,CTG-1932,Nivolumab,1,NSCLC
+3071,CTG-1932,Nivolumab,12,NSCLC
+3072,CTG-1932,Paclitaxel,78,NSCLC
+3073,CTG-1932,Vinorelbine,153,NSCLC
+3074,CTG-1941,Trastuzumab emtansine,55,Breast
+3075,CTG-1941,Trastuzumab emtansine,89,Breast
+3076,CTG-1948,Irinotecan,115,Colorectal
+3077,CTG-1948,Irinotecan,127,Colorectal
+3078,CTG-1948,Regorafenib,95,Colorectal
+3079,CTG-1948,Temsirolimus,117,Colorectal
+3080,CTG-1948,Temsirolimus,140,Colorectal
+3081,CTG-1983,Mitomycin C,124,Pancreatic
+3082,CTG-1990,Bortezomib,45,Head and neck
+3083,CTG-1990,Oxaliplatin,56,Head and neck
+3084,CTG-1990,Paclitaxel,70,Head and neck
+3085,CTG-1990,Everolimus,66,Head and neck
+3086,CTG-1990,Everolimus,101,Head and neck
+3087,CTG-1990,Sorafenib,66,Head and neck
+3088,CTG-1990,Sorafenib,101,Head and neck
+3089,CTG-1990,Bortezomib,35,Head and neck
+3090,CTG-1990,Temsirolimus,35,Head and neck
+3091,CTG-1990,Topotecan,35,Head and neck
+3092,CTG-1990,Topotecan,68,Head and neck
+3093,CTG-2003,Cabazitaxel,159,Sarcoma
+3094,CTG-2003,Cyclophosphamide,70,Sarcoma
+3095,CTG-2003,Cyclophosphamide,121,Sarcoma
+3096,CTG-2003,Doxorubicin,49,Sarcoma
+3097,CTG-2003,Doxorubicin,55,Sarcoma
+3098,CTG-2003,Docetaxel,165,Sarcoma
+3099,CTG-2003,Gemcitabine,165,Sarcoma
+3100,CTG-2003,Irinotecan,98,Sarcoma
+3101,CTG-2003,Temozolomide,98,Sarcoma
+3102,CTG-2003,Pazopanib,113,Sarcoma
+3103,CTG-2003,Sirolimus,113,Sarcoma
+3104,CTG-2003,Irinotecan,121,Sarcoma
+3105,CTG-2003,Irinotecan,122,Sarcoma
+3106,CTG-2003,Temozolomide,121,Sarcoma
+3107,CTG-2003,Temozolomide,122,Sarcoma
+3108,CTG-2003,Vincristine,121,Sarcoma
+3109,CTG-2003,Vincristine,122,Sarcoma
+3110,CTG-2004,Eribulin,108,Sarcoma
+3111,CTG-2004,Sunitinib,77,Sarcoma
+3112,CTG-2004,Temozolomide,115,Sarcoma
+3113,CTG-2004,Trabectedin,96,Sarcoma
+3114,CTG-2004,Vinorelbine,126,Sarcoma
+3115,CTG-2005,Doxorubicin,24,Colorectal
+3116,CTG-2005,Mitomycin C,136,Colorectal
+3117,CTG-2005,Mitomycin C,155,Colorectal
+3118,CTG-2005,Regorafenib,149,Colorectal
+3119,CTG-2007,Paclitaxel,-153,Pancreatic
+3120,CTG-2021,Trabectedin,112,Sarcoma
+3121,CTG-2021,Trabectedin,200,Sarcoma
+3122,CTG-2025,Carboplatin,217,Ovarian
+3123,CTG-2025,Paclitaxel,217,Ovarian
+3124,CTG-2025,Liposomal doxorubicin,118,Ovarian
+3125,CTG-2041,Eribulin,193,Sarcoma
+3126,CTG-2061,Carboplatin,78,Breast
+3127,CTG-2061,Cyclophosphamide,78,Breast
+3128,CTG-2061,Doxorubicin,78,Breast
+3129,CTG-2061,Paclitaxel,78,Breast
+3130,CTG-2073,Doxorubicin,145,Sarcoma
+3131,CTG-2073,Docetaxel,202,Sarcoma
+3132,CTG-2073,Gemcitabine,202,Sarcoma
+3133,CTG-2073,Pazopanib,79,Sarcoma
+3134,CTG-2076,Cyclophosphamide,124,Sarcoma
+3135,CTG-2076,Cyclophosphamide,164,Sarcoma
+3136,CTG-2076,Cyclophosphamide,178,Sarcoma
+3137,CTG-2076,Topotecan,164,Sarcoma
+3138,CTG-2076,Topotecan,178,Sarcoma
+3139,CTG-2076,Doxorubicin,73,Sarcoma
+3140,CTG-2076,Cyclophosphamide,171,Sarcoma
+3141,CTG-2076,Gemcitabine,171,Sarcoma
+3142,CTG-2076,Ifosfamide,114,Sarcoma
+3143,CTG-2076,Pazopanib,25,Sarcoma
+3144,CTG-2087,Paclitaxel,35,Esophageal
+3145,CTG-2087,Paclitaxel,91,Esophageal
+3146,CTG-2087,Paclitaxel,140,Esophageal
+3147,CTG-2087,Ramucirumab,140,Esophageal
+3148,CTG-2101,Mitomycin C,146,Colorectal
+3149,CTG-2101,Panitumumab,65,Colorectal
+3150,CTG-2101,Ramucirumab,38,Colorectal
+3151,CTG-2101,Regorafenib,110,Colorectal
+3152,CTG-2101,Temsirolimus,66,Colorectal
+3153,CTG-2105,Dacarbazine,154,Sarcoma
+3154,CTG-2113,Cyclophosphamide,85,Sarcoma
+3155,CTG-2113,Doxorubicin,105,Sarcoma
+3156,CTG-2113,Irinotecan,23,Sarcoma
+3157,CTG-2113,Temozolomide,23,Sarcoma
+3158,CTG-2130,Capecitabine,-32,Head and neck
+3159,CTG-2130,Capecitabine,68,Head and neck
+3160,CTG-2130,Carboplatin,119,Head and neck
+3161,CTG-2130,Paclitaxel,119,Head and neck
+3162,CTG-2130,Paclitaxel,113,Head and neck
+3163,CTG-2142,Cabazitaxel,137,Sarcoma
+3164,CTG-2142,Cabazitaxel,149,Sarcoma
+3165,CTG-2142,Cabazitaxel,156,Sarcoma
+3166,CTG-2142,Carboplatin,137,Sarcoma
+3167,CTG-2142,Carboplatin,149,Sarcoma
+3168,CTG-2142,Carboplatin,156,Sarcoma
+3169,CTG-2143,Doxorubicin,133,NSCLC
+3170,CTG-2143,Gemcitabine,69,NSCLC
+3171,CTG-2143,Pemetrexed,-5,NSCLC
+3172,CTG-2143,Trametinib,101,NSCLC
+3173,CTG-2143,Vinorelbine,75,NSCLC
+3174,CTG-2145,Dacarbazine,25,Sarcoma
+3175,CTG-2145,Dasatinib,-40,Sarcoma
+3176,CTG-2145,Gemcitabine,-28,Sarcoma
+3177,CTG-2145,Ifosfamide,62,Sarcoma
+3178,CTG-2145,Pazopanib,6,Sarcoma
+3179,CTG-2145,Sirolimus,84,Sarcoma
+3180,CTG-2153,Bevacizumab,112,Sarcoma
+3181,CTG-2153,Docetaxel,112,Sarcoma
+3182,CTG-2153,Gemcitabine,112,Sarcoma
+3183,CTG-2153,Pazopanib,101,Sarcoma
+3184,CTG-2166,Carboplatin,107,Sarcoma
+3185,CTG-2166,Paclitaxel,107,Sarcoma
+3186,CTG-2166,Bevacizumab,128,Sarcoma
+3187,CTG-2166,Paclitaxel,128,Sarcoma
+3188,CTG-2166,Pazopanib,112,Sarcoma
+3189,CTG-2174,Carboplatin,-15,Sarcoma
+3190,CTG-2174,Cyclophosphamide,79,Sarcoma
+3191,CTG-2174,Doxorubicin,34,Sarcoma
+3192,CTG-2174,Irinotecan,145,Sarcoma
+3193,CTG-2174,Temozolomide,145,Sarcoma
+3194,CTG-2178,Etoposide,69,Bladder
+3195,CTG-2178,Everolimus,68,Bladder
+3196,CTG-2178,Everolimus,99,Bladder
+3197,CTG-2178,Pazopanib,113,Bladder
+3198,CTG-2178,Cyclophosphamide,-3,Bladder
+3199,CTG-2178,Cyclophosphamide,48,Bladder
+3200,CTG-2178,Cyclophosphamide,101,Bladder
+3201,CTG-2178,Doxorubicin,-3,Bladder
+3202,CTG-2178,Doxorubicin,48,Bladder
+3203,CTG-2178,Doxorubicin,101,Bladder
+3204,CTG-2178,Vincristine,-3,Bladder
+3205,CTG-2178,Vincristine,48,Bladder
+3206,CTG-2178,Vincristine,101,Bladder
+3207,CTG-2207,Ifosfamide,151,Sarcoma
+3208,CTG-2207,Vinorelbine,102,Sarcoma
+3209,CTG-2208,Cisplatin,207,Breast
+3210,CTG-2212,Carboplatin,120,
+3211,CTG-2212,Gemcitabine,189,
+3212,CTG-2212,Temozolomide,148,
+3213,CTG-2213,Eribulin,19,Ovarian
+3214,CTG-2213,Olaparib,46,Ovarian
+3215,CTG-2213,Temozolomide,125,Ovarian
+3216,CTG-2215,5-Fluorouracil,71,Breast
+3217,CTG-2215,5-Fluorouracil,123,Breast
+3218,CTG-2215,Vinorelbine,71,Breast
+3219,CTG-2215,Vinorelbine,123,Breast
+3220,CTG-2215,Olaparib,81,Breast
+3221,CTG-2215,Bevacizumab,110,Breast
+3222,CTG-2215,Paclitaxel,110,Breast
+3223,CTG-2218,Cetuximab,66,Cholangiocarcinoma
+3224,CTG-2218,Docetaxel,126,Cholangiocarcinoma
+3225,CTG-2218,Irinotecan,157,Cholangiocarcinoma
+3226,CTG-2220,Capecitabine,91,Breast
+3227,CTG-2220,Carboplatin,19,Breast
+3228,CTG-2220,Gemcitabine,55,Breast
+3229,CTG-2247,Docetaxel,133,Sarcoma
+3230,CTG-2247,Docetaxel,164,Sarcoma
+3231,CTG-2247,Gemcitabine,133,Sarcoma
+3232,CTG-2247,Gemcitabine,164,Sarcoma
+3233,CTG-2247,Doxorubicin,82,Sarcoma
+3234,CTG-2247,Doxorubicin,90,Sarcoma
+3235,CTG-2247,Ifosfamide,82,Sarcoma
+3236,CTG-2247,Ifosfamide,90,Sarcoma
+3237,CTG-2247,Pazopanib,98,Sarcoma
+3238,CTG-2247,Pazopanib,99,Sarcoma
+3239,CTG-2247,Sirolimus,75,Sarcoma
+3240,CTG-2247,Sunitinib,60,Sarcoma
+3241,CTG-2250,Dacarbazine,100,Sarcoma
+3242,CTG-2250,Everolimus,116,Sarcoma
+3243,CTG-2250,Pazopanib,116,Sarcoma
+3244,CTG-2250,Ixabepilone,49,Sarcoma
+3245,CTG-2250,Paclitaxel,51,Sarcoma
+3246,CTG-2250,Pazopanib,91,Sarcoma
+3247,CTG-2250,Sorafenib,90,Sarcoma
+3248,CTG-2250,Trabectedin,121,Sarcoma
+3249,CTG-2250,Trabectedin,132,Sarcoma
+3250,CTG-2250,Vinorelbine,39,Sarcoma
+3251,CTG-2252,Cyclophosphamide,142,Sarcoma
+3252,CTG-2252,Pazopanib,142,Sarcoma
+3253,CTG-2252,Irinotecan,194,Sarcoma
+3254,CTG-2252,Temozolomide,194,Sarcoma
+3255,CTG-2264,Docetaxel,67,Sarcoma
+3256,CTG-2264,Gemcitabine,67,Sarcoma
+3257,CTG-2264,Sorafenib,85,Sarcoma
+3258,CTG-2265,Dacarbazine,-24,Sarcoma
+3259,CTG-2265,Dacarbazine,93,Sarcoma
+3260,CTG-2265,Gemcitabine,109,Sarcoma
+3261,CTG-2265,Ifosfamide,-11,Sarcoma
+3262,CTG-2266,Carboplatin,82,Sarcoma
+3263,CTG-2266,Dasatinib,94,Sarcoma
+3264,CTG-2266,Erlotinib,43,Sarcoma
+3265,CTG-2266,Gemcitabine,51,Sarcoma
+3266,CTG-2266,Ifosfamide,52,Sarcoma
+3267,CTG-2266,Imatinib,70,Sarcoma
+3268,CTG-2266,Nilotinib,80,Sarcoma
+3269,CTG-2266,Pazopanib,64,Sarcoma
+3270,CTG-2266,Sirolimus,87,Sarcoma
+3271,CTG-2266,Sorafenib,57,Sarcoma
+3272,CTG-2266,Sunitinib,57,Sarcoma
+3273,CTG-2266,Vinorelbine,64,Sarcoma
+3274,CTG-2266,Vorinostat,8,Sarcoma
+3275,CTG-2281,Oxaliplatin,47,Colorectal
+3276,CTG-2281,Pazopanib,79,Colorectal
+3277,CTG-2281,Trabectedin,34,Colorectal
+3278,CTG-2291,Cisplatin,88,Sarcoma
+3279,CTG-2291,Etoposide,88,Sarcoma
+3280,CTG-2291,Docetaxel,110,Sarcoma
+3281,CTG-2291,Gemcitabine,110,Sarcoma
+3282,CTG-2291,Doxorubicin,112,Sarcoma
+3283,CTG-2291,Ifosfamide,112,Sarcoma
+3284,CTG-2291,Etoposide,71,Sarcoma
+3285,CTG-2291,Ifosfamide,71,Sarcoma
+3286,CTG-2291,Pazopanib,98,Sarcoma
+3287,CTG-2291,Trabectedin,82,Sarcoma
+3288,CTG-2297,Everolimus,60,Endometrial
+3289,CTG-2297,Exemestane,60,Endometrial
+3290,CTG-2297,Gemcitabine,103,Endometrial
+3291,CTG-2299,Carboplatin,129,Ovarian
+3292,CTG-2299,Paclitaxel,129,Ovarian
+3293,CTG-2299,Liposomal doxorubicin,94,Ovarian
+3294,CTG-2308,Everolimus,145,Breast
+3295,CTG-2308,Exemestane,-58,Breast
+3296,CTG-2308,Fulvestrant,29,Breast
+3297,CTG-2308,Fulvestrant,63,Breast
+3298,CTG-2308,Letrozole,-6,Breast
+3299,CTG-2308,Letrozole,93,Breast
+3300,CTG-2308,Palbociclib,93,Breast
+3301,CTG-2308,Palbociclib,104,Breast
+3302,CTG-2308,Palbociclib,218,Breast
+3303,CTG-2308,Tamoxifen,-14,Breast
+3304,CTG-2308,Trastuzumab emtansine,-9,Breast
+3305,CTG-2308,Trastuzumab emtansine,45,Breast
+3306,CTG-2309,Docetaxel,86,Sarcoma
+3307,CTG-2309,Docetaxel,116,Sarcoma
+3308,CTG-2309,Gemcitabine,86,Sarcoma
+3309,CTG-2309,Gemcitabine,116,Sarcoma
+3310,CTG-2309,Temozolomide,47,Sarcoma
+3311,CTG-2309,Temozolomide,94,Sarcoma
+3312,CTG-2309,Temozolomide,96,Sarcoma
+3313,CTG-2313,Carboplatin,85,Ovarian
+3314,CTG-2313,Carboplatin,133,Ovarian
+3315,CTG-2313,Paclitaxel,85,Ovarian
+3316,CTG-2313,Paclitaxel,133,Ovarian
+3317,CTG-2313,Liposomal doxorubicin,143,Ovarian
+3318,CTG-2313,Liposomal doxorubicin,164,Ovarian
+3319,CTG-2313,Olaparib,64,Ovarian
+3320,CTG-2323,5-Fluorouracil,93,Sarcoma
+3321,CTG-2323,Docetaxel,78,Sarcoma
+3322,CTG-2323,Methotrexate,25,Sarcoma
+3323,CTG-2344,Cetuximab,147,Head and neck
+3324,CTG-2344,Cetuximab,101,Head and neck
+3325,CTG-2344,Paclitaxel,101,Head and neck
+3326,CTG-2344,Gemcitabine,56,Head and neck
+3327,CTG-2344,Methotrexate,24,Head and neck
+3328,CTG-2344,Paclitaxel,89,Head and neck
+3329,CTG-2347,Sorafenib,75,Pancreatic
+3330,CTG-2347,Topotecan,92,Pancreatic
+3331,CTG-2347,Cisplatin,41,Pancreatic
+3332,CTG-2347,Topotecan,41,Pancreatic
+3333,CTG-2351,Capecitabine,124,Colorectal
+3334,CTG-2351,Temozolomide,124,Colorectal
+3335,CTG-2351,Everolimus,59,Colorectal
+3336,CTG-2351,Gemcitabine,30,Colorectal
+3337,CTG-2351,Liposomal doxorubicin,-23,Colorectal
+3338,CTG-2351,Mitomycin C,107,Colorectal
+3339,CTG-2351,Mitomycin C,120,Colorectal
+3340,CTG-2351,Sorafenib,106,Colorectal
+3341,CTG-2351,Temozolomide,88,Colorectal
+3342,CTG-2352,Pembrolizumab,-10,Head and neck
+3343,CTG-2353,Carboplatin,99,Breast
+3344,CTG-2353,Cyclophosphamide,99,Breast
+3345,CTG-2353,Doxorubicin,99,Breast
+3346,CTG-2353,Paclitaxel,99,Breast
+3347,CTG-2355,Cisplatin,98,Sarcoma
+3348,CTG-2355,Etoposide,98,Sarcoma
+3349,CTG-2355,Docetaxel,130,Sarcoma
+3350,CTG-2355,Gemcitabine,130,Sarcoma
+3351,CTG-2355,Doxorubicin,105,Sarcoma
+3352,CTG-2355,Ifosfamide,105,Sarcoma
+3353,CTG-2355,Etoposide,98,Sarcoma
+3354,CTG-2355,Ifosfamide,98,Sarcoma
+3355,CTG-2355,Pazopanib,65,Sarcoma
+3356,CTG-2355,Trabectedin,117,Sarcoma
+3357,CTG-2360,5-Fluorouracil,105,Colorectal
+3358,CTG-2360,Irinotecan,111,Colorectal
+3359,CTG-2360,Regorafenib,148,Colorectal
+3360,CTG-2382,Docetaxel,75,Sarcoma
+3361,CTG-2382,Gemcitabine,75,Sarcoma
+3362,CTG-2382,Pazopanib,40,Sarcoma
+3363,CTG-2382,Everolimus,142,Sarcoma
+3364,CTG-2382,Temozolomide,142,Sarcoma
+3365,CTG-2387,Sorafenib,55,Adrenocortical carcinoma
+3366,CTG-2392,5-Fluorouracil,50,Pancreatic
+3367,CTG-2392,5-Fluorouracil,89,Pancreatic
+3368,CTG-2392,Oxaliplatin,89,Pancreatic
+3369,CTG-2392,Mitomycin C,-8,Pancreatic
+3370,CTG-2392,Oxaliplatin,-18,Pancreatic
+3371,CTG-2393,Carboplatin,67,NSCLC
+3372,CTG-2393,Pemetrexed,67,NSCLC
+3373,CTG-2393,Gemcitabine,120,NSCLC
+3374,CTG-2393,Paclitaxel,63,NSCLC
+3375,CTG-2405,Afatinib,238,NSCLC
+3376,CTG-2405,Osimertinib,180,NSCLC
+3377,CTG-2414,Gemcitabine,122,Other
+3378,CTG-2414,Liposomal doxorubicin,122,Other
+3379,CTG-2414,Oxaliplatin,122,Other
+3380,CTG-2414,Gefitinib,12,Other
+3381,CTG-2414,Tamoxifen,12,Other
+3382,CTG-2414,Vinorelbine,12,Other
+3383,CTG-2426,Dacarbazine,115,Sarcoma
+3384,CTG-2426,Dacarbazine,127,Sarcoma
+3385,CTG-2426,Gemcitabine,42,Sarcoma
+3386,CTG-2426,Ifosfamide,143,Sarcoma
+3387,CTG-2426,Pazopanib,85,Sarcoma
+3388,CTG-2427,Enzalutamide,-35,Prostate
+3389,CTG-2427,Enzalutamide,5,Prostate
+3390,CTG-2428,Abiraterone,-15,Prostate
+3391,CTG-2428,Enzalutamide,23,Prostate
+3392,CTG-2428,Enzalutamide,47,Prostate
+3393,CTG-2428,Enzalutamide,63,Prostate
+3394,CTG-2428,Enzalutamide,70,Prostate
+3395,CTG-2429,Enzalutamide,6,Prostate
+3396,CTG-2429,Enzalutamide,71,Prostate
+3397,CTG-2430,Enzalutamide,15,Prostate
+3398,CTG-2430,Enzalutamide,38,Prostate
+3399,CTG-2430,Enzalutamide,40,Prostate
+3400,CTG-2431,Carboplatin,95,Breast
+3401,CTG-2431,Cyclophosphamide,95,Breast
+3402,CTG-2431,Doxorubicin,95,Breast
+3403,CTG-2431,Paclitaxel,95,Breast
+3404,CTG-2436,Carboplatin,112,Breast
+3405,CTG-2436,Carboplatin,138,Breast
+3406,CTG-2436,Cyclophosphamide,112,Breast
+3407,CTG-2436,Cyclophosphamide,138,Breast
+3408,CTG-2436,Doxorubicin,112,Breast
+3409,CTG-2436,Doxorubicin,138,Breast
+3410,CTG-2436,Paclitaxel,112,Breast
+3411,CTG-2436,Paclitaxel,138,Breast
+3412,CTG-2440,Enzalutamide,3,Prostate
+3413,CTG-2440,Enzalutamide,9,Prostate
+3414,CTG-2440,Enzalutamide,60,Prostate
+3415,CTG-2440,Enzalutamide,60,Prostate
+3416,CTG-2440,Enzalutamide,97,Prostate
+3417,CTG-2441,Docetaxel,133,Prostate
+3418,CTG-2441,Enzalutamide,49,Prostate
+3419,CTG-2441,Enzalutamide,66,Prostate
+3420,CTG-2441,Enzalutamide,97,Prostate
+3421,CTG-2444,Oxaliplatin,48,Colorectal
+3422,CTG-2444,Regorafenib,77,Colorectal
+3423,CTG-2444,Regorafenib,196,Colorectal
+3424,CTG-2474,Docetaxel,145,Sarcoma
+3425,CTG-2474,Gemcitabine,145,Sarcoma
+3426,CTG-2474,Gemcitabine,93,Sarcoma
+3427,CTG-2474,Gemcitabine,103,Sarcoma
+3428,CTG-2474,Sirolimus,93,Sarcoma
+3429,CTG-2474,Sirolimus,103,Sarcoma
+3430,CTG-2474,Ifosfamide,113,Sarcoma
+3431,CTG-2474,Sirolimus,91,Sarcoma
+3432,CTG-2483,Cyclophosphamide,109,Sarcoma
+3433,CTG-2483,Topotecan,109,Sarcoma
+3434,CTG-2483,Everolimus,141,Sarcoma
+3435,CTG-2483,Nab-paclitaxel,141,Sarcoma
+3436,CTG-2483,Ifosfamide,102,Sarcoma
+3437,CTG-2483,Liposomal doxorubicin,102,Sarcoma
+3438,CTG-2508,Irinotecan,94,Cholangiocarcinoma
+3439,CTG-2508,Paclitaxel,68,Cholangiocarcinoma
+3440,CTG-2515,Carboplatin,68,Breast
+3441,CTG-2515,Cyclophosphamide,68,Breast
+3442,CTG-2515,Doxorubicin,68,Breast
+3443,CTG-2515,Paclitaxel,68,Breast
+3444,CTG-2518,Daunorubicin,41,Breast
+3445,CTG-2518,Paclitaxel,41,Breast
+3446,CTG-2518,Irinotecan,29,Breast
+3447,CTG-2518,Paclitaxel,29,Breast
+3448,CTG-2519,5-Fluorouracil,-14,Head and neck
+3449,CTG-2519,Cetuximab,32,Head and neck
+3450,CTG-2519,Cisplatin,2,Head and neck
+3451,CTG-2519,Paclitaxel,-87,Head and neck
+3452,CTG-2531,Cetuximab,187,NSCLC
+3453,CTG-2531,Osimertinib,187,NSCLC
+3454,CTG-2531,Osimertinib,174,NSCLC
+3455,CTG-2536,Trastuzumab,-14,NSCLC
+3456,CTG-2548,Cetuximab,129,NSCLC
+3457,CTG-2548,Osimertinib,129,NSCLC
+3458,CTG-2548,Osimertinib,129,NSCLC
+3459,CTG-2579,Irinotecan,95,NSCLC
+3460,CTG-2579,Trametinib,21,NSCLC
+3461,CTG-2618,Bevacizumab,95,Sarcoma
+3462,CTG-2618,Dacarbazine,61,Sarcoma
+3463,CTG-2618,Docetaxel,94,Sarcoma
+3464,CTG-2618,Gemcitabine,130,Sarcoma
+3465,CTG-2618,Docetaxel,124,Sarcoma
+3466,CTG-2618,Gemcitabine,124,Sarcoma
+3467,CTG-2618,Imatinib,33,Sarcoma
+3468,CTG-2618,Pazopanib,75,Sarcoma
+3469,CTG-2618,Trabectedin,94,Sarcoma
+3470,CTG-2652,Carboplatin,91,Breast
+3471,CTG-2652,Cyclophosphamide,91,Breast
+3472,CTG-2652,Doxorubicin,91,Breast
+3473,CTG-2652,Paclitaxel,91,Breast
+3474,CTG-2667,Doxorubicin,-28,Sarcoma
+3475,CTG-2667,Docetaxel,74,Sarcoma
+3476,CTG-2667,Gemcitabine,74,Sarcoma
+3477,CTG-2667,Ifosfamide,4,Sarcoma
+3478,CTG-2667,Pazopanib,28,Sarcoma
+3479,CTG-2667,Temozolomide,95,Sarcoma
+3480,CTG-2667,Trabectedin,73,Sarcoma
+3481,CTG-2697,Dasatinib,35,Breast
+3482,CTG-2697,Paclitaxel,35,Breast
+3483,CTG-2712,Gemcitabine,50,Colorectal
+3484,CTG-2712,Oxaliplatin,50,Colorectal
+3485,CTG-2712,Irinotecan,76,Colorectal
+3486,CTG-2712,Bevacizumab,117,Colorectal
+3487,CTG-2712,Irinotecan,117,Colorectal
+3488,CTG-2712,Irinotecan,126,Colorectal
+3489,CTG-2712,Irinotecan,193,Colorectal
+3490,CTG-2712,Oxaliplatin,126,Colorectal
+3491,CTG-2712,Oxaliplatin,193,Colorectal
+3492,CTG-2712,Regorafenib,111,Colorectal
+3493,CTG-2712,Sunitinib,108,Colorectal
+3494,CTG-2712,Sunitinib,172,Colorectal
+3495,CTG-2712,Gefitinib,112,Colorectal
+3496,CTG-2712,Tamoxifen,112,Colorectal
+3497,CTG-2712,Vinorelbine,112,Colorectal
+3498,CTG-2715,Cisplatin,100,Head and neck
+3499,CTG-2715,Doxorubicin,-35,Head and neck
+3500,CTG-2715,Gemcitabine,98,Head and neck
+3501,CTG-2715,Paclitaxel,-98,Head and neck
+3502,CTG-2722,Dacarbazine,99,Sarcoma
+3503,CTG-2722,Doxorubicin,-2,Sarcoma
+3504,CTG-2722,Docetaxel,71,Sarcoma
+3505,CTG-2722,Gemcitabine,71,Sarcoma
+3506,CTG-2722,Pazopanib,70,Sarcoma
+3507,CTG-2722,Trabectedin,24,Sarcoma
+3508,CTG-2733,Everolimus,190,Ovarian
+3509,CTG-2733,Gemcitabine,72,Ovarian
+3510,CTG-2733,Liposomal doxorubicin,60,Ovarian
+3511,CTG-2733,Rucaparib,4,Ovarian
+3512,CTG-2733,Liposomal Doxorubicin,-104,Ovarian
+3513,CTG-2733,Rucaparib,-104,Ovarian
+3514,CTG-2735,Bevacizumab,69,Sarcoma
+3515,CTG-2735,Gemcitabine,123,Sarcoma
+3516,CTG-2735,Gemcitabine,153,Sarcoma
+3517,CTG-2735,Pazopanib,-20,Sarcoma
+3518,CTG-2735,Sirolimus,121,Sarcoma
+3519,CTG-2735,Sorafenib,87,Sarcoma
+3520,CTG-2735,Sunitinib,91,Sarcoma
+3521,CTG-2735,Trabectedin,96,Sarcoma
+3522,CTG-2745,Carboplatin,91,Breast
+3523,CTG-2745,Cyclophosphamide,91,Breast
+3524,CTG-2745,Doxorubicin,91,Breast
+3525,CTG-2745,Paclitaxel,91,Breast
+3526,CTG-2768,Nivolumab,-28,Melanoma
+3527,CTG-2824,Paclitaxel,96,Other
+3528,CTG-2829,Capecitabine,105,Breast
+3529,CTG-2842,Osimertinib,58,NSCLC
+3530,CTG-2861,Cetuximab,42,Chordoma
+3531,CTG-2891,Palbociclib,54,Breast
+3532,CTG-2909,5-Fluorouracil,24,Head and neck
+3533,CTG-2909,Cetuximab,60,Head and neck
+3534,CTG-2909,Cetuximab,88,Head and neck
+3535,CTG-2909,Cisplatin,3,Head and neck
+3536,CTG-2909,Paclitaxel,55,Head and neck
+3537,CTG-2912,Irinotecan,67,NSCLC
+3538,CTG-2912,Paclitaxel,32,NSCLC
+3539,CTG-2920,Carboplatin,86,Breast
+3540,CTG-2920,Cyclophosphamide,86,Breast
+3541,CTG-2920,Doxorubicin,86,Breast
+3542,CTG-2920,Paclitaxel,86,Breast
+3543,CTG-3007,Enzalutamide,143,
+3544,CTG-3090,Capecitabine,26,Breast
+3545,CTG-3090,Capecitabine,83,Breast
+3546,CTG-3090,Everolimus,63,Breast
+3547,CTG-3090,Gemcitabine,25,Breast
+3548,CTG-3090,Gemcitabine,58,Breast
+3549,CTG-3090,Metformin,33,Breast
+3550,CTG-3090,Olaparib,86,Breast
+3551,CTG-3090,Paclitaxel,57,Breast
+3552,CTG-3160,Afatinib,120,NSCLC
+3553,CTG-3160,Afatinib,185,NSCLC
+3554,CTG-3160,Osimertinib,120,NSCLC
+3555,CTG-3160,Osimertinib,185,NSCLC
+3556,CTG-3160,Afatinib,121,NSCLC
+3557,CTG-3160,Afatinib,187,NSCLC
+3558,CTG-3160,Trametinib,121,NSCLC
+3559,CTG-3160,Trametinib,187,NSCLC
+3560,CTG-3167,Enzalutamide,43,Prostate
